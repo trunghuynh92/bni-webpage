@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bni-red: #cc0000;
+  --color-bni-dark: #1a1a2e;
+  --color-bni-navy: #1a3a5c;
+  --color-bni-slate: #3b5c78;
+  --color-bni-light: #f0f4f8;
+  --color-bni-blue-accent: #4a90d9;
+}

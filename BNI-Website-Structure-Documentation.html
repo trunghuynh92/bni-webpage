@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>BNI WA Resources 2026 – Website Structure Documentation</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 960px; margin: 40px auto; padding: 0 24px; color: #222; line-height: 1.65; }
+    h1 { color: #cc0000; border-bottom: 3px solid #cc0000; padding-bottom: 10px; }
+    h2 { color: #1a3a5c; border-bottom: 2px solid #1a3a5c; padding-bottom: 6px; margin-top: 40px; }
+    h3 { color: #2c5f8a; margin-top: 28px; }
+    h4 { color: #444; margin-top: 20px; }
+    table { border-collapse: collapse; width: 100%; margin: 16px 0; }
+    th { background: #1a3a5c; color: #fff; padding: 8px 12px; text-align: left; }
+    td { border: 1px solid #ccc; padding: 8px 12px; vertical-align: top; }
+    tr:nth-child(even) td { background: #f4f7fb; }
+    .badge { display: inline-block; background: #3b5c78; color: #fff; border-radius: 4px; padding: 2px 10px; font-size: 0.85em; margin: 2px; }
+    .badge-white { background: #fff; color: #3b5c78; border: 1px solid #3b5c78; }
+    .hero-box { background: #1a1a2e; color: #fff; border-radius: 8px; padding: 20px 28px; margin: 12px 0; }
+    .hero-box h4 { color: #9ecfff; margin-top: 6px; }
+    .section-box { background: #f0f4f8; border-left: 4px solid #1a3a5c; padding: 14px 20px; border-radius: 4px; margin: 10px 0; }
+    ul { padding-left: 22px; }
+    li { margin-bottom: 4px; }
+    .checklist li::before { content: "☐ "; }
+    .checklist { list-style: none; padding-left: 10px; }
+    code { background: #eef; padding: 1px 5px; border-radius: 3px; font-size: 0.93em; }
+    .tag { display: inline-block; font-size: 0.78em; background: #e8f0fe; color: #1a3a5c; border-radius: 12px; padding: 1px 8px; margin: 1px; }
+    hr { border: none; border-top: 1px solid #ddd; margin: 32px 0; }
+  </style>
+</head>
+<body>
+
+<h1>BNI WA Resources 2026<br><small style="font-size:0.55em;color:#555;">Website Structure &amp; Content Documentation</small></h1>
+<p><strong>Platform:</strong> Google Sites &nbsp;|&nbsp; <strong>Source URL:</strong> <code>sites.google.com/view/bniwa-toolbox-and-resources/</code><br>
+<strong>Documented:</strong> March 2026 &nbsp;|&nbsp; <strong>Purpose:</strong> Reference template for building your own BNI chapter resource site</p>
+
+<hr>
+
+<h2>1. Overall Visual Design &amp; Layout</h2>
+
+<h3>Branding &amp; Header</h3>
+<ul>
+  <li>BNI logo (top-left), site title next to logo ("RESOURCES 2026")</li>
+  <li>Fixed top navigation bar with horizontal page links</li>
+  <li>Search icon on the far right of the nav bar</li>
+</ul>
+
+<h3>Hero Section (used on every page)</h3>
+<div class="hero-box">
+  <h4>Standard hero elements:</h4>
+  <ul>
+    <li>Full-width dark/charcoal background banner with geometric architectural photo</li>
+    <li>Large bold white ALL-CAPS page title (left or center aligned)</li>
+    <li>Short blue horizontal underline accent beneath the title</li>
+    <li>2–3 <strong>white-outlined quick-link buttons</strong> on the RIGHT side of the hero (light border, colored text)</li>
+    <li>Optional <strong>wide white button</strong> below/beside the title for a primary action link</li>
+  </ul>
+</div>
+
+<h3>Content Sections (below hero)</h3>
+<ul>
+  <li>White background</li>
+  <li>Resources displayed as <strong>dark slate-blue filled button grids</strong> (2–4 columns)</li>
+  <li>Column headings in bold black above button groups (to categorize resources)</li>
+  <li>Buttons link to: Google Drive (PDFs/folders), Google Docs, Google Slides, Google Sheets, YouTube, Zoom, or external URLs</li>
+</ul>
+
+<h3>Footer (consistent on all pages)</h3>
+<ul>
+  <li>Text: "Get in touch with us at [admin email]"</li>
+  <li>Clickable email link</li>
+  <li>Google Sites built-in footer</li>
+</ul>
+
+<h3>Button Style Reference</h3>
+<table>
+  <tr><th>Style</th><th>Used For</th><th>Appearance</th></tr>
+  <tr><td>White/Outlined</td><td>Hero quick-link buttons</td><td>White background, colored text, thin border</td></tr>
+  <tr><td>Dark Slate-Blue Filled</td><td>Main resource buttons in content areas</td><td>~#3b5c78 background, white text</td></tr>
+  <tr><td>Wide Full-Width Dark</td><td>Single prominent resource spanning full width</td><td>Same dark fill, full content-area width</td></tr>
+</table>
+
+<hr>
+
+<h2>2. Navigation Structure</h2>
+<table>
+  <tr><th>Nav Label</th><th>URL Slug</th><th>Type</th></tr>
+  <tr><td>BNI WA (Home)</td><td><code>/bni-wa</code></td><td>Top-level page</td></tr>
+  <tr><td>Member Resources</td><td><code>/member-resources</code></td><td>Top-level page</td></tr>
+  <tr><td>Leadership Teams</td><td><code>/leadership-teams</code></td><td>Dropdown parent</td></tr>
+  <tr><td>&nbsp;&nbsp;→ President</td><td><code>/leadership-teams/president</code></td><td>Sub-page</td></tr>
+  <tr><td>&nbsp;&nbsp;→ Vice President</td><td><code>/leadership-teams/vice-president</code></td><td>Sub-page</td></tr>
+  <tr><td>&nbsp;&nbsp;→ Treasurer / Secretary</td><td><code>/leadership-teams/treasurer-secretary</code></td><td>Sub-page</td></tr>
+  <tr><td>&nbsp;&nbsp;→ MC Engagement</td><td><code>/leadership-teams/mc-engagement</code></td><td>Sub-page</td></tr>
+  <tr><td>&nbsp;&nbsp;→ Go4Green</td><td><code>/leadership-teams/go4green</code></td><td>Sub-page</td></tr>
+  <tr><td>&nbsp;&nbsp;→ MC Community Builder</td><td><code>/leadership-teams/mc-community-builder</code></td><td>Sub-page</td></tr>
+  <tr><td>&nbsp;&nbsp;→ Growth &amp; Events</td><td><code>/leadership-teams/growth-events</code></td><td>Sub-page</td></tr>
+  <tr><td>&nbsp;&nbsp;→ MC Quality Assurance</td><td><code>/leadership-teams/mc-quality-assurance</code></td><td>Sub-page</td></tr>
+  <tr><td>&nbsp;&nbsp;→ MC Relations</td><td><code>/leadership-teams/mc-relations</code></td><td>Sub-page</td></tr>
+  <tr><td>&nbsp;&nbsp;→ Mentor Coordinator</td><td><code>/leadership-teams/mentor-coordinator</code></td><td>Sub-page</td></tr>
+  <tr><td>&nbsp;&nbsp;→ Visitor Hosts</td><td><code>/leadership-teams/visitor-hosts</code></td><td>Sub-page</td></tr>
+  <tr><td>&nbsp;&nbsp;→ Education Coordinator</td><td><code>/leadership-teams/education-coordinator</code></td><td>Sub-page (has child)</td></tr>
+  <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;→ 12 Weeks of BNI Fundamentals</td><td><code>/leadership-teams/education-coordinator/12-weeks-of-bni-fundamentals</code></td><td>Deep sub-page</td></tr>
+  <tr><td>Traffic Lights</td><td><code>/traffic-lights</code></td><td>Top-level page</td></tr>
+  <tr><td>Calendar &amp; Events</td><td><code>/calendar-events</code></td><td>Top-level page</td></tr>
+</table>
+
+<hr>
+
+<h2>3. Page-by-Page Content Breakdown</h2>
+
+<h3>Page 1: HOME – "BNI WA"</h3>
+<div class="section-box">
+  <strong>Hero Section:</strong>
+  <ul>
+    <li>Title: "Welcome to BNIWA Information Hub"</li>
+    <li>Wide white button: "LEADERSHIP TEAM FORUM LINK" → Zoom meeting registration</li>
+    <li>Image: BNI Australia Story podcast promo with chapter leaders' photo</li>
+  </ul>
+</div>
+<div class="section-box">
+  <strong>Section: "Weekly Education Moments – Get more from your membership!"</strong><br>
+  3-column layout of hyperlinked article/podcast titles (no buttons, just text links):
+  <table>
+    <tr><th>Column 1</th><th>Column 2</th><th>Column 3</th></tr>
+    <tr>
+      <td>BNI The Australian Story Podcasts<br>The Dos and Don'ts of Networking<br>People Love to Buy. Don't Sell<br>Episode 115: Top 10 Ways to Waste Your Time in BNI<br>The Give and the Gain in Networking</td>
+      <td>The Power of Testimonials in Networking<br>Three Things That Determine Your Success in BNI<br>Episode 593: Growth Is Not the Goal<br>Episode 868: 10 Ways to Create Referrals for Life<br>BNI Power of One Podcasts<br>Episode 791: Your Chapter Needs You to Be Great</td>
+      <td>Objection Handling When Inviting Visitors To BNI<br>How To Get More Referrals in BNI – A 5-Step Process<br>Effective Weekly Presentations in BNI Meetings<br>7 Top Tips To Making Killer Presentations That Lead To Referrals</td>
+    </tr>
+  </table>
+</div>
+<div class="section-box">
+  <strong>Section: Social Media Links</strong><br>
+  3-column layout, each with: Platform icon image + heading + one dark button
+  <ul>
+    <li>BNIWA FACEBOOK → "Like us on Facebook"</li>
+    <li>BNIWA LINKEDIN → "Follow us on Linkedin"</li>
+    <li>BNIWA YOUTUBE → "Click here to subscribe"</li>
+  </ul>
+</div>
+<div class="section-box">
+  <strong>Extra:</strong> Button → "DNA Resources" (links to <code>/dna-team</code>)
+</div>
+
+<h3>Page 2: MEMBER RESOURCES</h3>
+<div class="section-box">
+  <strong>Hero Section:</strong>
+  <ul>
+    <li>Title: "MEMBERS"</li>
+    <li>White hero buttons: "In person MSP participant guide" | "New Member Success Programs – BNI Academy"</li>
+  </ul>
+</div>
+<div class="section-box">
+  <strong>Content: 4-column resource button grid</strong>
+  <table>
+    <tr><th>Col 1</th><th>Col 2</th><th>Col 3</th><th>Col 4</th></tr>
+    <tr>
+      <td>New Member Guide 2024<br>The Power of Giving Testimonials<br>Networking Etiquette<br>Traffic Lights Explained<br>Do the Fives</td>
+      <td>Australian Podcast – BNI Members<br>Presentations that Lead to Referrals<br>Perfect Presentations</td>
+      <td>Perfect One to Ones</td>
+      <td>Handling objections when inviting<br>Inviting Visitors<br>Giving Referrals<br>Grow your Power Team<br>Life events = Visitors</td>
+    </tr>
+  </table>
+</div>
+
+<h3>Page 3: LEADERSHIP TEAMS (Index)</h3>
+<div class="section-box">
+  <strong>Hero Section:</strong>
+  <ul>
+    <li>Title: "LEADERSHIP TEAMS"</li>
+    <li>White hero buttons: "Leadership Forum Link" | "CHAPTER OPERATIONS MANUAL"</li>
+  </ul>
+</div>
+<div class="section-box">
+  <strong>Section 1:</strong> BNI Chapter Operations Manual cover image (left) + dark button "LEADERSHIP INTRODUCTION SCRIPTS" (right)
+</div>
+<div class="section-box">
+  <strong>Section 2: Role navigation – 3 rows × 4 buttons</strong>
+  <table>
+    <tr><td>President</td><td>Vice President</td><td>Secretary</td><td>Mentor Coordinator</td></tr>
+    <tr><td>MC Engagement</td><td>MC Quality Assurance</td><td>MC Relations</td><td>MC Community Builder</td></tr>
+    <tr><td>Education Coordinator</td><td>Go4Green</td><td>Growth &amp; Events</td><td>Visitor Hosts</td></tr>
+  </table>
+</div>
+
+<h3>Page 4: PRESIDENT (Role sub-page template example)</h3>
+<div class="section-box">
+  <strong>Hero:</strong> Title "PRESIDENT" | Left: "LT Forum Zoom Link" | Right: "Easy Checklist", "President Script", "Agenda PowerPoint Jul25–Jun26"
+</div>
+<div class="section-box">
+  <strong>Resources:</strong>
+  <ul>
+    <li>Wide button: Monthly Event Slides</li>
+    <li>Grid (4-col): Chapter Assessment Form, Recognition Certificates, Chapter Operations Manual, CSM Resources, New QR Codes for Application, Generic Tradesheet, Team Roles Scripts</li>
+    <li>Grid (3-col): Training Handout Sept 2024, Landing Pages Link, 20-min Video – Tips and Tricks on the President role</li>
+    <li>Wide button: The agenda flow and reasons why – a short video</li>
+  </ul>
+</div>
+
+<h3>Page 5: VICE PRESIDENT</h3>
+<div class="section-box">
+  <strong>Hero:</strong> Title "VICE PRESIDENT" | Left: "20 Minute video – VP role Tips &amp; Tricks" | Right: "Vice President Script", "Easy Checklist VP Role", "CHAPTER OPERATIONS MANUAL"
+</div>
+<div class="section-box">
+  <strong>Resources (4-column grid):</strong>
+  Payment Plan – 3rd Party Finance Request Form, Medical Guidelines, Medical Approval Letter, Substitute Guidelines, NFP or Charity Guideline, New Member Guideline, Change of Category/Member Form,
+  Complaint Process, 7 Month Review Process, Renewal Process, Control Letters, Online App Process,
+  Traffic Lights Explanation, Chap. Traffic Lights Explained, CSM Agenda, Selecting a Chapter Venue,
+  Notable Networker Certs., Category List, Goal Setting, Referral Slip Template, Graphics for presenter slides
+</div>
+
+<h3>Page 6: VISITOR HOSTS</h3>
+<div class="section-box">
+  <strong>Hero:</strong> Title "VISITOR HOST" | Right: "Your role easy checklist", "Visitor Symposium 2025 Documents", "Visitor Portal training from 28 minutes"
+</div>
+<div class="section-box">
+  <strong>Resources – 3 categorized columns:</strong>
+  <table>
+    <tr><th>Before the Meeting</th><th>Registration</th><th>After the Meeting</th></tr>
+    <tr>
+      <td>Welcome Letter Example<br>Invite for Visitor Template<br>Visitor Reg. and Att. Process<br>Referral Slips Template</td>
+      <td>Template for Visitor and Sub name tag<br>Trade Sheet Template<br>Registration Sign in Sheet<br>QR Codes for all chapters</td>
+      <td>Adding Visitors to Portal<br>2025 Visitor Tracking Form from Symposium<br>VH Orientation by Wendy Lloyd Curley (YouTube)</td>
+    </tr>
+  </table>
+</div>
+
+<h3>Page 7: EDUCATION COORDINATOR</h3>
+<div class="section-box">
+  <strong>Hero:</strong> Title "EDUCATION COORDINATOR" | Right: "Your Role – Easy Checklist", "Education Slide deck 2024"
+</div>
+<div class="section-box">
+  <strong>Section heading:</strong> "Education Resource categories"<br>
+  <strong>Resources – 4 categorized columns:</strong>
+  <table>
+    <tr><th>Podcasts</th><th>Education Campaigns</th><th>Websites</th><th>Power Points</th></tr>
+    <tr>
+      <td>The Australian Story<br>The Power on One Podcasts<br>BNI Official Podcasts</td>
+      <td>12 Weeks of Fundamentals (→ child page)<br>Chapter Good to Great<br>Success Mechanisms CSM</td>
+      <td>BNI WA YouTube<br>BNI NZ Education Library<br>From the Founder</td>
+      <td>Specific is Terrific<br>FROGS<br>The Best 60 Seconds</td>
+    </tr>
+  </table>
+  <strong>Child page:</strong> "12 Weeks of BNI Fundamentals" at <code>/education-coordinator/12-weeks-of-bni-fundamentals</code>
+</div>
+
+<h3>Page 8: TRAFFIC LIGHTS</h3>
+<div class="section-box">
+  <strong>Hero:</strong> Title "TRAFFIC LIGHTS" | Right: "Leadership Team Forum Link", "Traffic Lights explained"
+</div>
+<div class="section-box">
+  <strong>Resources – 3-column buttons by region:</strong>
+  <ul>
+    <li>Perth North → Google Drive folder</li>
+    <li>Perth South → Google Drive folder</li>
+    <li>Perth South and South West → Google Drive folder</li>
+  </ul>
+  <em>Adapt to your own regions/districts</em>
+</div>
+
+<h3>Page 9: CALENDAR &amp; EVENTS</h3>
+<div class="section-box">
+  <strong>Hero:</strong> Title "CALENDAR &amp; EVENTS" (no side buttons)
+</div>
+<div class="section-box">
+  <strong>Content:</strong> Single wide dark button → "Event Calendar &amp; National MSP training dates" (links to Google Sheet or calendar embed)
+</div>
+
+<hr>
+
+<h2>4. Remaining Leadership Role Pages (structure mirrors above template)</h2>
+<p>Each of these pages follows the same hero + resource grid pattern. Create one page per role and populate with your chapter's own documents:</p>
+<table>
+  <tr><th>Role</th><th>URL Slug</th><th>Typical Content Types</th></tr>
+  <tr><td>Treasurer / Secretary</td><td><code>/leadership-teams/treasurer-secretary</code></td><td>Easy checklist, scripts, financial forms, reports</td></tr>
+  <tr><td>MC Engagement</td><td><code>/leadership-teams/mc-engagement</code></td><td>Checklist, engagement scripts, activity guides</td></tr>
+  <tr><td>Go4Green</td><td><code>/leadership-teams/go4green</code></td><td>Checklist, Go4Green process docs, tracking sheets</td></tr>
+  <tr><td>MC Community Builder</td><td><code>/leadership-teams/mc-community-builder</code></td><td>Checklist, community event guides</td></tr>
+  <tr><td>Growth &amp; Events</td><td><code>/leadership-teams/growth-events</code></td><td>Event planning docs, growth tracking</td></tr>
+  <tr><td>MC Quality Assurance</td><td><code>/leadership-teams/mc-quality-assurance</code></td><td>Checklist, attendance/renewal tracking</td></tr>
+  <tr><td>MC Relations</td><td><code>/leadership-teams/mc-relations</code></td><td>Checklist, member communication templates</td></tr>
+  <tr><td>Mentor Coordinator</td><td><code>/leadership-teams/mentor-coordinator</code></td><td>Mentor program docs, new member tracking</td></tr>
+</table>
+
+<hr>
+
+<h2>5. Adaptation Checklist for Your Chapter</h2>
+<ul class="checklist">
+  <li>Replace site name with your chapter name (e.g., "BNI [Chapter Name] Resources")</li>
+  <li>Update contact email in footer</li>
+  <li>Replace all Zoom/LT Forum links with your chapter's meeting links</li>
+  <li>Upload your own versions of: checklists, scripts, templates, forms to Google Drive</li>
+  <li>Update all Google Drive/Doc/Slide links to point to your files</li>
+  <li>Replace social media links (Facebook, LinkedIn, YouTube) with your chapter's profiles</li>
+  <li>Update Traffic Lights section for your own region/area names</li>
+  <li>Confirm which MC roles your chapter uses (some may differ)</li>
+  <li>Choose relevant BNI articles/podcasts for the home page "Weekly Education Moments" section</li>
+  <li>Replace all "2025/2026" date references with your current term dates</li>
+  <li>Update hero banner photos with your chapter's own images</li>
+  <li>Set up a Google Drive folder structure to match each page's resource category</li>
+</ul>
+
+<hr>
+
+<h2>6. Quick Build Order Recommendation</h2>
+<ol>
+  <li>Set up Google Sites, configure site name &amp; theme</li>
+  <li>Build Navigation: create all top-level pages + sub-pages first (empty)</li>
+  <li>Build HOME page: hero + education moments + social media section</li>
+  <li>Build MEMBER RESOURCES page</li>
+  <li>Build LEADERSHIP TEAMS index page</li>
+  <li>Build each role sub-page (start with President, VP, then others)</li>
+  <li>Build TRAFFIC LIGHTS page</li>
+  <li>Build CALENDAR &amp; EVENTS page</li>
+  <li>Add footer email to all pages</li>
+  <li>Test all links and publish</li>
+</ol>
+
+<hr>
+<p style="color:#888;font-size:0.85em;">Documentation prepared from BNI WA Resources 2026 site — March 2026. For internal chapter use only.</p>
+
+</body>
+</html>
