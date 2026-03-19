@@ -65,7 +65,7 @@ export default function HomePage() {
       {/* Hero */}
       <Hero
         title="YOUR NETWORK IS YOUR NET WORTH"
-        subtitle="BNI Master — Perth's Most Connected Business Chapter"
+        subtitle="BNI Master — Ho Chi Minh City's Most Connected Business Chapter"
         buttons={[
           { label: "JOIN OUR NEXT MEETING", href: "#", variant: "wide" },
         ]}

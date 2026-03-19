@@ -1,7 +1,7 @@
 export const siteConfig = {
   name: "BNI MASTER",
   shortName: "MASTER",
-  contactEmail: "trunghuynh@pamperme.com.vn",
+  contactEmail: "contact@bnimaster.com",
   ltForumLink: "#",
   chapterOpsManualLink: "#",
 };

@@ -2,9 +2,9 @@ import Hero from "@/components/Hero";
 import ResourceButton from "@/components/ResourceButton";
 
 const regions = [
-  { title: "Perth North", label: "Perth North Traffic Lights", href: "#" },
-  { title: "Perth South", label: "Perth South Traffic Lights", href: "#" },
-  { title: "Perth South and South West", label: "Perth South and South West Traffic Lights", href: "#" },
+  { title: "District 1", label: "District 1 Traffic Lights", href: "#" },
+  { title: "District 2", label: "District 2 Traffic Lights", href: "#" },
+  { title: "District 7", label: "District 7 Traffic Lights", href: "#" },
 ];
 
 export default function TrafficLightsPage() {
