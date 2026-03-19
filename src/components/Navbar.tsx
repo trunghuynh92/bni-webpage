@@ -28,8 +28,8 @@ export default function Navbar() {
       <nav
         className={`fixed top-0 left-0 right-0 z-50 transition-all duration-500 ${
           scrolled
-            ? "bg-bni-charcoal/95 backdrop-blur-lg shadow-2xl shadow-black/30 border-b border-white/5"
-            : "bg-transparent"
+            ? "bg-bni-charcoal shadow-2xl shadow-black/30 border-b border-white/5"
+            : "bg-bni-charcoal/90 backdrop-blur-lg"
         }`}
       >
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
