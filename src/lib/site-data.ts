@@ -1,7 +1,7 @@
 export const siteConfig = {
-  name: "BNI WA Resources 2026",
-  shortName: "RESOURCES 2026",
-  contactEmail: "admin@bniwa.com.au",
+  name: "BNI MASTER",
+  shortName: "MASTER",
+  contactEmail: "trunghuynh@pamperme.com.vn",
   ltForumLink: "#",
   chapterOpsManualLink: "#",
 };
@@ -13,7 +13,7 @@ export interface NavItem {
 }
 
 export const navigation: NavItem[] = [
-  { label: "BNI WA", href: "/" },
+  { label: "Home", href: "/" },
   { label: "Member Resources", href: "/member-resources" },
   {
     label: "Leadership Teams",

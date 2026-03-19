@@ -1,16 +1,10 @@
 import Hero from "@/components/Hero";
 import ResourceButton from "@/components/ResourceButton";
 
-const perthNorth = [
-  { label: "Perth North Traffic Lights", href: "#" },
-];
-
-const perthSouth = [
-  { label: "Perth South Traffic Lights", href: "#" },
-];
-
-const perthSouthSouthWest = [
-  { label: "Perth South and South West Traffic Lights", href: "#" },
+const regions = [
+  { title: "Perth North", label: "Perth North Traffic Lights", href: "#" },
+  { title: "Perth South", label: "Perth South Traffic Lights", href: "#" },
+  { title: "Perth South and South West", label: "Perth South and South West Traffic Lights", href: "#" },
 ];
 
 export default function TrafficLightsPage() {
@@ -18,64 +12,30 @@ export default function TrafficLightsPage() {
     <main>
       <Hero
         title="TRAFFIC LIGHTS"
+        subtitle="Track your chapter's performance at a glance"
         buttons={[
-          { label: "Leadership Team Forum Link", href: "#" },
-          { label: "Traffic Lights explained", href: "#" },
+          { label: "Leadership Team Forum Link", href: "#", variant: "outlined" },
+          { label: "Traffic Lights explained", href: "#", variant: "outlined" },
         ]}
       />
 
-      <section className="max-w-6xl mx-auto px-6 py-12">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-          {/* Perth North */}
-          <div>
-            <h3 className="text-lg font-bold text-bni-dark mb-4 text-center">
-              Perth North
-            </h3>
-            <div className="flex flex-col gap-3">
-              {perthNorth.map((item) => (
-                <ResourceButton
-                  key={item.label}
-                  label={item.label}
-                  href={item.href}
-                  variant="filled"
-                />
-              ))}
+      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 sm:py-20">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+          {regions.map((region) => (
+            <div
+              key={region.title}
+              className="bg-bni-dark rounded-2xl p-8 text-center"
+            >
+              <h3 className="text-lg font-extrabold text-white mb-6 uppercase tracking-wide">
+                {region.title}
+              </h3>
+              <ResourceButton
+                label={region.label}
+                href={region.href}
+                variant="outlined"
+              />
             </div>
-          </div>
-
-          {/* Perth South */}
-          <div>
-            <h3 className="text-lg font-bold text-bni-dark mb-4 text-center">
-              Perth South
-            </h3>
-            <div className="flex flex-col gap-3">
-              {perthSouth.map((item) => (
-                <ResourceButton
-                  key={item.label}
-                  label={item.label}
-                  href={item.href}
-                  variant="filled"
-                />
-              ))}
-            </div>
-          </div>
-
-          {/* Perth South and South West */}
-          <div>
-            <h3 className="text-lg font-bold text-bni-dark mb-4 text-center">
-              Perth South and South West
-            </h3>
-            <div className="flex flex-col gap-3">
-              {perthSouthSouthWest.map((item) => (
-                <ResourceButton
-                  key={item.label}
-                  label={item.label}
-                  href={item.href}
-                  variant="filled"
-                />
-              ))}
-            </div>
-          </div>
+          ))}
         </div>
       </section>
     </main>

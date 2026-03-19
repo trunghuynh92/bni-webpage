@@ -3,9 +3,12 @@ import Hero from "@/components/Hero";
 export default function MentorCoordinatorPage() {
   return (
     <main>
-      <Hero title="MENTOR COORDINATOR" buttons={[{ label: "Your Role – Easy Checklist", href: "#" }]} />
-      <section className="max-w-6xl mx-auto px-6 py-12">
-        <p className="text-gray-500 text-center">Resources coming soon. Check back for updates.</p>
+      <Hero title="MENTOR COORDINATOR" subtitle="Guiding new members to success" buttons={[{ label: "Your Role – Easy Checklist", href: "#" }]} />
+      <section className="max-w-6xl mx-auto px-6 py-16 text-center">
+        <div className="bg-bni-dark rounded-2xl p-12">
+          <p className="text-bni-gray text-lg">Resources coming soon.</p>
+          <p className="text-bni-gray-dark mt-2">Check back for updates.</p>
+        </div>
       </section>
     </main>
   );

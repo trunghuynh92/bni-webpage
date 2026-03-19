@@ -1,10 +1,102 @@
 @import "tailwindcss";
 
 @theme {
-  --color-bni-red: #cc0000;
-  --color-bni-dark: #1a1a2e;
-  --color-bni-navy: #1a3a5c;
-  --color-bni-slate: #3b5c78;
-  --color-bni-light: #f0f4f8;
-  --color-bni-blue-accent: #4a90d9;
+  --color-bni-red: #CC0000;
+  --color-bni-red-dark: #990000;
+  --color-bni-red-light: #FF1A1A;
+  --color-bni-charcoal: #0A0A0B;
+  --color-bni-dark: #1C1C1E;
+  --color-bni-gold: #D4A843;
+  --color-bni-gold-light: #E8C36A;
+  --color-bni-warm-white: #FAFAF9;
+  --color-bni-gray: #6B7280;
+  --color-bni-gray-light: #F3F4F6;
+  --color-bni-gray-dark: #374151;
+}
+
+/* Smooth scroll */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Clean typography base */
+body {
+  font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+  font-weight: 700;
+}
+
+/* Smooth transitions on all interactive elements */
+a, button, input, textarea, select,
+[role="button"] {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Animations */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(24px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideInRight {
+  from {
+    opacity: 0;
+    transform: translateX(40px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes pulse-glow {
+  0%, 100% {
+    box-shadow: 0 0 0 0 rgba(204, 0, 0, 0.4);
+  }
+  50% {
+    box-shadow: 0 0 20px 6px rgba(204, 0, 0, 0.25);
+  }
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp 0.7s cubic-bezier(0.4, 0, 0.2, 1) both;
+}
+
+.animate-slide-in-right {
+  animation: slideInRight 0.7s cubic-bezier(0.4, 0, 0.2, 1) both;
+}
+
+.animate-pulse-glow {
+  animation: pulse-glow 2.5s ease-in-out infinite;
+}
+
+/* Glass card effect */
+.glass-card {
+  background: rgba(255, 255, 255, 0.06);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 1rem;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.12);
+}
+
+/* Gradient text — BNI red to gold */
+.gradient-text {
+  background: linear-gradient(135deg, var(--color-bni-red), var(--color-bni-gold));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
 }

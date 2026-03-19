@@ -4,11 +4,15 @@ import ResourceButton from "@/components/ResourceButton";
 export default function CalendarEventsPage() {
   return (
     <main>
-      <Hero title="CALENDAR & EVENTS" buttons={[]} />
+      <Hero
+        title="CALENDAR & EVENTS"
+        subtitle="Never miss an opportunity to connect"
+        buttons={[]}
+      />
 
-      <section className="max-w-6xl mx-auto px-6 py-12 text-center">
+      <section className="max-w-6xl mx-auto px-6 py-16 text-center">
         <ResourceButton
-          label="Event Calendar & National MSP training dates"
+          label="Event Calendar & National MSP Training Dates"
           href="#"
           variant="wide"
         />

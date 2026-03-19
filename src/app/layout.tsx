@@ -4,11 +4,16 @@ import "./globals.css";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 
-const inter = Inter({ subsets: ["latin"] });
+const inter = Inter({
+  subsets: ["latin"],
+  weight: ["100", "200", "300", "400", "500", "600", "700", "800", "900"],
+  variable: "--font-inter",
+});
 
 export const metadata: Metadata = {
-  title: "BNI WA Resources 2026",
-  description: "BNI Western Australia Information Hub and Resources",
+  title: "BNI MASTER | Where Business Meets Opportunity",
+  description:
+    "BNI Master chapter — a premium business networking community dedicated to growing your business through trusted referrals, strategic connections, and high-impact collaboration.",
 };
 
 export default function RootLayout({
@@ -18,9 +23,11 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={`${inter.className} bg-bni-light text-bni-dark`}>
+      <body
+        className={`${inter.variable} font-[family-name:var(--font-inter)] bg-bni-warm-white text-bni-charcoal antialiased min-h-screen flex flex-col`}
+      >
         <Navbar />
-        <div className="pt-20">{children}</div>
+        <main className="flex-1 pt-20">{children}</main>
         <Footer />
       </body>
     </html>

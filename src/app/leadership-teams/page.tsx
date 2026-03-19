@@ -1,5 +1,6 @@
 import Hero from "@/components/Hero";
 import ResourceButton from "@/components/ResourceButton";
+import Link from "next/link";
 
 const roleLinks = [
   { label: "President", href: "/leadership-teams/president" },
@@ -21,14 +22,15 @@ export default function LeadershipTeamsPage() {
     <main>
       <Hero
         title="LEADERSHIP TEAMS"
+        subtitle="Driving chapter excellence through dedicated leadership"
         buttons={[
-          { label: "Leadership Forum Link", href: "#" },
-          { label: "CHAPTER OPERATIONS MANUAL", href: "#" },
+          { label: "Leadership Forum", href: "#", variant: "outlined" },
+          { label: "Operations Manual", href: "#", variant: "outlined" },
         ]}
       />
 
       {/* Leadership Introduction Scripts */}
-      <section className="max-w-6xl mx-auto px-6 py-8 text-center">
+      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 text-center">
         <ResourceButton
           label="LEADERSHIP INTRODUCTION SCRIPTS"
           href="#"
@@ -36,16 +38,20 @@ export default function LeadershipTeamsPage() {
         />
       </section>
 
-      {/* Role Navigation Grid */}
-      <section className="max-w-6xl mx-auto px-6 py-12">
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
+      {/* Your Leadership Team */}
+      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 sm:py-16">
+        <h2 className="text-2xl sm:text-3xl font-extrabold text-bni-dark mb-10 tracking-tight">
+          Your Leadership Team
+        </h2>
+        <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4">
           {roleLinks.map((role) => (
-            <ResourceButton
+            <Link
               key={role.label}
-              label={role.label}
               href={role.href}
-              variant="filled"
-            />
+              className="bg-bni-dark text-white rounded-xl p-6 font-semibold text-sm text-center border-l-4 border-l-transparent hover:border-l-bni-red transition-all duration-300 hover:-translate-y-0.5 hover:shadow-lg"
+            >
+              {role.label}
+            </Link>
           ))}
         </div>
       </section>

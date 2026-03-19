@@ -23,16 +23,17 @@ export default function PresidentPage() {
     <main>
       <Hero
         title="PRESIDENT"
+        subtitle="Lead with vision, inspire with action"
         buttons={[
-          { label: "LT Forum Zoom Link", href: "#" },
-          { label: "Easy Checklist", href: "#" },
-          { label: "President Script", href: "#" },
-          { label: "Agenda PowerPoint Jul25–Jun26", href: "#" },
+          { label: "LT Forum Zoom Link", href: "#", variant: "outlined" },
+          { label: "Easy Checklist", href: "#", variant: "outlined" },
+          { label: "President Script", href: "#", variant: "outlined" },
+          { label: "Agenda PowerPoint Jul25–Jun26", href: "#", variant: "outlined" },
         ]}
       />
 
       {/* Monthly Event Slides */}
-      <section className="max-w-6xl mx-auto px-6 py-8 text-center">
+      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 text-center">
         <ResourceButton
           label="Monthly Event Slides"
           href="#"
@@ -41,17 +42,17 @@ export default function PresidentPage() {
       </section>
 
       {/* Main Resources - 4 columns */}
-      <section className="max-w-6xl mx-auto px-6 py-8">
+      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <ResourceGrid columns={4} resources={mainResources} />
       </section>
 
       {/* Additional Resources - 3 columns */}
-      <section className="max-w-6xl mx-auto px-6 py-8">
+      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <ResourceGrid columns={3} resources={additionalResources} />
       </section>
 
       {/* Agenda Flow Video */}
-      <section className="max-w-6xl mx-auto px-6 py-8 text-center">
+      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 text-center">
         <ResourceButton
           label="The agenda flow and reasons why – a short video"
           href="#"

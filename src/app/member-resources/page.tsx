@@ -22,14 +22,18 @@ export default function MemberResourcesPage() {
   return (
     <main>
       <Hero
-        title="MEMBERS"
+        title="MEMBER RESOURCES"
+        subtitle="Everything you need to maximize your BNI membership"
         buttons={[
-          { label: "In person MSP participant guide", href: "#" },
-          { label: "New Member Success Programs – BNI Academy", href: "#" },
+          { label: "MSP Participant Guide", href: "#", variant: "outlined" },
+          { label: "BNI Academy", href: "#", variant: "outlined" },
         ]}
       />
 
-      <section className="max-w-6xl mx-auto px-6 py-12">
+      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 sm:py-20">
+        <h2 className="text-2xl sm:text-3xl font-extrabold text-bni-dark mb-10 tracking-tight">
+          Essential Tools for Members
+        </h2>
         <ResourceGrid columns={4} resources={memberResources} />
       </section>
     </main>
