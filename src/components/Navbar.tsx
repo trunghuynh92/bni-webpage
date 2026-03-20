@@ -1,13 +1,47 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import Link from "next/link";
-import { navigation } from "@/lib/site-data";
+import { Link, usePathname, useRouter } from "@/i18n/navigation";
+import { useTranslations, useLocale } from "next-intl";
 
 export default function Navbar() {
   const [mobileOpen, setMobileOpen] = useState(false);
   const [dropdownOpen, setDropdownOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
+  const t = useTranslations("Nav");
+  const locale = useLocale();
+  const router = useRouter();
+  const pathname = usePathname();
+
+  const navigation = [
+    { label: t("home"), href: "/" as const },
+    { label: t("memberResources"), href: "/member-resources" as const },
+    {
+      label: t("leadershipTeams"),
+      href: "/leadership-teams" as const,
+      children: [
+        { label: t("president"), href: "/leadership-teams/president" as const },
+        { label: t("vicePresident"), href: "/leadership-teams/vice-president" as const },
+        { label: t("treasurerSecretary"), href: "/leadership-teams/treasurer-secretary" as const },
+        { label: t("mcEngagement"), href: "/leadership-teams/mc-engagement" as const },
+        { label: t("go4green"), href: "/leadership-teams/go4green" as const },
+        { label: t("mcCommunityBuilder"), href: "/leadership-teams/mc-community-builder" as const },
+        { label: t("growthEvents"), href: "/leadership-teams/growth-events" as const },
+        { label: t("mcQualityAssurance"), href: "/leadership-teams/mc-quality-assurance" as const },
+        { label: t("mcRelations"), href: "/leadership-teams/mc-relations" as const },
+        { label: t("mentorCoordinator"), href: "/leadership-teams/mentor-coordinator" as const },
+        { label: t("visitorHosts"), href: "/leadership-teams/visitor-hosts" as const },
+        { label: t("educationCoordinator"), href: "/leadership-teams/education-coordinator" as const },
+      ],
+    },
+    { label: t("trafficLights"), href: "/traffic-lights" as const },
+    { label: t("calendarEvents"), href: "/calendar-events" as const },
+  ];
+
+  const switchLocale = () => {
+    const newLocale = locale === "en" ? "vi" : "en";
+    router.replace(pathname, { locale: newLocale });
+  };
 
   useEffect(() => {
     const handleScroll = () => setScrolled(window.scrollY > 20);
@@ -112,6 +146,31 @@ export default function Navbar() {
                   </Link>
                 )
               )}
+
+              {/* Language Switcher */}
+              <button
+                onClick={switchLocale}
+                className="flex items-center rounded-full border border-white/20 overflow-hidden text-xs font-bold uppercase tracking-wider"
+              >
+                <span
+                  className={`px-3 py-1.5 transition-colors duration-200 ${
+                    locale === "en"
+                      ? "bg-bni-red text-white"
+                      : "text-white/50 hover:text-white"
+                  }`}
+                >
+                  EN
+                </span>
+                <span
+                  className={`px-3 py-1.5 transition-colors duration-200 ${
+                    locale === "vi"
+                      ? "bg-bni-red text-white"
+                      : "text-white/50 hover:text-white"
+                  }`}
+                >
+                  VI
+                </span>
+              </button>
             </div>
 
             {/* Mobile hamburger */}
@@ -194,6 +253,38 @@ export default function Navbar() {
               )}
             </div>
           ))}
+
+          {/* Mobile language switcher */}
+          <div
+            className={`transition-all duration-700 ${
+              mobileOpen ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"
+            }`}
+            style={{ transitionDelay: mobileOpen ? `${150 + navigation.length * 100}ms` : "0ms" }}
+          >
+            <button
+              onClick={switchLocale}
+              className="flex items-center rounded-full border border-white/20 overflow-hidden text-sm font-bold uppercase tracking-wider"
+            >
+              <span
+                className={`px-4 py-2 transition-colors duration-200 ${
+                  locale === "en"
+                    ? "bg-bni-red text-white"
+                    : "text-white/50 hover:text-white"
+                }`}
+              >
+                EN
+              </span>
+              <span
+                className={`px-4 py-2 transition-colors duration-200 ${
+                  locale === "vi"
+                    ? "bg-bni-red text-white"
+                    : "text-white/50 hover:text-white"
+                }`}
+              >
+                VI
+              </span>
+            </button>
+          </div>
 
           {/* Mobile menu footer accent */}
           <div

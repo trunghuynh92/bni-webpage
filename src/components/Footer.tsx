@@ -1,15 +1,20 @@
-import Link from "next/link";
+"use client";
+
+import { Link } from "@/i18n/navigation";
+import { useTranslations } from "next-intl";
 import { siteConfig } from "@/lib/site-data";
 
-const quickLinks = [
-  { label: "Home", href: "/" },
-  { label: "Member Resources", href: "/member-resources" },
-  { label: "Leadership Teams", href: "/leadership-teams" },
-  { label: "Traffic Lights", href: "/traffic-lights" },
-  { label: "Calendar", href: "/calendar-events" },
-];
-
 export default function Footer() {
+  const t = useTranslations("Footer");
+
+  const quickLinks = [
+    { label: t("home"), href: "/" as const },
+    { label: t("memberResources"), href: "/member-resources" as const },
+    { label: t("leadershipTeams"), href: "/leadership-teams" as const },
+    { label: t("trafficLights"), href: "/traffic-lights" as const },
+    { label: t("calendar"), href: "/calendar-events" as const },
+  ];
+
   return (
     <footer className="relative w-full bg-bni-charcoal overflow-hidden">
       {/* Subtle background accents */}
@@ -23,7 +28,7 @@ export default function Footer() {
             BNI MASTER
           </h2>
           <p className="mt-4 text-bni-gray text-sm tracking-[0.2em] uppercase">
-            Where Business Meets Opportunity
+            {t("tagline")}
           </p>
           <div className="mt-6 mx-auto h-[2px] w-20 bg-gradient-to-r from-transparent via-bni-red to-transparent rounded-full" />
         </div>
@@ -45,7 +50,7 @@ export default function Footer() {
         {/* Contact */}
         <div className="text-center mb-14">
           <p className="text-sm text-white/40">
-            Get in touch
+            {t("getInTouch")}
           </p>
           <a
             href={`mailto:${siteConfig.contactEmail}`}
@@ -88,7 +93,7 @@ export default function Footer() {
         <div className="border-t border-white/[0.06] pt-8">
           <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
             <p className="text-xs text-white/25 tracking-wide">
-              &copy; 2026 BNI MASTER. All rights reserved.
+              {t("copyright")}
             </p>
             <div className="flex items-center gap-1.5">
               <span className="text-bni-red text-xs font-black tracking-widest">BNI</span>
