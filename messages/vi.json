@@ -287,6 +287,10 @@
       "philosophy": "Triết Lý Kinh Doanh",
       "customers": "Khách Hàng Mục Tiêu",
       "referrals": "Cơ Hội Kết Nối"
-    }
+    },
+    "contents": "Mục Lục",
+    "memberProfile": "Hồ Sơ Thành Viên",
+    "sendEmail": "Gửi Email",
+    "connectLabel": "Kết Nối"
   }
 }

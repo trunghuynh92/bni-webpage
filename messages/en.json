@@ -287,6 +287,10 @@
       "philosophy": "Business Philosophy",
       "customers": "Ideal Customers",
       "referrals": "Referral Connections"
-    }
+    },
+    "contents": "Contents",
+    "memberProfile": "Member Profile",
+    "sendEmail": "Send Email",
+    "connectLabel": "Connect"
   }
 }
