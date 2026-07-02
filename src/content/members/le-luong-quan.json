@@ -1,0 +1,56 @@
+{
+  "slug": "le-luong-quan",
+  "name": "Lê Lương Quân",
+  "jobTitle": { "vi": "CEO", "en": "CEO" },
+  "company": "Công ty Cổ phần Nam Xanh",
+  "industry": { "vi": "Sản xuất & chế biến nông sản sấy khô", "en": "Dried Agricultural Products Manufacturing" },
+  "founded": "2010",
+  "phone": "0966 678 989",
+  "email": "quanll@namxanh.com.vn",
+  "tagline": {
+    "vi": "Nâng tầm nông sản Việt thành những món quà cao cấp mang câu chuyện văn hóa.",
+    "en": "Elevating Vietnamese produce into premium gifts that carry a cultural story."
+  },
+  "sections": [
+    {
+      "key": "about",
+      "vi": "Anh Lê Lương Quân là CEO của Nam Xanh, đại diện cho hình ảnh một người làm sản phẩm Việt với khát vọng đưa nông sản Việt Nam vào những trải nghiệm cao cấp. Với anh, nông sản không chỉ là nguyên liệu hay món ăn hằng ngày, mà có thể trở thành một phần của trải nghiệm văn hóa, quà tặng, khách sạn, du lịch và ngoại giao thương hiệu. Anh muốn được nhớ đến là người góp phần nâng tầm nông sản Việt — từ những sản phẩm tự nhiên, quen thuộc trở thành những món quà chỉn chu, có câu chuyện, có tiêu chuẩn và đủ tự tin để giới thiệu với bạn bè quốc tế.",
+      "en": "Lê Lương Quân is the CEO of Nam Xanh and embodies the vision of a Vietnamese maker determined to bring the country's agricultural products into premium experiences. To him, produce is not merely an ingredient or everyday food — it can become part of a cultural experience, a gift, a hotel amenity, a piece of travel, and brand diplomacy. He wants to be remembered as someone who helped elevate Vietnamese produce: from familiar natural products into refined gifts with a story, real standards, and the confidence to be presented to international friends."
+    },
+    {
+      "key": "business",
+      "vi": "Thành lập năm 2010, Nam Xanh chuyên sản xuất và phát triển các sản phẩm thực phẩm tự nhiên từ nông sản Việt Nam: trái cây sấy, hạt sấy, gừng nướng mật ong, hạt điều, hạt sen, đậu nành, macca và nhiều dòng đặc sản khác. Công ty hiện có hơn 16 năm kinh nghiệm, 2 nhà máy, hơn 50 dòng sản phẩm và năng lực sản xuất khoảng 100 tấn/tháng. Điểm khác biệt của Nam Xanh là tạo ra trải nghiệm hoàn chỉnh — từ sản phẩm, bao bì, thiết kế, câu chuyện văn hóa đến khả năng tùy chỉnh theo thương hiệu khách hàng — phục vụ minibar, quà lưu niệm, amenities, quà Tết, quà Trung Thu và quà doanh nghiệp cao cấp.",
+      "en": "Founded in 2010, Nam Xanh produces and develops natural food products from Vietnamese agriculture: dried fruits, roasted nuts, honey-baked ginger, cashews, lotus seeds, soybeans, macadamia, and many other specialty lines. The company now has over 16 years of experience, 2 factories, more than 50 product lines, and a capacity of around 100 tons per month. What sets Nam Xanh apart is its complete experience — from the product itself to packaging, design, cultural storytelling, and brand customization — serving minibars, souvenirs, hotel amenities, Tet and Mid-Autumn gifts, and premium corporate gifting."
+    },
+    {
+      "key": "journey",
+      "vi": "Hành trình của anh Quân bắt đầu từ một niềm tin rất rõ: nông sản Việt Nam có giá trị lớn hơn nhiều so với cách chúng ta thường nhìn nhận. Việt Nam có nguyên liệu tốt, người làm nghề khéo léo và văn hóa ẩm thực phong phú, nhưng để sản phẩm Việt đi xa hơn cần làm tốt hơn ở tiêu chuẩn, thiết kế, câu chuyện và khả năng phục vụ những khách hàng khó tính. Từ năm 2010, Nam Xanh từng bước phát triển từ một doanh nghiệp sản xuất thực phẩm tự nhiên thành đơn vị cung cấp cho khách sạn, resort, du thuyền, bán lẻ và quà tặng doanh nghiệp. Bước ngoặt lớn nhất là khi anh nhận ra: Nam Xanh không chỉ làm thực phẩm, mà đang tạo ra một cách mới để thế giới cảm nhận về Việt Nam.",
+      "en": "Quân's journey began with a clear conviction: Vietnamese agricultural products are worth far more than the way we usually perceive them. Vietnam has excellent raw materials, skilled artisans, and a rich culinary culture — but for Vietnamese products to go further, the country needs to do better in standards, design, storytelling, and serving demanding customers. Since 2010, Nam Xanh has grown step by step from a natural food manufacturer into a supplier for hotels, resorts, cruise ships, retail, and corporate gifting. His biggest turning point came with the realization that Nam Xanh is not just making food — it is creating a new way for the world to experience Vietnam."
+    },
+    {
+      "key": "achievements",
+      "vi": "Nam Xanh đã phục vụ hơn 2.500 đối tác thuộc các nhóm khách sạn, bán lẻ và quà tặng doanh nghiệp. Sản phẩm của công ty được thiết kế cho siêu thị, khách sạn, sân bay tại Việt Nam và các thị trường quốc tế như Nhật Bản, Hoa Kỳ, Indonesia và Singapore. Nam Xanh là đối tác của nhiều khách sạn, resort và thương hiệu lớn; sản phẩm của công ty đã hiện diện trong minibar, quà lưu niệm, amenities và giftset theo mùa của các khách hàng cao cấp.",
+      "en": "Nam Xanh has served more than 2,500 partners across hospitality, retail, and corporate gifting. Its products are designed for supermarkets, hotels, and airports in Vietnam as well as international markets including Japan, the United States, Indonesia, and Singapore. Nam Xanh partners with numerous major hotels, resorts, and brands; its products appear in the minibars, souvenirs, amenities, and seasonal gift sets of premium clients."
+    },
+    {
+      "key": "vision",
+      "vi": "Trong 3–5 năm tới, anh Quân muốn đưa sản phẩm Nam Xanh trở thành sản phẩm mang tầm thương hiệu quốc gia — đại diện cho nông sản, con người và văn hóa Việt Nam trên trường quốc tế. Tầm nhìn của anh là khi một khách hàng quốc tế cầm trên tay sản phẩm Nam Xanh, họ không chỉ thấy một món ăn ngon hay món quà đẹp, mà cảm nhận được sự chỉn chu, tinh tế, tự nhiên và lòng hiếu khách của người Việt. Nam Xanh sẽ tiếp tục nâng cấp tiêu chuẩn sản xuất, phát triển bao bì và câu chuyện sản phẩm, đồng thời mở rộng kênh khách hàng khách sạn, resort, doanh nghiệp lớn, quà tặng cao cấp và thị trường quốc tế.",
+      "en": "Over the next 3–5 years, Quân wants Nam Xanh's products to reach national-brand stature — representing Vietnam's produce, people, and culture on the international stage. His vision: when an international customer holds a Nam Xanh product, they see not just delicious food or a beautiful gift, but feel the refinement, subtlety, naturalness, and hospitality of the Vietnamese people. Nam Xanh will keep raising its production standards, developing packaging and product storytelling, and expanding its channels across hotels, resorts, large enterprises, premium gifting, and international markets."
+    },
+    {
+      "key": "philosophy",
+      "vi": "Trong ngành thực phẩm và quà tặng, khách hàng không chỉ mua một sản phẩm — họ đặt niềm tin vào chất lượng, uy tín, sự ổn định và cảm xúc mà sản phẩm mang lại cho người nhận. Anh Quân tin rằng muốn đưa nông sản Việt vào những trải nghiệm cao cấp, trước hết phải tôn trọng nguyên liệu, người làm ra nguyên liệu, tiêu chuẩn sản xuất và từng khách hàng. Trong lãnh đạo, anh hướng đội ngũ đến sự chỉn chu, trách nhiệm và tinh thần cải tiến liên tục: mỗi đơn hàng không chỉ là doanh thu, mà là một lần Nam Xanh đại diện cho hình ảnh sản phẩm Việt trong mắt khách hàng.",
+      "en": "In the food and gifting industry, customers are not just buying a product — they are placing their trust in the quality, reputation, consistency, and emotion the product delivers to its recipient. Quân believes that to bring Vietnamese produce into premium experiences, one must first respect the ingredients, the people who grow them, the production standards, and every single customer. As a leader, he steers his team toward meticulousness, accountability, and continuous improvement: every order is not merely revenue, but a moment when Nam Xanh represents the image of Vietnamese products in the customer's eyes."
+    },
+    {
+      "key": "customers",
+      "vi": "Khách hàng mục tiêu của Nam Xanh là các doanh nghiệp, khách sạn, resort, ngân hàng, công ty bảo hiểm, tập đoàn, tổ chức giáo dục, agency sự kiện và các đơn vị có nhu cầu quà tặng số lượng lớn. Nam Xanh phù hợp với khách hàng cần quà Tết, quà Trung Thu, quà tri ân khách hàng, quà nhân viên, quà hội nghị, quà sự kiện hoặc sản phẩm trải nghiệm trong khách sạn như minibar, amenities và quà lưu niệm. Giá trị lớn nhất Nam Xanh mang lại là một món quà đẹp, chất lượng, có câu chuyện, có thể tùy chỉnh bao bì, in logo và phát triển sản phẩm theo thương hiệu và ngân sách của từng đối tác.",
+      "en": "Nam Xanh's target customers are enterprises, hotels, resorts, banks, insurance companies, corporations, educational institutions, event agencies, and any organization with large-volume gifting needs. Nam Xanh is the right fit for clients seeking Tet gifts, Mid-Autumn gifts, customer appreciation gifts, employee gifts, conference and event gifts, or in-hotel experience products such as minibar items, amenities, and souvenirs. Its greatest value: a beautiful, high-quality gift with a story — with packaging customization, logo printing, and product development tailored to each partner's brand and budget."
+    },
+    {
+      "key": "referrals",
+      "vi": "Tham gia BNI, anh Quân mong muốn kết nối với những doanh nghiệp, tổ chức và cá nhân có cùng tinh thần phát triển giá trị Việt Nam một cách chuyên nghiệp và bền vững. Điều anh cần nhất là những kết nối chất lượng với khách hàng có nhu cầu quà tặng doanh nghiệp, quà tri ân, quà nhân viên, quà sự kiện, quà Tết, quà Trung Thu, hoặc sản phẩm trải nghiệm cho khách sạn và resort.",
+      "en": "Through BNI, Quân hopes to connect with businesses, organizations, and individuals who share the spirit of developing Vietnamese value professionally and sustainably. What he needs most are quality connections to clients seeking corporate gifts, appreciation gifts, employee gifts, event gifts, Tet and Mid-Autumn gifts, or experience products for hotels and resorts."
+    }
+  ]
+}

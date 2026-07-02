@@ -1,0 +1,56 @@
+{
+  "slug": "le-tuan-anh",
+  "name": "Lê Tuấn Anh",
+  "jobTitle": { "vi": "CEO", "en": "CEO" },
+  "company": "Công ty TNHH Đầu tư và Xây dựng BeHouse",
+  "industry": { "vi": "Đầu tư – Xây dựng – Vận hành khách sạn ven biển", "en": "Investment – Construction – Coastal Hotel Operations" },
+  "founded": "2017",
+  "phone": "0909 091 575",
+  "email": "tuananh@behouse.vn",
+  "tagline": {
+    "vi": "Xây đúng ngay từ đầu, đầu tư đúng ngay từ gốc.",
+    "en": "Build it right from the start, invest right from the roots."
+  },
+  "sections": [
+    {
+      "key": "about",
+      "vi": "Anh Lê Tuấn Anh là Founder của Quản lý xây nhà BeHouse, đồng thời phát triển các mô hình lưu trú ven biển với BeHotel. Anh đại diện cho một cách làm xây dựng và đầu tư chính trực, minh bạch và có kiểm soát. Anh muốn được nhớ đến như người giúp khách hàng xây đúng ngay từ đầu và đầu tư đúng ngay từ gốc, để không phải trả giá bằng những sai lầm.",
+      "en": "Lê Tuấn Anh is the founder of BeHouse, a home-construction management company, and is also developing coastal accommodation models under BeHotel. He stands for an approach to construction and investment that is honest, transparent, and controlled. He wants to be remembered as the person who helps clients build right from the start and invest right from the roots, so they never pay the price of costly mistakes."
+    },
+    {
+      "key": "business",
+      "vi": "BeHouse chuyên quản lý và giám sát xây dựng nhà dân dụng, trong khi BeHotel phát triển các mô hình lưu trú boutique ven biển. Điểm khác biệt là đội ngũ không chỉ dừng ở việc xây dựng, mà còn hiểu cách biến một công trình thành một sản phẩm có thể khai thác hiệu quả — tức là làm đúng từ xây dựng đến vận hành.",
+      "en": "BeHouse specializes in managing and supervising residential construction, while BeHotel develops boutique coastal accommodation models. What sets them apart is that the team doesn't stop at construction — they understand how to turn a building into a product that can be operated profitably. In other words, doing it right from construction through to operations."
+    },
+    {
+      "key": "journey",
+      "vi": "Anh Tuấn Anh khởi đầu từ ngành xây dựng và nhận ra rất nhiều chủ nhà không kiểm soát được công trình của chính mình. Khi bước sang lĩnh vực lưu trú, anh thấy thêm một vấn đề khác: nhiều người bỏ vốn đầu tư nhưng sai ngay từ mô hình. Từ đó, anh chọn kết nối hai góc nhìn — xây dựng và khai thác — để tạo ra một hướng đi rõ ràng và thực tế hơn cho khách hàng.",
+      "en": "Tuấn Anh started out in construction and realized that many homeowners had no real control over their own projects. Moving into hospitality, he saw another problem: many people invest capital but get the business model wrong from the outset. From there, he chose to connect the two perspectives — construction and operations — to create a clearer, more practical path for his clients."
+    },
+    {
+      "key": "achievements",
+      "vi": "BeHouse đã đồng hành trên 500 dự án nhà phố, biệt thự, văn phòng, toà nhà căn hộ dịch vụ và khách sạn, giúp khách hàng kiểm soát tốt tiến độ và chất lượng, hạn chế phát sinh chi phí lớn, và chủ động trong toàn bộ quá trình xây dựng. Song song, BeHotel đang từng bước phát triển các mô hình lưu trú ven biển theo hướng boutique, tập trung vào trải nghiệm và hiệu quả dài hạn. Điều quan trọng nhất: khách hàng không chỉ xây xong, mà còn khai thác được giá trị của công trình.",
+      "en": "BeHouse has accompanied more than 500 projects — townhouses, villas, offices, serviced apartment buildings, and hotels — helping clients keep schedules and quality under control, limit major cost overruns, and stay in charge throughout the entire construction process. In parallel, BeHotel is steadily developing boutique coastal accommodation models focused on guest experience and long-term returns. Most important of all: clients don't just finish building — they unlock the real value of their property."
+    },
+    {
+      "key": "vision",
+      "vi": "Anh Tuấn Anh muốn đưa BeHouse trở thành đơn vị hàng đầu trong quản lý xây dựng nhà dân dụng tại Việt Nam, đồng thời phát triển BeHotel thành chuỗi lưu trú boutique ven biển có bản sắc riêng. Mục tiêu dài hạn là xây dựng một hệ sinh thái giúp khách hàng đi trọn hành trình: từ xây dựng, đến đầu tư, đến khai thác hiệu quả.",
+      "en": "Tuấn Anh aims to make BeHouse the leading residential construction management firm in Vietnam, while growing BeHotel into a chain of boutique coastal accommodations with a distinctive identity. The long-term goal is an ecosystem that takes clients through the full journey: from construction, to investment, to profitable operation."
+    },
+    {
+      "key": "philosophy",
+      "vi": "Anh tin rằng làm đúng ngay từ đầu luôn rẻ hơn sửa sai. Mọi quyết định đều dựa trên ba yếu tố: chính trực – kỷ luật – cải tiến liên tục. Anh xây dựng đội ngũ theo hướng rõ ràng, có hệ thống, nhưng luôn hướng đến việc làm tốt hơn mỗi ngày.",
+      "en": "He believes that doing things right from the start is always cheaper than fixing mistakes. Every decision rests on three principles: integrity, discipline, and continuous improvement. He builds his team to be clear and systematic, while always striving to do better every day."
+    },
+    {
+      "key": "customers",
+      "vi": "Khách hàng của BeHouse và BeHotel gồm hai nhóm chính: chủ nhà xây nhà phố, biệt thự, văn phòng, toà nhà căn hộ dịch vụ, khách sạn; và nhà đầu tư làm homestay, biệt thự nghỉ dưỡng, boutique hotel ven biển. Vấn đề mà BeHouse và BeHotel giải quyết cho khách hàng là định hướng đầu tư, kiểm soát xây dựng và vận hành hiệu quả. Referral lý tưởng là người đang chuẩn bị xây nhà hoặc đang cân nhắc đầu tư mô hình bất động sản cho thuê.",
+      "en": "BeHouse and BeHotel serve two main customer groups: homeowners building townhouses, villas, offices, serviced apartment buildings, or hotels; and investors developing homestays, resort villas, or boutique coastal hotels. The problems they solve are investment direction, construction control, and efficient operations. The ideal referral is someone preparing to build or considering an investment in rental real estate."
+    },
+    {
+      "key": "referrals",
+      "vi": "Anh Tuấn Anh cần những kết nối: người có khách đang chuẩn bị xây nhà; người quan tâm đến đầu tư lưu trú ven biển; các đối tác trong hệ sinh thái xây dựng, nội thất, vật liệu, bất động sản; và các đối tác đang đầu tư, khai thác các mô hình homestay, khách sạn, resort ven biển. Anh đặc biệt trân trọng những nhà đầu tư đồng hành có tư duy tạo giá trị thật và dài hạn với bất động sản cho thuê — thay vì chỉ đầu cơ đất — trong bối cảnh thị trường chưa thực sự hiểu giá trị của một đơn vị quản lý dự án và giám sát xây dựng độc lập.",
+      "en": "Tuấn Anh is looking for connections to: people whose clients are preparing to build a home; those interested in coastal accommodation investment; partners across the construction, interiors, materials, and real estate ecosystem; and partners currently investing in and operating homestays, hotels, and coastal resorts. He especially values fellow investors with a mindset of creating real, long-term value through rental real estate — rather than land speculation — in a market that does not yet fully appreciate the value of an independent project management and construction supervision partner."
+    }
+  ]
+}

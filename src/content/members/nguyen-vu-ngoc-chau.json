@@ -1,0 +1,51 @@
+{
+  "slug": "nguyen-vu-ngoc-chau",
+  "name": "Nguyễn Vũ Ngọc Châu",
+  "jobTitle": { "vi": "CEO", "en": "CEO" },
+  "company": "Công ty Thương Mại Đầu Tư Chân Nguyên",
+  "industry": { "vi": "Nhập khẩu & phân phối mỹ phẩm", "en": "Cosmetics Import & Distribution" },
+  "founded": "2022",
+  "phone": "0374 998 118",
+  "email": "nvungocchau@gmail.com",
+  "tagline": {
+    "vi": "Chuyên gia làm đẹp công nghệ sinh học, kiến tạo hệ sinh thái cho phụ nữ Việt.",
+    "en": "A biotechnology-driven beauty expert building a wellness ecosystem for Vietnamese women."
+  },
+  "sections": [
+    {
+      "key": "about",
+      "vi": "Nguyễn Vũ Ngọc Châu là chuyên gia làm đẹp trên nền tảng công nghệ sinh học — một người truyền cảm hứng và có tầm ảnh hưởng trong cộng đồng. Chị đang phát triển hệ sinh thái chăm sóc toàn diện dành cho phụ nữ Việt Nam, từ sức khỏe thể chất và tinh thần đến vẻ đẹp diện mạo và tri thức.",
+      "en": "Nguyễn Vũ Ngọc Châu is a beauty expert grounded in biotechnology — an inspiring and influential figure in her community. She is building a holistic care ecosystem for Vietnamese women, spanning physical and mental well-being, outer beauty, and knowledge."
+    },
+    {
+      "key": "business",
+      "vi": "Với 15 năm kinh nghiệm trong ngành phân phối sản phẩm và dịch vụ chăm sóc sức khỏe – làm đẹp chuyên nghiệp, chất lượng cao, Công ty Thương Mại Đầu Tư Chân Nguyên mang đến những giải pháp làm đẹp đáng tin cậy. Điểm khác biệt nằm ở việc ứng dụng công nghệ sinh học vào sản phẩm và dịch vụ — thân thiện với cả người dùng lẫn môi trường.",
+      "en": "With 15 years of experience distributing professional, high-quality health and beauty products and services, Chân Nguyên Trading & Investment Company delivers beauty solutions clients can trust. What sets it apart is the application of biotechnology across its products and services — friendly to both users and the environment."
+    },
+    {
+      "key": "journey",
+      "vi": "Chị Châu tốt nghiệp chuyên ngành Sinh lý học người tại Đại học Khoa học Tự nhiên – Đại học Quốc gia TP.HCM, sau đó có hai năm học tập và nghiên cứu khoa học tại Viện Nghiên cứu và Ứng dụng Tế bào gốc – Đại học Quốc gia TP.HCM. Từ việc phân phối sản phẩm, dịch vụ tế bào tự thân, chị phát triển sang phân phối các hãng mỹ phẩm châu Âu chuyên nghiệp về chăm sóc da và tóc trong thị trường làm đẹp.",
+      "en": "Châu graduated in Human Physiology from the University of Science – Vietnam National University HCMC, followed by two years of study and scientific research at the university's Stem Cell Research and Application Institute. Starting with the distribution of autologous cell products and services, she moved on to distributing professional European cosmetic brands in skin and hair care across the beauty market."
+    },
+    {
+      "key": "achievements",
+      "vi": "Hành trình học tập và chuyên môn của chị Châu ghi dấu nhiều cột mốc: tốt nghiệp Sinh lý học tại Đại học Khoa học Tự nhiên TP.HCM; hoàn thành khóa Fundamentals of Neuroscience (Harvard) và Vision and Opportunity (University of Leeds); là chuyên gia về sức khỏe và làm đẹp; thành viên AIWS (Artificial Intelligence World Society); có thành tích nổi bật trong nghiên cứu tín hiệu tế bào ung thư và đổi mới liệu pháp điều trị. Fanpage Elise Châu của chị hiện có 170.000 người theo dõi.",
+      "en": "Châu's academic and professional journey features many milestones: a physiology degree from the University of Science HCMC; completed courses in Fundamentals of Neuroscience (Harvard) and Vision and Opportunity (University of Leeds); recognition as a beauty and health expert; membership of AIWS (Artificial Intelligence World Society); and outstanding work in cancer cell signaling and therapy innovation. Her fanpage, Elise Châu, has 170,000 followers."
+    },
+    {
+      "key": "vision",
+      "vi": "Trong những năm tới, chị Châu đặt mục tiêu kiến tạo một cộng đồng phụ nữ ưu tú với 500.000 người theo dõi, đồng thời chinh phục cột mốc 100.000 khách hàng trực tiếp.",
+      "en": "In the years ahead, Châu aims to build an elite community of women with 500,000 followers, while reaching the milestone of 100,000 direct customers."
+    },
+    {
+      "key": "philosophy",
+      "vi": "Triết lý của chị Châu gói gọn trong hai điều: học tập trọn đời và phát triển bền vững.",
+      "en": "Châu's philosophy comes down to two commitments: lifelong learning and sustainable development."
+    },
+    {
+      "key": "customers",
+      "vi": "Khách hàng của chị Châu là khách hàng trực tiếp đến từ các nền tảng và sàn thương mại điện tử, cùng nhóm khách hàng có nhu cầu chăm sóc cá nhân hóa chuyên nghiệp, cao cấp — những người có thu nhập cá nhân trên 100.000 USD.",
+      "en": "Châu serves direct customers from online platforms and e-commerce marketplaces, alongside clients seeking professional, premium, personalized care — individuals with personal incomes above USD 100,000."
+    }
+  ]
+}

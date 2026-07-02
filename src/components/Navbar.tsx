@@ -15,6 +15,7 @@ export default function Navbar() {
 
   const navigation = [
     { label: t("home"), href: "/" as const },
+    { label: t("members"), href: "/members" as const },
     { label: t("memberResources"), href: "/member-resources" as const },
     {
       label: t("leadershipTeams"),

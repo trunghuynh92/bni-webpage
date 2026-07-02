@@ -1,0 +1,56 @@
+{
+  "slug": "tran-thi-tuyet-hang",
+  "name": "Trần Thị Tuyết Hằng",
+  "jobTitle": { "vi": "Giám đốc", "en": "Director" },
+  "company": "Công ty TNHH Tuấn Nguyễn Gia",
+  "industry": { "vi": "Thiết bị điện", "en": "Electrical Equipment" },
+  "founded": "2011",
+  "phone": "0903 709 839",
+  "email": "hangtranthituyet@gmail.com",
+  "tagline": {
+    "vi": "Thiết bị điện chính hãng, giá hợp lý, giao hàng nhanh cho công trình.",
+    "en": "Genuine electrical equipment at fair prices, delivered fast to every project."
+  },
+  "sections": [
+    {
+      "key": "about",
+      "vi": "Trần Thị Tuyết Hằng là Giám đốc Công ty Tuấn Nguyễn Gia, chuyên cung cấp thiết bị điện cho các công trình xây dựng. Với 15 năm kinh nghiệm trong ngành sản xuất dây cáp viễn thông trước đó, chị thành lập công ty với mong muốn phân phối các mặt hàng chất lượng, giá cả hợp lý từ những thương hiệu uy tín đến các công ty thi công xây dựng.",
+      "en": "Tran Thi Tuyet Hang is the Director of Tuan Nguyen Gia Co., Ltd., specializing in supplying electrical equipment for construction projects. Building on 15 years of prior experience in telecommunications cable manufacturing, she founded the company with the goal of distributing quality, fairly priced products from reputable brands to construction contractors."
+    },
+    {
+      "key": "business",
+      "vi": "Công ty TNHH Tuấn Nguyễn Gia, thành lập năm 2011, chuyên cung cấp dây cáp điện, đèn chiếu sáng và đèn năng lượng cho các công trình xây dựng. Thế mạnh của công ty là hàng chất lượng từ các thương hiệu uy tín, đáp ứng tốt các công trình vừa và nhỏ, cùng tốc độ giao hàng nhanh — yếu tố then chốt giúp nhà thầu giữ đúng tiến độ thi công.",
+      "en": "Tuan Nguyen Gia Co., Ltd., founded in 2011, supplies electrical cables, lighting, and solar-powered lights for construction projects. The company's strengths are quality products from reputable brands, a strong fit for small and mid-sized projects, and fast delivery — a critical factor in helping contractors stay on schedule."
+    },
+    {
+      "key": "journey",
+      "vi": "Chị Hằng xuất phát từ mảng kinh doanh trong lĩnh vực cáp viễn thông tại một công ty sản xuất, trưởng thành từ vị trí chuyên viên lên trưởng phòng kinh doanh trong hơn 15 năm. Bước sang lĩnh vực thiết bị điện, chị đối mặt với không ít thử thách: thị trường bất động sản và xây dựng nhiều giai đoạn biến động ảnh hưởng trực tiếp đến tệp khách hàng, giá cả đầu vào liên tục tăng trong khi báo giá công trình thường mang tính dài hạn, cùng mức độ cạnh tranh cao của ngành. Chính những thử thách đó đã tôi luyện bản lĩnh kinh doanh và sự bền bỉ của chị.",
+      "en": "Hang began her career in telecommunications cable sales at a manufacturing company, rising from specialist to head of sales over more than 15 years. Moving into the electrical equipment field, she faced no shortage of challenges: real estate and construction market swings directly affecting her customer base, input prices constantly rising while project quotes are typically long-term commitments, and intense industry competition. Those very challenges forged her business resilience and staying power."
+    },
+    {
+      "key": "achievements",
+      "vi": "Tuấn Nguyễn Gia đạt doanh thu trung bình 12 tỷ đồng mỗi năm và xây dựng được tệp khách hàng uy tín trong lĩnh vực xây dựng, cơ điện (ME) và thi công nội thất, tiêu biểu như Bcons, Bình Sơn, Moondecor, Huỳnh Lai, Thang máy Bách Khoa…",
+      "en": "Tuan Nguyen Gia generates average annual revenue of VND 12 billion and has built a respected client base in construction, mechanical and electrical (M&E), and interior fit-out, including names such as Bcons, Binh Son, Moondecor, Huynh Lai, and Bach Khoa Elevator."
+    },
+    {
+      "key": "vision",
+      "vi": "Mục tiêu của chị Hằng là duy trì doanh thu ổn định với mức tăng trưởng tốt, phát triển thêm nhiều khách hàng thân thiết, và tiếp tục cung cấp các sản phẩm chất lượng với giá cả hợp lý — nền tảng cho mối quan hệ hợp tác lâu dài với các nhà thầu.",
+      "en": "Hang's goal is to maintain steady revenue with healthy growth, expand her base of loyal customers, and continue delivering quality products at fair prices — the foundation for long-term partnerships with contractors."
+    },
+    {
+      "key": "philosophy",
+      "vi": "Triết lý kinh doanh của chị Hằng xoay quanh chất lượng sản phẩm và giá cả cạnh tranh — mọi quyết định bán hàng đều dựa trên hai yếu tố này. Chị xây dựng đội ngũ bán hàng và chăm sóc khách hàng tận tâm, với nguyên tắc nhất quán: bán hàng chất lượng, đúng giá.",
+      "en": "Hang's business philosophy centers on product quality and competitive pricing — every sales decision is grounded in these two factors. She has built a dedicated sales and customer care team around one consistent principle: quality products, honestly priced."
+    },
+    {
+      "key": "customers",
+      "vi": "Khách hàng mục tiêu của Tuấn Nguyễn Gia là các công ty xây dựng, đơn vị cơ điện (ME), nhà máy và đơn vị thi công nội thất. Cam kết của công ty với khách hàng rất rõ ràng: tiến độ giao hàng luôn đáp ứng và chất lượng sản phẩm đúng như đã cam kết.",
+      "en": "Tuan Nguyen Gia's target customers are construction companies, M&E contractors, factories, and interior fit-out firms. The company's commitment to its clients is clear: delivery schedules are always met, and product quality is exactly as promised."
+    },
+    {
+      "key": "referrals",
+      "vi": "Lời giới thiệu lý tưởng dành cho chị Hằng là kết nối với các khách hàng trong cùng lĩnh vực — các công ty xây dựng, đơn vị cơ điện (ME), nhà máy và đơn vị thi công nội thất đang cần nguồn cung dây cáp điện, đèn chiếu sáng và đèn năng lượng ổn định, chất lượng. Trong bối cảnh thị trường cạnh tranh mạnh về giá, những kết nối trực tiếp với chủ đầu tư và nhà thầu uy tín từ cộng đồng BNI chính là sự hỗ trợ giá trị nhất cho chị.",
+      "en": "Hang's ideal referral is a connection to customers in her field — construction companies, M&E contractors, factories, and interior fit-out firms needing a stable, quality supply of electrical cables, lighting, and solar lights. In a market where price competition is fierce, direct introductions to reputable investors and contractors from the BNI community are the most valuable support she can receive."
+    }
+  ]
+}

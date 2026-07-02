@@ -1,0 +1,56 @@
+{
+  "slug": "mai-xuan-ninh",
+  "name": "Mai Xuân Ninh",
+  "jobTitle": { "vi": "Giám đốc", "en": "Director" },
+  "company": "Công ty TNHH Phát triển Nhà Khang Thịnh",
+  "industry": { "vi": "Xây dựng dân dụng", "en": "Residential Construction" },
+  "founded": "2016",
+  "phone": "0936 889 986",
+  "email": "ninhmx@gmail.com",
+  "tagline": {
+    "vi": "Xây nhà trọn gói chuẩn Nhật: đúng chất lượng, đúng tiến độ, không phát sinh.",
+    "en": "Japanese-standard turnkey home building: right quality, on time, no cost overruns."
+  },
+  "sections": [
+    {
+      "key": "about",
+      "vi": "Mai Xuân Ninh là Giám đốc Công ty Xây dựng Khang Thịnh, hoạt động trong lĩnh vực xây dựng dân dụng. Với hơn mười năm hoạt động tại TP.HCM, anh và đội ngũ không chỉ am hiểu đặc tính địa chất, thời tiết, khí hậu để đưa ra biện pháp thi công phù hợp nhất, mà còn dày dạn kinh nghiệm xử lý các tình huống khó liên quan đến nhà lân cận, hàng xóm và thi công trong hẻm nhỏ — những bài toán rất đặc thù của việc xây nhà tại Sài Gòn.",
+      "en": "Mai Xuan Ninh is the Director of Khang Thinh Construction, operating in residential construction. With over ten years of experience in Ho Chi Minh City, he and his team not only understand the local soil conditions, weather, and climate to apply the most suitable construction methods, but are also highly experienced in handling difficult situations involving adjacent houses, neighbors, and construction in narrow alleys — challenges unique to building homes in Saigon."
+    },
+    {
+      "key": "business",
+      "vi": "Công ty TNHH Phát triển Nhà Khang Thịnh, thành lập năm 2016, là đơn vị chuyên xây nhà trọn gói tại TP.HCM. Gói thi công đã bao gồm tất cả những hạng mục cần thiết cho chất lượng công trình, đi kèm ba cam kết rõ ràng: đúng chất lượng cam kết, đúng tiến độ đề ra và không phát sinh chi phí. Đặc biệt, Khang Thịnh đồng hành cùng chủ nhà trong suốt thời gian sử dụng công trình, chứ không dừng lại ở ngày bàn giao.",
+      "en": "Khang Thinh Housing Development Co., Ltd., founded in 2016, specializes in turnkey home construction in Ho Chi Minh City. Its all-inclusive packages cover everything needed for build quality, backed by three clear commitments: the promised quality, the agreed timeline, and no cost overruns. Notably, Khang Thinh stays with homeowners throughout the life of the building — its service does not end on handover day."
+    },
+    {
+      "key": "journey",
+      "vi": "Trước khi sáng lập Khang Thịnh, anh Ninh có 5 năm làm việc tại một công ty Nhật Bản với tiêu chí rất cao về chất lượng và thái độ làm dịch vụ, chuyên phục vụ người Nhật tại Việt Nam. Từ trải nghiệm đó, anh nhận ra hoàn toàn có thể tùy chỉnh tiêu chuẩn chất lượng để phù hợp với tệp khách hàng vừa và nhỏ tại TP.HCM, nhưng vẫn giữ nguyên thái độ làm dịch vụ của người Nhật để phục vụ người Việt — với mức chi phí tốt hơn rất nhiều.",
+      "en": "Before founding Khang Thinh, Ninh spent five years at a Japanese company known for exacting standards of quality and service, serving Japanese clients in Vietnam. From that experience, he realized it was entirely possible to adapt quality standards to suit small and mid-sized homeowners in Ho Chi Minh City — while preserving the Japanese service ethos for Vietnamese customers, at a far more accessible cost."
+    },
+    {
+      "key": "achievements",
+      "vi": "Khang Thịnh đã thực hiện hàng trăm dự án xây mới tại TP.HCM và đồng hành cùng chủ nhà vượt qua nhiều tình huống khó về pháp lý và công trình lân cận. Công ty sở hữu kinh nghiệm thi công hàng chục dự án sàn phẳng vượt nhịp lớn — một kỹ thuật đòi hỏi năng lực cao. Minh chứng rõ nhất cho chất lượng dịch vụ là lượng khách hàng thân thiết đông đảo, tiếp tục tin tưởng giao thực hiện nhiều dự án tiếp theo.",
+      "en": "Khang Thinh has completed hundreds of new-build projects in Ho Chi Minh City and helped homeowners navigate many difficult legal and neighboring-property situations. The company has executed dozens of long-span flat-slab projects — a technique demanding high engineering capability. The clearest proof of its service quality is its large base of loyal customers who keep entrusting Khang Thinh with their next projects."
+    },
+    {
+      "key": "vision",
+      "vi": "Anh Ninh mong muốn góp một phần nhỏ bé trong việc nâng cao và đồng bộ chất lượng của các đơn vị thi công vừa và nhỏ tại TP.HCM. Với Khang Thịnh, mục tiêu là duy trì lượng lớn khách hàng thân thiết — những người quay lại tiếp tục sử dụng dịch vụ và giới thiệu khách hàng mới từ chính trải nghiệm thực tế của mình.",
+      "en": "Ninh hopes to play his part in raising and standardizing the quality of small and mid-sized construction firms in Ho Chi Minh City. For Khang Thinh, the goal is to maintain a large base of loyal customers — people who return for future projects and refer new clients based on their own real experience."
+    },
+    {
+      "key": "philosophy",
+      "vi": "Với anh Ninh, chất lượng công trình là yếu tố hàng đầu; việc tư vấn và hỗ trợ khách hàng phải xuất phát từ cái tâm của một người làm nghề nhiều năm. Nguyên tắc của đội ngũ Khang Thịnh rất rõ ràng: thiếu sót có thể có, nhưng tuyệt đối không được gian dối trong bất kỳ hoàn cảnh nào. Anh tin rằng uy tín là thứ duy nhất giúp doanh nghiệp tồn tại và phát triển.",
+      "en": "For Ninh, build quality comes first, and advising clients must come from the heart of a seasoned professional. The Khang Thinh team's principle is unambiguous: mistakes may happen, but dishonesty is never acceptable under any circumstances. He believes reputation is the only thing that allows a business to survive and grow."
+    },
+    {
+      "key": "customers",
+      "vi": "Khách hàng của Khang Thịnh là tất cả các cá nhân có nhu cầu xây nhà trọn gói — đặc biệt là các anh chị chủ nhà bận rộn, ít thời gian, không am hiểu về xây dựng và cần giao phó cho một đơn vị uy tín. Công ty cũng là địa chỉ tin cậy cho những ai đang gặp vướng mắc pháp lý liên quan đến đất đai, xây dựng hay tranh chấp với hàng xóm.",
+      "en": "Khang Thinh's customers are individuals looking to build a home on a turnkey basis — especially busy homeowners with little time or construction knowledge who need a trustworthy firm they can fully delegate to. The company is also a reliable partner for anyone facing legal complications around land, construction permits, or neighbor disputes."
+    },
+    {
+      "key": "referrals",
+      "vi": "Anh Ninh tham gia BNI để tiếp xúc với nguồn năng lượng tích cực, học hỏi kiến thức và kinh nghiệm thực tế từ các chủ doanh nghiệp khác, kết nối và tìm kiếm khách hàng mới. Lời giới thiệu lý tưởng dành cho anh là các cá nhân đang có kế hoạch xây nhà trọn gói tại TP.HCM, đặc biệt là chủ nhà bận rộn cần một đơn vị uy tín để giao phó trọn vẹn, hoặc đang gặp vướng mắc pháp lý về đất đai, xây dựng và công trình lân cận — nhất là trong bối cảnh các quy định xây dựng tại TP.HCM thay đổi liên tục.",
+      "en": "Ninh joined BNI to be around positive energy, learn practical knowledge and experience from fellow business owners, connect, and find new customers. His ideal referral is anyone planning a turnkey home build in Ho Chi Minh City — especially busy homeowners who need a trustworthy firm to fully take charge, or those facing legal complications around land, permits, or neighboring properties, particularly as the city's construction regulations keep changing."
+    }
+  ]
+}

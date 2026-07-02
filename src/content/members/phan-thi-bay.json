@@ -1,0 +1,56 @@
+{
+  "slug": "phan-thi-bay",
+  "name": "Phan Thi Bay",
+  "jobTitle": { "vi": "Giám đốc", "en": "Director" },
+  "company": "Nha Khoa Mỹ Nha",
+  "industry": { "vi": "Nha khoa", "en": "Dentistry" },
+  "founded": "2007",
+  "phone": "0933 494 655",
+  "email": "dr.bay.mynhadental@gmail.com",
+  "tagline": {
+    "vi": "Chuyên gia răng sứ và implant, kiến tạo nụ cười sang trọng mang dấu ấn riêng.",
+    "en": "A porcelain crown and implant specialist crafting elegant smiles with a signature touch."
+  },
+  "sections": [
+    {
+      "key": "about",
+      "vi": "Bác sĩ Phan Thi Bay là chuyên gia răng sứ với thế mạnh tạo nên nét riêng và nét sang cho từng nụ cười. Chị theo đuổi hướng chỉnh nha cơ sinh học và đặc biệt chuyên sâu trong lĩnh vực cấy ghép implant an toàn — những kỹ thuật đòi hỏi cả tay nghề tinh tế lẫn sự am hiểu sâu về chuyên môn.",
+      "en": "Dr. Phan Thi Bay is a porcelain crown specialist known for giving each smile its own distinctive, elegant character. She practices biomechanical orthodontics and has deep expertise in safe dental implant placement — techniques that demand both refined craftsmanship and profound clinical knowledge."
+    },
+    {
+      "key": "business",
+      "vi": "Nha Khoa Mỹ Nha cung cấp các dịch vụ điều trị nha khoa chuyên sâu, được thực hiện bởi đội ngũ chuyên gia và hỗ trợ bằng công nghệ nha khoa hiện đại. Điều làm nên sự khác biệt của phòng khám chính là tinh thần yêu thương bệnh nhân: mỗi khách hàng đều được chăm sóc tận tâm như người thân trong gia đình.",
+      "en": "Nha Khoa Mỹ Nha (My Nha Dental Clinic) provides advanced, specialist-led dental treatments supported by modern dental technology. What sets the clinic apart is its genuine care for patients: every client is looked after with the warmth and attention reserved for family."
+    },
+    {
+      "key": "journey",
+      "vi": "Hành trình làm nghề của bác sĩ Bay được dẫn dắt bởi mong muốn chăm sóc sức khỏe răng miệng cho cộng đồng, đồng thời góp phần nâng cao uy tín của ngành nha khoa Việt Nam trong mắt khách hàng quốc tế.",
+      "en": "Dr. Bay's professional journey is guided by a desire to care for the community's oral health while helping elevate the reputation of Vietnamese dentistry in the eyes of international patients."
+    },
+    {
+      "key": "achievements",
+      "vi": "Thành quả mà bác sĩ Bay tự hào nhất là sự tin tưởng của cộng đồng: khách hàng trong và ngoài nước liên tục được giới thiệu đến điều trị tại phòng khám, đặc biệt là từ cộng đồng BNI — minh chứng rõ nét cho chất lượng chuyên môn và sự tận tâm trong từng ca điều trị.",
+      "en": "The achievement Dr. Bay is proudest of is the community's trust: patients from Vietnam and abroad are continually referred to her clinic, especially through the BNI community — clear proof of her clinical quality and dedication in every case."
+    },
+    {
+      "key": "vision",
+      "vi": "Trong những năm tới, bác sĩ Bay hướng đến xây dựng hệ thống nha khoa chuyên sâu, ứng dụng các công nghệ mới nhất và phát triển mô hình dental tour để thu hút khách hàng quốc tế đến Việt Nam điều trị nha khoa.",
+      "en": "In the years ahead, Dr. Bay aims to build a specialized dental system that applies the latest technologies and develops a dental tourism model, attracting international patients to Vietnam for their dental care."
+    },
+    {
+      "key": "philosophy",
+      "vi": "Triết lý làm nghề của bác sĩ Bay gói gọn trong hai giá trị: yêu thương và tiến bộ. Yêu thương dành cho từng bệnh nhân, và không ngừng tiến bộ trong chuyên môn để mang lại kết quả điều trị tốt nhất.",
+      "en": "Dr. Bay's professional philosophy rests on two values: love and progress. Love for every patient, and continuous professional advancement to deliver the best possible treatment outcomes."
+    },
+    {
+      "key": "customers",
+      "vi": "Khách hàng của Nha Khoa Mỹ Nha là các cá nhân, gia đình và tập thể có nhu cầu chăm sóc sức khỏe răng miệng định kỳ, cũng như những khách hàng mong muốn phục hồi thẩm mỹ nụ cười và chức năng nhai bằng kỹ thuật cấy ghép implant.",
+      "en": "Nha Khoa Mỹ Nha serves individuals, families, and organizations seeking regular oral health care, as well as clients looking to restore the beauty of their smile and their chewing function through dental implants."
+    },
+    {
+      "key": "referrals",
+      "vi": "Đến với BNI, bác sĩ Bay tìm kiếm những mối quan hệ hỗ trợ lẫn nhau và cùng học hỏi. Trong bối cảnh quảng cáo trực tuyến cạnh tranh thiếu lành mạnh, những lời giới thiệu tin cậy từ người thật, trải nghiệm thật chính là kênh kết nối giá trị nhất. Hãy giới thiệu cho chị các cá nhân, gia đình và doanh nghiệp có nhu cầu chăm sóc răng miệng định kỳ, làm răng sứ thẩm mỹ hoặc cấy ghép implant.",
+      "en": "Through BNI, Dr. Bay seeks mutually supportive relationships and opportunities to learn. In a market crowded with misleading online advertising, trusted word-of-mouth referrals from real people with real experiences are the most valuable connections. Refer to her individuals, families, and businesses in need of regular dental care, cosmetic porcelain crowns, or dental implants."
+    }
+  ]
+}

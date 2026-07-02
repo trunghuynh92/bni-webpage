@@ -20,7 +20,8 @@
     "mcRelations": "MC Relations",
     "mentorCoordinator": "Mentor Coordinator",
     "visitorHosts": "Visitor Hosts",
-    "educationCoordinator": "Education Coordinator"
+    "educationCoordinator": "Education Coordinator",
+    "members": "Members"
   },
   "LanguageSwitcher": {
     "en": "EN",
@@ -261,5 +262,31 @@
     "facebook": "Facebook",
     "linkedin": "LinkedIn",
     "youtube": "YouTube"
+  },
+  "Members": {
+    "title": "Our Members",
+    "subtitle": "Meet the business owners and leaders of BNI MASTER — one member per profession, all committed to helping each other grow.",
+    "count": "{count} members strong",
+    "backToMembers": "All Members",
+    "quickFacts": "Quick Facts",
+    "company": "Company",
+    "industry": "Industry",
+    "founded": "Founded",
+    "foundedIn": "Founded {year}",
+    "phone": "Phone",
+    "email": "Email",
+    "connectCta": "Connect with {name}",
+    "connectSubtitle": "Send an email to start the conversation",
+    "gallery": "Business Gallery",
+    "sections": {
+      "about": "About",
+      "business": "The Business",
+      "journey": "The Journey",
+      "achievements": "Achievements",
+      "vision": "Vision",
+      "philosophy": "Business Philosophy",
+      "customers": "Ideal Customers",
+      "referrals": "Referral Connections"
+    }
   }
 }

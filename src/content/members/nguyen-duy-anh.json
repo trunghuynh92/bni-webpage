@@ -1,0 +1,56 @@
+{
+  "slug": "nguyen-duy-anh",
+  "name": "Nguyễn Duy Anh",
+  "jobTitle": { "vi": "Luật sư", "en": "Lawyer" },
+  "company": "Công ty Luật An Phú",
+  "industry": { "vi": "Luật - Luật sư", "en": "Legal Services" },
+  "founded": "2008",
+  "phone": "0904 110 479",
+  "email": "lsduyanh79@gmail.com",
+  "tagline": {
+    "vi": "\"Đúng cãi - Sai cãi\" - tận tâm bảo vệ quyền lợi hợp pháp của bạn.",
+    "en": "\"Right or wrong, we argue your case\" - dedicated to protecting your lawful rights."
+  },
+  "sections": [
+    {
+      "key": "about",
+      "vi": "Luật sư Nguyễn Duy Anh hoạt động trong lĩnh vực pháp luật và tư vấn luật, chuyên giải quyết các vấn đề về hôn nhân gia đình, đòi quyền tài sản hợp pháp và di sản thừa kế trong và ngoài nước. Với anh, nói đến luật là phải tranh luận - tinh thần ấy được gói gọn trong slogan đầy cá tính: \"Đúng cãi - Sai cãi\".",
+      "en": "Lawyer Nguyễn Duy Anh practices law and legal consulting, specializing in family and marriage matters, lawful property claims, and inheritance cases both in Vietnam and abroad. For him, the law means advocacy - a spirit captured in his distinctive slogan: \"Right or wrong, we argue your case.\""
+    },
+    {
+      "key": "business",
+      "vi": "Công ty Luật An Phú được thành lập năm 2008, cung cấp các dịch vụ pháp lý bao gồm tố tụng hình sự và tư vấn doanh nghiệp. Điểm khác biệt của An Phú nằm ở cam kết hiệu quả công việc tương xứng với mức phí: làm việc có tâm, theo đuổi vụ việc đến hết toàn bộ các giai đoạn tố tụng và không phát sinh chi phí ngoài thỏa thuận.",
+      "en": "An Phú Law Firm was established in 2008, providing legal services including criminal litigation and corporate advisory. What sets An Phú apart is its commitment to results that match its fees: working with integrity, seeing every case through all stages of proceedings, with no costs beyond the agreed fee."
+    },
+    {
+      "key": "journey",
+      "vi": "Hành trình nghề nghiệp của anh bắt đầu định hình từ năm 2015, xuất phát từ các vụ việc liên quan đến thu hồi nợ tại Củ Chi. Thử thách lớn nhất trong giai đoạn này là những vụ thu hồi nợ khi bên nợ không còn tài sản - chính những ca khó ấy đã tôi luyện bản lĩnh và kinh nghiệm thực chiến của anh.",
+      "en": "His professional path took shape from 2015, beginning with debt recovery cases in Củ Chi. The greatest challenge of that period was recovering debts when the debtor no longer had assets - and it was precisely those difficult cases that forged his resilience and hands-on experience."
+    },
+    {
+      "key": "achievements",
+      "vi": "Công ty Luật An Phú duy trì doanh thu tăng trưởng ổn định và phát triển đội ngũ lên quy mô 6 luật sư. Một trong những vụ việc lớn và khó mà anh tự hào nhất là thành công trong vụ đòi quyền lợi bảo hiểm với công ty PVI.",
+      "en": "An Phú Law Firm has maintained steady revenue growth and built a team of six lawyers. One of the largest and most challenging cases he takes pride in was successfully pursuing an insurance claim against PVI."
+    },
+    {
+      "key": "vision",
+      "vi": "Anh mong muốn đưa công ty phát triển đến mức mọi người đều có thể tiếp cận và hiểu pháp luật, để pháp luật thực sự trở thành công cụ mang lại sự cân bằng cho xã hội.",
+      "en": "He aspires to grow the firm to a point where everyone can access and understand the law, so that the law truly becomes an instrument of balance for society."
+    },
+    {
+      "key": "philosophy",
+      "vi": "Mọi quyết định của anh đều dựa trên sự công bằng của pháp luật. Anh mong muốn xây dựng một đội ngũ làm việc có tâm, và tin rằng giá trị bền vững nhất là khi mọi người đều hiểu và làm đúng pháp luật.",
+      "en": "Every decision he makes is grounded in the fairness of the law. He strives to build a team that works with integrity, and believes the most enduring value comes when everyone understands and abides by the law."
+    },
+    {
+      "key": "customers",
+      "vi": "Khách hàng của anh là tất cả những ai đang gặp khó khăn về pháp luật. Khách hàng lý tưởng là những người đang bế tắc, mất định hướng trước các vấn đề pháp lý trong cuộc sống - và vai trò của anh là giải quyết trọn vẹn những khó khăn đó.",
+      "en": "His clients are anyone facing legal difficulties. His ideal clients are those who feel stuck or lost when confronted with legal problems in their lives - and his role is to resolve those difficulties completely."
+    },
+    {
+      "key": "referrals",
+      "vi": "Anh mong muốn nhận được sự kết nối từ các thành viên BNI và sự thấu hiểu từ Chapter, vì mỗi cơ hội kết nối đều có thể tạo nên referral giá trị. Referral lý tưởng dành cho anh là những người đang gặp vướng mắc pháp lý và cần một luật sư đáng tin cậy để được giới thiệu.",
+      "en": "He looks forward to connections from BNI members and understanding from the Chapter, as every connection can create a valuable referral. His ideal referral is anyone facing a legal issue who needs a trustworthy lawyer to be introduced to."
+    }
+  ]
+}

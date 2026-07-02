@@ -20,7 +20,8 @@
     "mcRelations": "MC Quan Hệ",
     "mentorCoordinator": "Điều Phối Mentor",
     "visitorHosts": "Đón Tiếp Khách",
-    "educationCoordinator": "Điều Phối Đào Tạo"
+    "educationCoordinator": "Điều Phối Đào Tạo",
+    "members": "Thành Viên"
   },
   "LanguageSwitcher": {
     "en": "EN",
@@ -261,5 +262,31 @@
     "facebook": "Facebook",
     "linkedin": "LinkedIn",
     "youtube": "YouTube"
+  },
+  "Members": {
+    "title": "Thành Viên Chapter",
+    "subtitle": "Gặp gỡ các chủ doanh nghiệp và lãnh đạo của BNI MASTER — mỗi ngành nghề một thành viên, cùng cam kết giúp nhau phát triển.",
+    "count": "{count} thành viên",
+    "backToMembers": "Tất Cả Thành Viên",
+    "quickFacts": "Thông Tin Nhanh",
+    "company": "Công ty",
+    "industry": "Ngành nghề",
+    "founded": "Thành lập",
+    "foundedIn": "Thành lập {year}",
+    "phone": "Điện thoại",
+    "email": "Email",
+    "connectCta": "Kết nối với {name}",
+    "connectSubtitle": "Gửi email để bắt đầu trao đổi",
+    "gallery": "Hình Ảnh Doanh Nghiệp",
+    "sections": {
+      "about": "Giới Thiệu",
+      "business": "Doanh Nghiệp",
+      "journey": "Hành Trình",
+      "achievements": "Thành Tựu",
+      "vision": "Tầm Nhìn",
+      "philosophy": "Triết Lý Kinh Doanh",
+      "customers": "Khách Hàng Mục Tiêu",
+      "referrals": "Cơ Hội Kết Nối"
+    }
   }
 }

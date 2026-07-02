@@ -1,0 +1,56 @@
+{
+  "slug": "ngo-dang-huu-ha",
+  "name": "Ngô Đặng Hữu Hà",
+  "jobTitle": { "vi": "CEO", "en": "CEO" },
+  "company": "Công ty Cổ phần Công nghệ Centrala",
+  "industry": { "vi": "Công nghệ phần mềm", "en": "Software Technology" },
+  "founded": "2018",
+  "phone": "0917 668 662",
+  "email": "ha.ngo@centrala.vn",
+  "tagline": {
+    "vi": "Công nghệ chỉ thực sự có giá trị khi giải quyết được vấn đề thực tế.",
+    "en": "Technology only truly matters when it solves real problems."
+  },
+  "sections": [
+    {
+      "key": "about",
+      "vi": "Ngô Đặng Hữu Hà là Giám đốc điều hành của Công ty Cổ phần Công nghệ Centrala, chuyên gia trong lĩnh vực công nghệ thông tin và phần mềm. Anh dẫn dắt Centrala với định hướng đưa công nghệ trở thành công cụ thiết thực giúp doanh nghiệp vận hành hiệu quả và phát triển bền vững.",
+      "en": "Ngo Dang Huu Ha is the CEO of Centrala Technology Joint Stock Company and a specialist in information technology and software. He leads Centrala with a clear direction: making technology a practical tool that helps businesses operate efficiently and grow sustainably."
+    },
+    {
+      "key": "business",
+      "vi": "Công ty Cổ phần Công nghệ Centrala cung cấp dịch vụ thiết kế website, phát triển ứng dụng di động và cá nhân hóa hệ thống phần mềm quản lý cho doanh nghiệp. Thay vì các giải pháp đóng gói sẵn, Centrala xây dựng hệ thống riêng phù hợp với mô hình kinh doanh của từng khách hàng. Giá trị cốt lõi của công ty gói gọn trong bốn chữ: tận tâm, nhiệt tình, rõ ràng và minh bạch.",
+      "en": "Centrala Technology Joint Stock Company provides website design, mobile app development, and customized management software systems for businesses. Rather than off-the-shelf solutions, Centrala builds tailored systems that fit each client's business model. The company's core values are captured in four words: dedication, enthusiasm, clarity, and transparency."
+    },
+    {
+      "key": "journey",
+      "vi": "Xuất phát từ tình yêu với ngành công nghệ, anh Hà quyết định khởi nghiệp chính trong lĩnh vực mình đam mê. Trên hành trình đó, thử thách lớn nhất với anh không nằm ở kỹ thuật, mà là học cách làm việc và thấu hiểu khách hàng — bài học đã định hình cách Centrala đồng hành cùng doanh nghiệp cho đến hôm nay.",
+      "en": "Driven by his love for technology, Ha chose to build his startup in the field he is most passionate about. Along the way, his greatest challenge was not technical — it was learning how to work with and truly understand customers, a lesson that has shaped how Centrala partners with businesses to this day."
+    },
+    {
+      "key": "achievements",
+      "vi": "Centrala đã phát triển đội ngũ lên 40 nhân viên kỹ thuật và ghi dấu ấn với những dự án quốc tế đáng tự hào: hợp tác với một trong bốn hiệp hội giáo dục lớn nhất Nhật Bản, và phát triển hệ thống ứng dụng di động cho Navis Atlas — một trong những công ty bất động sản lớn nhất Singapore.",
+      "en": "Centrala has grown to a team of 40 technical staff and made its mark with notable international projects: partnering with one of Japan's four largest education associations, and developing a mobile app system for Navis Atlas — one of Singapore's largest real estate companies."
+    },
+    {
+      "key": "vision",
+      "vi": "Trong 3–5 năm tới, anh Hà đặt mục tiêu đưa đội ngũ Centrala đạt quy mô 500 nhân sự. Với anh, tăng trưởng không chỉ là con số — anh mong muốn tạo ra thật nhiều việc làm cho mọi người, đóng góp vào sự phát triển chung của xã hội.",
+      "en": "Over the next three to five years, Ha aims to grow Centrala's team to 500 people. For him, growth is about more than numbers — he wants to create meaningful jobs for many people and contribute to the broader development of society."
+    },
+    {
+      "key": "philosophy",
+      "vi": "Anh Hà tin rằng công nghệ chỉ thực sự có giá trị khi giải quyết được vấn đề thực tế cho khách hàng, vì vậy anh tập trung vào giá trị lâu dài thay vì lợi nhuận ngắn hạn. Về lãnh đạo, anh ưu tiên sự minh bạch, tốc độ và tinh thần đồng hành — không quản lý kiểu kiểm soát chặt, mà xây dựng môi trường nơi mọi người chủ động, chịu trách nhiệm và cùng phát triển. Anh ra quyết định dựa trên ba yếu tố: dữ liệu, trải nghiệm thực tế và tác động dài hạn; ưu tiên thái độ và tinh thần học hỏi trước kỹ năng, vì kỹ năng có thể đào tạo nhưng tinh thần trách nhiệm mới làm nên đội ngũ mạnh. Điều anh luôn giữ vững là uy tín và sự tử tế trong công việc.",
+      "en": "Ha believes technology only truly matters when it solves real problems for customers, so he focuses on long-term value over short-term profit. As a leader, he prioritizes transparency, speed, and partnership — not tight control, but an environment where people take initiative, own their work, and grow together. He makes decisions based on three factors: data, real-world experience, and long-term impact. He values attitude and a learning mindset over skills, since skills can be taught but responsibility is what builds a strong team. Above all, he holds firm to integrity and decency in everything he does."
+    },
+    {
+      "key": "customers",
+      "vi": "Khách hàng mục tiêu của Centrala là các doanh nghiệp muốn chuyển đổi số hoặc tối ưu quy trình vận hành bằng công nghệ — đặc biệt là những đơn vị cần xây dựng hệ thống riêng thay vì dùng giải pháp có sẵn. Các lĩnh vực công ty làm nhiều gồm spa, thương mại điện tử, dịch vụ, bất động sản, giáo dục, quản lý vận hành nội bộ và startup công nghệ, với quy mô chủ yếu từ SME đến doanh nghiệp đang mở rộng. Điều lớn nhất Centrala giúp khách hàng là tối ưu vận hành và giảm phụ thuộc vào quản lý thủ công — không chỉ viết code mà còn tư vấn cách vận hành thực tế. Khách hàng lý tưởng là doanh nghiệp đầu tư nghiêm túc vào công nghệ, rõ ràng trong mục tiêu và xem công nghệ là chiến lược, không chỉ là chi phí.",
+      "en": "Centrala's target customers are businesses looking to digitize or optimize operations with technology — especially those needing custom-built systems rather than off-the-shelf solutions. The company works extensively in spas, e-commerce, services, real estate, education, internal operations management, and tech startups, mainly serving SMEs through scaling businesses. Centrala's biggest value is optimizing operations and reducing reliance on manual management — going beyond writing code to advising on real-world operations. Its ideal customer is a business that invests seriously in technology, has clear goals, and sees technology as strategy rather than mere cost."
+    },
+    {
+      "key": "referrals",
+      "vi": "Điều anh Hà mong muốn nhất từ BNI là những mối quan hệ chất lượng và lâu dài trong cộng đồng doanh nghiệp. Lời giới thiệu lý tưởng là các doanh nghiệp đang có nhu cầu chuyển đổi số hoặc muốn xây dựng hệ thống công nghệ riêng — đặc biệt là các SME cần ứng dụng công nghệ vào vận hành và tăng trưởng, trong bối cảnh nhiều doanh nghiệp còn thận trọng về chi tiêu công nghệ. Centrala đã có khách hàng tại châu Âu, Nhật Bản và Singapore, nên anh cũng tìm kiếm đối tác hợp tác lâu dài để cùng phát triển hệ sinh thái dịch vụ và mở rộng thị trường quốc tế. Bên cạnh đó, anh trân trọng cơ hội học hỏi về quản trị và vận hành từ những anh chị giàu kinh nghiệm trong chapter.",
+      "en": "What Ha wants most from BNI is quality, long-term relationships within the business community. His ideal referral is a business needing digital transformation or a custom technology system — especially SMEs looking to apply technology to their operations and growth, at a time when many companies are cautious about technology spending. With existing clients in Europe, Japan, and Singapore, he is also seeking long-term partners to grow a shared service ecosystem and expand into international markets. He equally values the chance to learn about management and operations from experienced members of the chapter."
+    }
+  ]
+}

@@ -14,6 +14,7 @@ export interface NavItem {
 
 export const navigation: NavItem[] = [
   { label: "Home", href: "/" },
+  { label: "Members", href: "/members" },
   { label: "Member Resources", href: "/member-resources" },
   {
     label: "Leadership Teams",

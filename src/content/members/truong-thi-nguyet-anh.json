@@ -1,0 +1,51 @@
+{
+  "slug": "truong-thi-nguyet-anh",
+  "name": "Trương Thị Nguyệt Ánh",
+  "jobTitle": { "vi": "Tổng Giám đốc", "en": "General Director" },
+  "company": "Công ty Cổ phần Kỹ thuật Bình Sơn",
+  "industry": { "vi": "Cơ điện (M&E) & Năng lượng", "en": "M&E Engineering & Energy" },
+  "founded": "1999",
+  "phone": "0903 970 241",
+  "email": "anh.truong@bsengineering.vn",
+  "tagline": {
+    "vi": "Hơn 25 năm uy tín trong thiết kế và thi công hệ thống cơ điện.",
+    "en": "Over 25 years of trusted M&E design and construction expertise."
+  },
+  "sections": [
+    {
+      "key": "about",
+      "vi": "Trương Thị Nguyệt Ánh là Tổng Giám đốc Công ty Cổ phần Kỹ thuật Bình Sơn, chuyên thiết kế và thi công hệ thống cơ điện trong và ngoài nhà, bao gồm các hệ thống điện hạ thế và trung thế (LV–MV). Chị dẫn dắt doanh nghiệp với bề dày kinh nghiệm trong một lĩnh vực kỹ thuật đòi hỏi độ chính xác và uy tín cao.",
+      "en": "Truong Thi Nguyet Anh is the General Director of Binh Son Engineering Joint Stock Company, specializing in the design and construction of indoor and outdoor mechanical and electrical systems, including low- and medium-voltage (LV–MV) power systems. She leads the company with deep experience in a technical field that demands precision and a strong reputation."
+    },
+    {
+      "key": "business",
+      "vi": "Công ty Cổ phần Kỹ thuật Bình Sơn được thành lập năm 1999, chuyên cung cấp thiết bị điện cho đường dây hạ thế, trung thế và tổng thầu thiết kế, thi công hệ thống cơ điện trong và ngoài nhà cùng hệ thống năng lượng. Bình Sơn là một trong những đơn vị giàu kinh nghiệm thi công hệ thống điện trung thế quy mô lớn, từ 85MV đến 100MV.",
+      "en": "Founded in 1999, Binh Son Engineering Joint Stock Company supplies electrical equipment for low- and medium-voltage lines and serves as a general contractor for the design and construction of indoor and outdoor M&E systems as well as energy systems. Binh Son is among the most experienced contractors for large-scale medium-voltage power systems, ranging from 85MV to 100MV."
+    },
+    {
+      "key": "journey",
+      "vi": "Chị Nguyệt Ánh bắt đầu hành trình từ năm 1999 với vai trò quản lý công ty thương mại quy mô 50 nhân sự. Đến năm 2013, chị chuyển sang điều hành công ty quản lý thi công với quy mô 100 nhân sự — bước chuyển đánh dấu sự trưởng thành của doanh nghiệp từ thương mại thiết bị điện sang tổng thầu thi công cơ điện chuyên nghiệp.",
+      "en": "Nguyet Anh began her journey in 1999 managing a trading company of 50 staff. In 2013, she transitioned to leading a construction management company with a team of 100 — a milestone marking the business's evolution from electrical equipment trading into a professional M&E general contractor."
+    },
+    {
+      "key": "achievements",
+      "vi": "Bình Sơn đã đạt quy mô doanh thu 700 tỷ đồng mỗi năm và là đối tác thi công tin cậy của nhiều tập đoàn hàng đầu Việt Nam như Vingroup, Sun Group, Sunshine Group, Thái Bình Shoes, BIM Group, Masterise, TH Milk, MDF Kim Tín, Gỗ An Cường, nhà máy Toshiba và Kerry Logistics. Trong đó, dự án Vinhomes Central Park là một trong những công trình tiêu biểu mà công ty đã tham gia thực hiện.",
+      "en": "Binh Son has reached an annual revenue scale of VND 700 billion and is a trusted construction partner to many of Vietnam's leading corporations, including Vingroup, Sun Group, Sunshine Group, Thai Binh Shoes, BIM Group, Masterise, TH Milk, MDF Kim Tin, Go An Cuong, the Toshiba factory, and Kerry Logistics. Among these, the Vinhomes Central Park project stands out as one of the company's flagship works."
+    },
+    {
+      "key": "vision",
+      "vi": "Định hướng phát triển của chị Nguyệt Ánh trong những năm tới là mở rộng sang ngành năng lượng — lĩnh vực đầy tiềm năng và là bước đi tự nhiên tiếp nối thế mạnh cơ điện mà Bình Sơn đã xây dựng suốt hơn hai thập kỷ.",
+      "en": "Nguyet Anh's direction for the coming years is to expand into the energy sector — a field full of potential and a natural next step building on the M&E strengths Binh Son has developed over more than two decades."
+    },
+    {
+      "key": "philosophy",
+      "vi": "Triết lý kinh doanh của chị Nguyệt Ánh gói gọn trong bốn chữ: uy tín và trách nhiệm. Đó là nền tảng đã giúp Bình Sơn giữ vững niềm tin của các đối tác lớn qua hơn 25 năm hoạt động.",
+      "en": "Nguyet Anh's business philosophy comes down to two words: integrity and responsibility. This foundation has earned Binh Son the lasting trust of major partners across more than 25 years in business."
+    },
+    {
+      "key": "customers",
+      "vi": "Khách hàng mục tiêu của Bình Sơn là các nhà máy và khu công nghiệp đang sử dụng hệ thống điện công suất lớn — nơi yêu cầu cao về năng lực thiết kế, thi công và độ an toàn của hệ thống cơ điện.",
+      "en": "Binh Son's target customers are factories and industrial parks operating high-capacity power systems — environments that demand strong design and construction capabilities and the highest standards of electrical system safety."
+    }
+  ]
+}

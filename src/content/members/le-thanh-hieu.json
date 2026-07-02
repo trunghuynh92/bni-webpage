@@ -1,0 +1,56 @@
+{
+  "slug": "le-thanh-hieu",
+  "name": "Lê Thanh Hiếu",
+  "jobTitle": { "vi": "CEO", "en": "CEO" },
+  "company": "Công ty TNHH Diệp Hưng Phú",
+  "industry": { "vi": "Nhà hàng & tiệc — hải sản, đặc sản Nha Trang", "en": "Restaurant & Catering — Seafood & Nha Trang Specialties" },
+  "founded": "2011",
+  "phone": "0903 948 173",
+  "email": "huh2000vn@yahoo.com",
+  "tagline": {
+    "vi": "Nhà hàng Khoái — hải sản tươi và đặc sản Nha Trang giữa lòng TP.HCM.",
+    "en": "Khoái Restaurant — fresh seafood and Nha Trang specialties in the heart of Ho Chi Minh City."
+  },
+  "sections": [
+    {
+      "key": "about",
+      "vi": "Lê Thanh Hiếu là CEO của Nhà hàng Khoái (16 Lê Quý Đôn, phường Xuân Hòa, TP.HCM), thành lập năm 2011 và hoạt động trong lĩnh vực F&B — ẩm thực và tiệc, phục vụ tại nhà hàng hoặc lưu động. Anh chuyên tâm trau dồi và dẫn dắt đội ngũ Kinh doanh, Marketing, Nhân sự, Thu mua và Kế toán để vận hành nhà hàng với hiệu suất và lợi nhuận cao nhất.",
+      "en": "Lê Thanh Hiếu is the CEO of Khoái Restaurant (16 Lê Quý Đôn, Xuân Hòa Ward, Ho Chi Minh City), founded in 2011 and operating in F&B — dining and catering, at the restaurant or off-site. He devotes himself to developing and leading the Sales, Marketing, HR, Purchasing, and Accounting teams to run the restaurant at peak efficiency and profitability."
+    },
+    {
+      "key": "business",
+      "vi": "Công ty TNHH Diệp Hưng Phú với thương hiệu Nhà hàng Khoái được thành lập năm 2011. Nhà hàng có 50 nhân viên, phục vụ cùng lúc 250 khách dùng bữa tại chỗ, đồng thời nhận phục vụ bên ngoài — tại cơ quan, công sở, tư gia, hội trường, resort. Menu gồm các món hải sản và đặc sản Nha Trang cùng miền Trung Việt Nam. Bốn điểm khác biệt lớn nhất của Khoái: menu đặc sản độc đáo; hải sản tươi ngon trực tiếp từ nguồn đánh bắt miền Trung; dịch vụ thiết kế riêng theo nhu cầu và cá tính khách hàng; phục vụ tận tâm, chu đáo.",
+      "en": "Diệp Hưng Phú Co., Ltd., with its Khoái Restaurant brand, was founded in 2011. The restaurant employs 50 staff, seats 250 diners at once, and also caters off-site — at offices, private homes, event halls, and resorts. The menu features seafood and specialties from Nha Trang and Central Vietnam. Khoái's four biggest differentiators: a unique specialty menu; fresh seafood sourced directly from Central Vietnam's fishing grounds; services tailored to each customer's needs and personality; and dedicated, attentive service."
+    },
+    {
+      "key": "journey",
+      "vi": "Khoái xuất phát từ một quán ăn nhỏ chỉ bán duy nhất một món đặc sản Nha Trang — bún cá — với menu ít món và tệp khách hàng giới hạn. Khó khăn lớn nhất từng trải qua là đại dịch Covid: không được hoạt động, không có doanh thu, nhưng nhà hàng vẫn cam kết giữ thu nhập cho toàn thể nhân viên. Từ mô hình phục vụ khách lẻ theo món (à la carte), anh Hiếu quyết định mở rộng sang dịch vụ tiệc cho đoàn, nhóm số lượng lớn với dịch vụ trọn gói — decor, chụp ảnh, MC, âm thanh, ánh sáng — giúp mở rộng tệp khách hàng và kinh doanh với doanh số, lợi nhuận tốt hơn.",
+      "en": "Khoái began as a small eatery selling a single Nha Trang specialty — fish noodle soup (bún cá) — with a short menu and a limited customer base. Its toughest chapter was the Covid pandemic: closed doors and no revenue, yet the restaurant kept its commitment to maintain income for every employee. From an à la carte model serving individual diners, Hiếu expanded into full-service banquets for large groups — decor, photography, MC, sound, and lighting — broadening the customer base and lifting both revenue and profit."
+    },
+    {
+      "key": "achievements",
+      "vi": "Nhà hàng duy trì tăng trưởng doanh thu và lợi nhuận qua từng giai đoạn, đồng thời xây dựng được lượng khách hàng — cả cá nhân lẫn doanh nghiệp — ngày càng đông đảo và trung thành hơn.",
+      "en": "The restaurant has sustained revenue and profit growth through every stage, while building an ever larger and more loyal base of both individual and corporate customers."
+    },
+    {
+      "key": "vision",
+      "vi": "Trong những năm tới, Khoái sẽ phát triển thêm chi nhánh mới để bao phủ rộng hơn về địa lý và khách hàng, với mục tiêu đạt tỷ lệ TOM (top-of-mind) cao nhất trong phân khúc nhà hàng đặc sản Việt Nam.",
+      "en": "In the coming years, Khoái will open new branches to extend its geographic and customer reach, aiming for the highest top-of-mind (TOM) recognition in Vietnam's specialty restaurant segment."
+    },
+    {
+      "key": "philosophy",
+      "vi": "Anh Hiếu ra quyết định dựa trên dữ liệu và thực tế (data & fact). Anh xây dựng đội ngũ mạnh về chuyên môn, linh hoạt và có tính tự chủ cao. Ba điều nhà hàng luôn giữ vững: chất lượng món ăn, sự sáng tạo trong ý tưởng và chữ tâm trong phục vụ. Phương châm của anh: 'Những gì tốt cho bản thân thì sẽ tốt cho khách hàng!'",
+      "en": "Hiếu makes decisions based on data and facts. He builds a team that is professionally strong, flexible, and highly autonomous. Three things the restaurant never compromises: food quality, creative ideas, and heart in service. His motto: 'What is good for ourselves will be good for our customers!'"
+    },
+    {
+      "key": "customers",
+      "vi": "Khách hàng của Khoái là doanh nhân, doanh chủ, quản lý, trưởng phòng, nhân viên văn phòng, người nước ngoài và du khách. Nhà hàng đáp ứng nhu cầu ăn ngon cùng những trải nghiệm thú vị, và luôn mong được chào đón những thực khách yêu thích món ăn đặc sản và trân trọng sự phục vụ tận tâm.",
+      "en": "Khoái's customers are entrepreneurs, business owners, managers, department heads, office workers, expatriates, and tourists. The restaurant serves their appetite for delicious food and memorable experiences, and always welcomes guests who love specialty cuisine and appreciate heartfelt service."
+    },
+    {
+      "key": "referrals",
+      "vi": "Đến với BNI, anh Hiếu tâm niệm kết nối thật tâm và hiệu quả: xây dựng sự thấu hiểu với đồng đội, tạo dựng uy tín, trao referral cho đồng đội và nhận lại referral cho việc kinh doanh, học hỏi từ đồng đội và xây dựng cơ hội hợp tác, mở rộng kinh doanh. Với nhà hàng, việc tiếp cận đúng khách hàng mục tiêu — doanh nghiệp và cá nhân có nhu cầu tiệc, sự kiện — là điều quan trọng nhất, và những kết nối bài bản từ cộng đồng BNI chính là cầu nối giá trị đó.",
+      "en": "At BNI, Hiếu is committed to sincere, effective connection: building mutual understanding with teammates, earning their trust, giving referrals and receiving referrals for his business, learning from fellow members, and creating opportunities for cooperation and growth. For the restaurant, reaching the right target customers — companies and individuals needing banquets and events — matters most, and well-structured connections from the BNI community are exactly that bridge."
+    }
+  ]
+}
