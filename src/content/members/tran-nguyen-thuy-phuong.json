@@ -11,6 +11,29 @@
     "vi": "Hơn 20 năm gửi gắm cảm xúc và kết nối qua từng đóa hoa.",
     "en": "Over 20 years of conveying emotion and connection through every bloom."
   },
+  "shortName": "Phượng",
+  "stats": [
+    { "value": "20+", "label": { "vi": "Năm trong ngành hoa", "en": "Years in floristry" } },
+    { "value": "6+", "label": { "vi": "Năm thành viên BNI", "en": "Years as BNI member" } }
+  ],
+  "callouts": [
+    {
+      "afterKey": "business",
+      "sourceKey": "philosophy",
+      "quote": {
+        "vi": "Cho đi giá trị thật, thành công sẽ đến bền vững.",
+        "en": "Give real value, and lasting success will follow."
+      }
+    },
+    {
+      "afterKey": "philosophy",
+      "sourceKey": "referrals",
+      "quote": {
+        "vi": "BNI không chỉ là nơi tạo doanh thu, mà là môi trường giúp trưởng thành hơn trong tư duy lãnh đạo.",
+        "en": "BNI is not only a source of revenue, but an environment for maturing in leadership thinking."
+      }
+    }
+  ],
   "sections": [
     {
       "key": "about",

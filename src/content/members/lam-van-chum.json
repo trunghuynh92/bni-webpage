@@ -11,6 +11,17 @@
     "vi": "Người dẫn dắt xu hướng 'thời trang hóa đồng phục' — đi làm phải mặc đẹp.",
     "en": "Leading the movement to bring fashion into uniforms — dress well for work."
   },
+  "shortName": "Chùm",
+  "stats": [
+    { "value": "6+", "label": { "vi": "Năm hoạt động", "en": "Years in operation" } },
+    { "value": "10", "label": { "vi": "Năm tại BNI Master Chapter", "en": "Years at BNI Master Chapter" } }
+  ],
+  "callouts": [
+    { "afterKey": "business", "sourceKey": "philosophy",
+      "quote": { "vi": "Gieo giá trị, gặt niềm tin — tập trung vào chất lượng và sự hài lòng cao nhất của khách hàng.", "en": "Sow value, reap trust — focus on quality and the highest customer satisfaction." } },
+    { "afterKey": "journey", "sourceKey": "vision",
+      "quote": { "vi": "Đồng phục từ 'trang phục bắt buộc' trở thành 'niềm tự hào khi mặc đi làm'.", "en": "Uniforms transformed from 'mandatory dress' into 'something worn to work with pride'." } }
+  ],
   "sections": [
     {
       "key": "about",

@@ -11,6 +11,25 @@
     "vi": "Kết nối chuỗi cung ứng Việt Nam với Trung Quốc, Mỹ và châu Âu.",
     "en": "Connecting Vietnam's supply chain with China, the US, and Europe."
   },
+  "shortName": "Sơn",
+  "callouts": [
+    {
+      "afterKey": "about",
+      "sourceKey": "journey",
+      "quote": {
+        "vi": "Logistics không chỉ là vận chuyển, mà ảnh hưởng trực tiếp đến chi phí và hoạt động của doanh nghiệp.",
+        "en": "Logistics is not just transportation — it directly affects a business's costs and operations."
+      }
+    },
+    {
+      "afterKey": "achievements",
+      "sourceKey": "philosophy",
+      "quote": {
+        "vi": "Tốc độ quan trọng, nhưng sự ổn định và uy tín còn quan trọng hơn.",
+        "en": "Speed matters — but stability and reputation matter more."
+      }
+    }
+  ],
   "sections": [
     {
       "key": "about",

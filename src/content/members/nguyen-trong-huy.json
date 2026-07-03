@@ -11,6 +11,21 @@
     "vi": "Không bán vé — bán sự an tâm trên mỗi chuyến bay.",
     "en": "Not selling tickets — selling peace of mind on every flight."
   },
+  "shortName": "Huy",
+  "stats": [
+    { "value": "2018", "label": { "vi": "Năm thành lập QTair", "en": "QTair founded" } },
+    { "value": "35–48%", "label": { "vi": "Tăng trưởng doanh thu mỗi năm", "en": "Annual revenue growth" } }
+  ],
+  "callouts": [
+    {
+      "afterKey": "business",
+      "sourceKey": "philosophy",
+      "quote": {
+        "vi": "Không bán vé mà bán sự an tâm — lợi nhuận đến từ giá trị, không phải từ phá giá.",
+        "en": "Don't sell tickets — sell peace of mind; profit comes from value, not price-cutting."
+      }
+    }
+  ],
   "sections": [
     {
       "key": "about",

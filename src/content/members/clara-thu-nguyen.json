@@ -11,6 +11,31 @@
     "vi": "Mang chương trình quản trị kinh doanh chuẩn Thụy Sỹ đến lãnh đạo Việt Nam.",
     "en": "Bringing Swiss-standard business education to Vietnam's leaders."
   },
+  "shortName": "Clara",
+  "stats": [
+    { "value": "200+", "label": { "vi": "Học viên MBA & DBA", "en": "MBA & DBA learners" } },
+    { "value": "50+", "label": { "vi": "Referral từ BNI", "en": "Referrals from BNI" } },
+    { "value": "7.700+", "label": { "vi": "Học viên toàn cầu", "en": "Students worldwide" } },
+    { "value": "160", "label": { "vi": "Quốc gia", "en": "Countries" } }
+  ],
+  "callouts": [
+    {
+      "afterKey": "business",
+      "sourceKey": "philosophy",
+      "quote": {
+        "vi": "Ưu tiên đúng giá trị thay vì dễ bán — mọi mối quan hệ đều theo tinh thần Win–Win–Win.",
+        "en": "True value over easy to sell — every relationship built in a win–win–win spirit."
+      }
+    },
+    {
+      "afterKey": "philosophy",
+      "sourceKey": "referrals",
+      "quote": {
+        "vi": "Một lời giới thiệu đúng tệp có giá trị hơn nhiều lượt giới thiệu đại trà.",
+        "en": "One right-fit referral is worth far more than many generic introductions."
+      }
+    }
+  ],
   "sections": [
     {
       "key": "about",

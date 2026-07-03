@@ -11,6 +11,17 @@
     "vi": "Hùng Rèm - giải pháp rèm cửa chuyên nghiệp từ xưởng gia công hiện đại.",
     "en": "Hùng the Curtain Man - professional curtain solutions from a modern production workshop."
   },
+  "shortName": "Hùng",
+  "callouts": [
+    {
+      "afterKey": "business",
+      "sourceKey": "philosophy",
+      "quote": {
+        "vi": "Kinh doanh bền vững phải bắt đầu từ sự tử tế và chữ tín.",
+        "en": "Sustainable business begins with kindness and integrity."
+      }
+    }
+  ],
   "sections": [
     {
       "key": "about",

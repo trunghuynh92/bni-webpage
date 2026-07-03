@@ -11,6 +11,23 @@
     "vi": "NIN House — nâng tầm giấc ngủ Việt bằng chất lượng chuẩn xuất khẩu.",
     "en": "NIN House — elevating Vietnamese sleep with export-grade quality."
   },
+  "shortName": "Thủy",
+  "stats": [
+    { "value": "2015", "label": { "vi": "Năm thành lập", "en": "Founded" } },
+    { "value": "5.000m²", "label": { "vi": "Nhà máy sản xuất", "en": "Factory floor" } },
+    { "value": "170+", "label": { "vi": "Điểm bán trên cả nước", "en": "Points of sale nationwide" } },
+    { "value": "150 tỷ+", "label": { "vi": "Tổng doanh thu (VND)", "en": "Total revenue (VND)" } }
+  ],
+  "callouts": [
+    {
+      "afterKey": "business",
+      "sourceKey": "philosophy",
+      "quote": {
+        "vi": "Uy tín và chất lượng. Làm nhiều hơn nói. Tích cực và tỉnh táo.",
+        "en": "Integrity and quality. Do more than you say. Stay positive and stay clear-headed."
+      }
+    }
+  ],
   "sections": [
     {
       "key": "about",

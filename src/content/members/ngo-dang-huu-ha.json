@@ -11,6 +11,29 @@
     "vi": "Công nghệ chỉ thực sự có giá trị khi giải quyết được vấn đề thực tế.",
     "en": "Technology only truly matters when it solves real problems."
   },
+  "shortName": "Hà",
+  "stats": [
+    { "value": "40", "label": { "vi": "Nhân viên kỹ thuật", "en": "Technical staff" } },
+    { "value": "500", "label": { "vi": "Mục tiêu nhân sự 3–5 năm", "en": "Team goal in 3–5 years" } }
+  ],
+  "callouts": [
+    {
+      "afterKey": "business",
+      "sourceKey": "philosophy",
+      "quote": {
+        "vi": "Kỹ năng có thể đào tạo, nhưng tinh thần trách nhiệm mới làm nên đội ngũ mạnh.",
+        "en": "Skills can be taught, but responsibility is what builds a strong team."
+      }
+    },
+    {
+      "afterKey": "journey",
+      "sourceKey": "vision",
+      "quote": {
+        "vi": "Tăng trưởng không chỉ là con số — mà là tạo ra thật nhiều việc làm, đóng góp vào sự phát triển chung của xã hội.",
+        "en": "Growth is about more than numbers — it's creating meaningful jobs and contributing to society."
+      }
+    }
+  ],
   "sections": [
     {
       "key": "about",

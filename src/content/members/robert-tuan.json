@@ -11,6 +11,22 @@
     "vi": "Thắp sáng giá trị — dẫn đầu tương lai cùng doanh nghiệp Việt.",
     "en": "Igniting value — leading the future alongside Vietnamese businesses."
   },
+  "shortName": "Tuấn",
+  "stats": [
+    { "value": "13+", "label": { "vi": "Năm kinh nghiệm lãnh đạo", "en": "Years of leadership" } },
+    { "value": "120+", "label": { "vi": "Doanh nghiệp đồng hành", "en": "Businesses advised" } },
+    { "value": "2021", "label": { "vi": "Năm thành lập V-Torch", "en": "V-Torch founded" } }
+  ],
+  "callouts": [
+    {
+      "afterKey": "business",
+      "sourceKey": "philosophy",
+      "quote": {
+        "vi": "Niềm tin là sự sống — giá trị thật sẽ lan tỏa bền lâu.",
+        "en": "Trust is life itself — genuine value spreads and endures."
+      }
+    }
+  ],
   "sections": [
     {
       "key": "about",

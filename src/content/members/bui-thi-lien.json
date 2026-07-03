@@ -11,6 +11,15 @@
     "vi": "Chuyên gia chăm sóc sức khỏe chủ động với thực phẩm chức năng nội địa Nhật Bản.",
     "en": "A proactive health care expert bringing authentic Japanese functional foods to Vietnam."
   },
+  "shortName": "Liên",
+  "stats": [
+    { "value": "2009", "label": { "vi": "Khởi nghiệp từ năm", "en": "In business since" } },
+    { "value": "60.000", "label": { "vi": "Khách hàng trung thành (gần)", "en": "Loyal customers (nearly)" } }
+  ],
+  "callouts": [
+    { "afterKey": "business", "sourceKey": "philosophy",
+      "quote": { "vi": "Nói không với hàng giả, hàng kém chất lượng — khách hàng chính là cốt lõi của doanh nghiệp.", "en": "Zero tolerance for counterfeit goods — customers are the very core of the business." } }
+  ],
   "sections": [
     {
       "key": "about",

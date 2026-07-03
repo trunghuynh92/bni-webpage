@@ -11,6 +11,25 @@
     "vi": "Xây nhà trọn gói chuẩn Nhật: đúng chất lượng, đúng tiến độ, không phát sinh.",
     "en": "Japanese-standard turnkey home building: right quality, on time, no cost overruns."
   },
+  "shortName": "Ninh",
+  "callouts": [
+    {
+      "afterKey": "about",
+      "sourceKey": "journey",
+      "quote": {
+        "vi": "Giữ nguyên thái độ làm dịch vụ của người Nhật để phục vụ người Việt — với mức chi phí tốt hơn rất nhiều.",
+        "en": "Keeping the Japanese service ethos to serve Vietnamese customers — at a far more accessible cost."
+      }
+    },
+    {
+      "afterKey": "business",
+      "sourceKey": "philosophy",
+      "quote": {
+        "vi": "Thiếu sót có thể có, nhưng tuyệt đối không được gian dối trong bất kỳ hoàn cảnh nào.",
+        "en": "Mistakes may happen, but dishonesty is never acceptable under any circumstances."
+      }
+    }
+  ],
   "sections": [
     {
       "key": "about",

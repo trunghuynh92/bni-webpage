@@ -11,6 +11,22 @@
     "vi": "Hơn 25 năm uy tín trong thiết kế và thi công hệ thống cơ điện.",
     "en": "Over 25 years of trusted M&E design and construction expertise."
   },
+  "shortName": "Ánh",
+  "stats": [
+    { "value": "700 tỷ", "label": { "vi": "Doanh thu mỗi năm", "en": "Annual revenue (VND)" } },
+    { "value": "25+", "label": { "vi": "Năm hoạt động", "en": "Years in business" } },
+    { "value": "100MV", "label": { "vi": "Quy mô điện trung thế", "en": "Medium-voltage scale" } }
+  ],
+  "callouts": [
+    {
+      "afterKey": "business",
+      "sourceKey": "philosophy",
+      "quote": {
+        "vi": "Triết lý kinh doanh gói gọn trong bốn chữ: uy tín và trách nhiệm.",
+        "en": "A business philosophy in just two words: integrity and responsibility."
+      }
+    }
+  ],
   "sections": [
     {
       "key": "about",

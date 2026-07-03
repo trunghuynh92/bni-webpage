@@ -11,6 +11,18 @@
     "vi": "Chuyên gia đồng hành cùng sức khỏe Việt bằng dược liệu quý từ thiên nhiên.",
     "en": "A trusted companion for Vietnamese health, powered by precious natural herbs."
   },
+  "shortName": "Vân",
+  "stats": [
+    { "value": "2017", "label": { "vi": "Thành lập năm", "en": "Founded" } },
+    { "value": "10 tỉ", "label": { "vi": "Đồng đầu tư công nghệ", "en": "VND invested in technology" } },
+    { "value": "300 triệu", "label": { "vi": "Đồng doanh thu mỗi tháng", "en": "VND monthly revenue" } }
+  ],
+  "callouts": [
+    { "afterKey": "business", "sourceKey": "journey",
+      "quote": { "vi": "Buổi đầu nuôi 10.000 hũ thì chết 9.000 hũ — nhưng kiên trì mày mò điều chỉnh cho đến khi thành công.", "en": "Nine thousand of the first ten thousand jars failed — yet she persisted and refined until she succeeded." } },
+    { "afterKey": "vision", "sourceKey": "philosophy",
+      "quote": { "vi": "Kinh doanh để phụng sự xã hội — Yêu thương sức khỏe Việt.", "en": "Doing business to serve society — loving Vietnamese health." } }
+  ],
   "sections": [
     {
       "key": "about",

@@ -11,6 +11,21 @@
     "vi": "\"Đúng cãi - Sai cãi\" - tận tâm bảo vệ quyền lợi hợp pháp của bạn.",
     "en": "\"Right or wrong, we argue your case\" - dedicated to protecting your lawful rights."
   },
+  "shortName": "Anh",
+  "stats": [
+    { "value": "2008", "label": { "vi": "Năm thành lập", "en": "Founded" } },
+    { "value": "6", "label": { "vi": "Luật sư trong đội ngũ", "en": "Lawyers on the team" } }
+  ],
+  "callouts": [
+    {
+      "afterKey": "business",
+      "sourceKey": "philosophy",
+      "quote": {
+        "vi": "Giá trị bền vững nhất là khi mọi người đều hiểu và làm đúng pháp luật.",
+        "en": "The most enduring value comes when everyone understands and abides by the law."
+      }
+    }
+  ],
   "sections": [
     {
       "key": "about",

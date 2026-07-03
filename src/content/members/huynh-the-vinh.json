@@ -11,6 +11,25 @@
     "vi": "Khách hàng lớn không chọn người chào giá tốt nhất, mà chọn người họ tin giao việc lớn.",
     "en": "Big customers don't choose the best price — they choose the partner they trust with big things."
   },
+  "shortName": "Vinh",
+  "callouts": [
+    {
+      "afterKey": "business",
+      "sourceKey": "journey",
+      "quote": {
+        "vi": "Khách hàng lớn không tìm nhà cung cấp rẻ nhất, họ tìm người đủ ổn định để đồng hành lâu dài.",
+        "en": "Major customers are not looking for the cheapest supplier — they are looking for someone stable enough to partner with for the long haul."
+      }
+    },
+    {
+      "afterKey": "vision",
+      "sourceKey": "philosophy",
+      "quote": {
+        "vi": "Uy tín được xây rất lâu, nhưng có thể mất chỉ trong một lần bất cẩn.",
+        "en": "Reputation takes years to build, but can be lost in a single careless moment."
+      }
+    }
+  ],
   "sections": [
     {
       "key": "about",

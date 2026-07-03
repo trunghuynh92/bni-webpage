@@ -11,6 +11,22 @@
     "vi": "Người kiến tạo chuỗi Spa Đông Y Yose Boutique với phương pháp Án Ma nguyên bản.",
     "en": "Builder of the Yose Boutique Đông Y spa chain, preserving the original Án Ma method."
   },
+  "shortName": "Huệ",
+  "stats": [
+    { "value": "13", "label": { "vi": "Cửa hàng Yose Boutique", "en": "Yose Boutique stores" } },
+    { "value": "3000+", "label": { "vi": "Năm lịch sử Án Ma", "en": "Years of Án Ma history" } },
+    { "value": "100–250", "label": { "vi": "Triệu đồng/cửa hàng/tháng", "en": "Million VND per store monthly" } }
+  ],
+  "callouts": [
+    {
+      "afterKey": "business",
+      "sourceKey": "philosophy",
+      "quote": {
+        "vi": "Nếu tôi làm điều này, tôi có bình an không? Nếu có thì làm, nếu không thì không làm",
+        "en": "If I do this, will I be at peace? If yes, I do it; if not, I don't"
+      }
+    }
+  ],
   "sections": [
     {
       "key": "about",

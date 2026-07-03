@@ -11,6 +11,18 @@
     "vi": "Nhà hàng Khoái — hải sản tươi và đặc sản Nha Trang giữa lòng TP.HCM.",
     "en": "Khoái Restaurant — fresh seafood and Nha Trang specialties in the heart of Ho Chi Minh City."
   },
+  "shortName": "Hiếu",
+  "stats": [
+    { "value": "2011", "label": { "vi": "Thành lập năm", "en": "Founded" } },
+    { "value": "50", "label": { "vi": "Nhân viên", "en": "Staff members" } },
+    { "value": "250", "label": { "vi": "Khách phục vụ cùng lúc", "en": "Diners seated at once" } }
+  ],
+  "callouts": [
+    { "afterKey": "about", "sourceKey": "journey",
+      "quote": { "vi": "Không được hoạt động, không có doanh thu, nhưng vẫn cam kết giữ thu nhập cho toàn thể nhân viên.", "en": "Closed doors and no revenue, yet still committed to maintaining income for every employee." } },
+    { "afterKey": "vision", "sourceKey": "philosophy",
+      "quote": { "vi": "Những gì tốt cho bản thân thì sẽ tốt cho khách hàng!", "en": "What is good for ourselves will be good for our customers!" } }
+  ],
   "sections": [
     {
       "key": "about",

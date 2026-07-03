@@ -11,6 +11,25 @@
     "vi": "Nuôi dưỡng tư duy và nhân cách trẻ em từ những hạt bàn tính nhỏ.",
     "en": "Nurturing children's minds and character from the smallest abacus beads."
   },
+  "shortName": "Kiều",
+  "callouts": [
+    {
+      "afterKey": "business",
+      "sourceKey": "philosophy",
+      "quote": {
+        "vi": "Giáo dục là hành trình phát triển con người, không chỉ là đào tạo kết quả.",
+        "en": "Education is a journey of human development, not just training for results."
+      }
+    },
+    {
+      "afterKey": "achievements",
+      "sourceKey": "philosophy",
+      "quote": {
+        "vi": "Đôi khi, những thay đổi lớn nhất bắt đầu từ những hạt bàn tính nhỏ nhất.",
+        "en": "Sometimes, the greatest changes begin with the smallest abacus beads."
+      }
+    }
+  ],
   "sections": [
     {
       "key": "about",

@@ -11,6 +11,25 @@
     "vi": "Người kiến tạo trải nghiệm, kết nối con người trên mọi hành trình phát triển.",
     "en": "A creator of experiences, connecting people on every journey of growth."
   },
+  "shortName": "Hương",
+  "callouts": [
+    {
+      "afterKey": "business",
+      "sourceKey": "vision",
+      "quote": {
+        "vi": "Thành công không chỉ đo bằng doanh thu, mà bằng giá trị tạo ra cho khách hàng, đối tác, đội ngũ và xã hội",
+        "en": "Success is measured not only in revenue, but in the value created for customers, partners, teams, and society"
+      }
+    },
+    {
+      "afterKey": "philosophy",
+      "sourceKey": "referrals",
+      "quote": {
+        "vi": "Giá trị lớn nhất của BNI nằm ở những mối quan hệ bền vững được xây bằng sự tử tế, uy tín và tinh thần Givers Gain",
+        "en": "BNI's greatest value lies in lasting relationships built on kindness, integrity, and the Givers Gain spirit"
+      }
+    }
+  ],
   "sections": [
     {
       "key": "about",

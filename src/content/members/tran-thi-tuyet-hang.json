@@ -11,6 +11,22 @@
     "vi": "Thiết bị điện chính hãng, giá hợp lý, giao hàng nhanh cho công trình.",
     "en": "Genuine electrical equipment at fair prices, delivered fast to every project."
   },
+  "shortName": "Hằng",
+  "stats": [
+    { "value": "15", "label": { "vi": "Năm kinh nghiệm", "en": "Years of experience" } },
+    { "value": "12 tỷ", "label": { "vi": "Doanh thu trung bình/năm", "en": "Avg. annual revenue (VND)" } },
+    { "value": "2011", "label": { "vi": "Năm thành lập", "en": "Founded" } }
+  ],
+  "callouts": [
+    {
+      "afterKey": "business",
+      "sourceKey": "philosophy",
+      "quote": {
+        "vi": "Nguyên tắc nhất quán: bán hàng chất lượng, đúng giá.",
+        "en": "One consistent principle: quality products, honestly priced."
+      }
+    }
+  ],
   "sections": [
     {
       "key": "about",

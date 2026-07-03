@@ -11,6 +11,31 @@
     "vi": "Nâng tầm nông sản Việt thành những món quà cao cấp mang câu chuyện văn hóa.",
     "en": "Elevating Vietnamese produce into premium gifts that carry a cultural story."
   },
+  "shortName": "Quân",
+  "stats": [
+    { "value": "16+", "label": { "vi": "Năm kinh nghiệm", "en": "Years of experience" } },
+    { "value": "2", "label": { "vi": "Nhà máy sản xuất", "en": "Factories" } },
+    { "value": "50+", "label": { "vi": "Dòng sản phẩm", "en": "Product lines" } },
+    { "value": "2.500+", "label": { "vi": "Đối tác đã phục vụ", "en": "Partners served" } }
+  ],
+  "callouts": [
+    {
+      "afterKey": "business",
+      "sourceKey": "journey",
+      "quote": {
+        "vi": "Nam Xanh không chỉ làm thực phẩm, mà đang tạo ra một cách mới để thế giới cảm nhận về Việt Nam.",
+        "en": "Nam Xanh is not just making food — it is creating a new way for the world to experience Vietnam."
+      }
+    },
+    {
+      "afterKey": "vision",
+      "sourceKey": "philosophy",
+      "quote": {
+        "vi": "Mỗi đơn hàng không chỉ là doanh thu, mà là một lần đại diện cho hình ảnh sản phẩm Việt.",
+        "en": "Every order is not merely revenue — it is a moment representing Vietnamese products to the world."
+      }
+    }
+  ],
   "sections": [
     {
       "key": "about",

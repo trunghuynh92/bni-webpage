@@ -11,6 +11,22 @@
     "vi": "Kim cương chính ngạch, trang sức độc bản — mỗi thiết kế là một câu chuyện riêng.",
     "en": "Officially imported diamonds, one-of-a-kind jewelry — every design tells a personal story."
   },
+  "shortName": "Đông",
+  "stats": [
+    { "value": "10+", "label": { "vi": "Năm kinh nghiệm kim cương", "en": "Years in diamonds" } },
+    { "value": "2015", "label": { "vi": "Năm thành lập", "en": "Founded" } },
+    { "value": "2023", "label": { "vi": "PNJ đặt hàng kim cương GIA", "en": "PNJ orders GIA diamonds since" } }
+  ],
+  "callouts": [
+    {
+      "afterKey": "journey",
+      "sourceKey": "vision",
+      "quote": {
+        "vi": "Khách hàng chính là người tạo ra giá trị — Tara Diamond hiện thực hóa mong muốn ấy thành trang sức mang dấu ấn cá nhân",
+        "en": "Customers themselves create the value — Tara Diamond turns their wishes into jewelry bearing their personal signature"
+      }
+    }
+  ],
   "sections": [
     {
       "key": "about",

@@ -11,6 +11,31 @@
     "vi": "Đội ngũ IT luôn đứng phía sau, để doanh nghiệp an tâm vận hành.",
     "en": "An IT team always behind you, so your business runs with peace of mind."
   },
+  "shortName": "Thương",
+  "stats": [
+    { "value": "200+", "label": { "vi": "Doanh nghiệp đang phục vụ", "en": "Businesses served" } },
+    { "value": "150+", "label": { "vi": "Doanh nghiệp dùng Microsoft 365", "en": "Microsoft 365 deployments" } },
+    { "value": "88%", "label": { "vi": "Tỷ lệ giữ chân khách hàng", "en": "Client retention rate" } },
+    { "value": "15+", "label": { "vi": "Năm kinh nghiệm IT", "en": "Years in enterprise IT" } }
+  ],
+  "callouts": [
+    {
+      "afterKey": "about",
+      "sourceKey": "journey",
+      "quote": {
+        "vi": "Doanh nghiệp không cần công nghệ phức tạp mà cần sự ổn định, thiết thực và một đối tác đủ tin cậy.",
+        "en": "Businesses don't need complex technology — they need stability, practicality, and a trustworthy long-term partner."
+      }
+    },
+    {
+      "afterKey": "achievements",
+      "sourceKey": "philosophy",
+      "quote": {
+        "vi": "Luôn coi mình là một phần của khách hàng — giúp họ an tâm kinh doanh khi có IT lo phía sau.",
+        "en": "Be part of the customer's own organization — give them peace of mind with IT taken care of behind the scenes."
+      }
+    }
+  ],
   "sections": [
     {
       "key": "about",

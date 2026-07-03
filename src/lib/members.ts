@@ -26,6 +26,17 @@ export interface MemberImages {
   business: string[];
 }
 
+export interface MemberStat {
+  value: string;
+  label: LocalizedText;
+}
+
+export interface MemberCallout {
+  afterKey: MemberSection["key"];
+  sourceKey: MemberSection["key"];
+  quote: LocalizedText;
+}
+
 export interface Member {
   slug: string;
   name: string;
@@ -36,8 +47,19 @@ export interface Member {
   phone: string | null;
   email: string | null;
   tagline: LocalizedText;
+  shortName?: string;
+  stats?: MemberStat[];
+  callouts?: MemberCallout[];
   sections: MemberSection[];
   images: MemberImages;
+}
+
+// Short given name for the connect CTA. Vietnamese names put the given name
+// last; parentheticals like "(Huệ Yose)" are stripped before taking it.
+export function connectName(member: Member): string {
+  if (member.shortName) return member.shortName;
+  const base = member.name.replace(/\(.*?\)/g, "").trim();
+  return base.split(/\s+/).pop() ?? member.name;
 }
 
 const contentDir = path.join(process.cwd(), "src/content/members");

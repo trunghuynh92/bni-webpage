@@ -11,6 +11,30 @@
     "vi": "\"Hà Mỹ Linh Yêu Bảo Hiểm\" — làm nghề bằng tình yêu nhiệt huyết, trong sáng, tử tế.",
     "en": "\"Ha My Linh Loves Insurance\" — serving with passion, sincerity, and integrity."
   },
+  "shortName": "Linh",
+  "stats": [
+    { "value": "9", "label": { "vi": "Năm danh hiệu MDRT", "en": "MDRT title years" } },
+    { "value": "3", "label": { "vi": "Năm danh hiệu Samurai", "en": "Samurai title years" } },
+    { "value": "2011", "label": { "vi": "Vào nghề bảo hiểm", "en": "Licensed agent since" } }
+  ],
+  "callouts": [
+    {
+      "afterKey": "business",
+      "sourceKey": "journey",
+      "quote": {
+        "vi": "Chỉ trong tuần đầu bén duyên với bảo hiểm nhân thọ, chị đã chọn đây là nghề tận hiến cả đời.",
+        "en": "Within her very first week in life insurance, she chose it as the profession she would devote her life to."
+      }
+    },
+    {
+      "afterKey": "vision",
+      "sourceKey": "philosophy",
+      "quote": {
+        "vi": "Sứ mệnh chị lựa chọn là tận hiến đến hơi thở cuối cùng cho ngành bảo hiểm nhân thọ.",
+        "en": "The mission she has chosen: devoting herself to the life insurance profession to her last breath."
+      }
+    }
+  ],
   "sections": [
     {
       "key": "about",

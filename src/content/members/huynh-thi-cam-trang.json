@@ -11,6 +11,29 @@
     "vi": "Biến mỗi món quà thành điểm chạm thương hiệu được khách hàng nhớ mỗi ngày.",
     "en": "Turning every gift into a brand touchpoint customers remember every day."
   },
+  "shortName": "Trang",
+  "stats": [
+    { "value": "15+", "label": { "vi": "Năm kinh nghiệm", "en": "Years of experience" } },
+    { "value": "2011", "label": { "vi": "Năm thành lập Artgift", "en": "Artgift founded" } }
+  ],
+  "callouts": [
+    {
+      "afterKey": "business",
+      "sourceKey": "journey",
+      "quote": {
+        "vi": "Một món quà có thể trở thành chi phí marketing bền vững, giúp doanh nghiệp xuất hiện tự nhiên trong cuộc sống hằng ngày của khách hàng.",
+        "en": "A gift can become a sustainable marketing investment, letting a business appear naturally in its customers' daily lives."
+      }
+    },
+    {
+      "afterKey": "vision",
+      "sourceKey": "philosophy",
+      "quote": {
+        "vi": "Muốn đi lâu dài phải đặt chất lượng sản phẩm, trải nghiệm khách hàng và sự chân thành lên hàng đầu.",
+        "en": "Lasting success requires putting product quality, customer experience, and genuine care first."
+      }
+    }
+  ],
   "sections": [
     {
       "key": "about",

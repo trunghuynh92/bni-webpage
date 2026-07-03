@@ -11,6 +11,25 @@
     "vi": "Xây đúng ngay từ đầu, đầu tư đúng ngay từ gốc.",
     "en": "Build it right from the start, invest right from the roots."
   },
+  "shortName": "Anh",
+  "callouts": [
+    {
+      "afterKey": "business",
+      "sourceKey": "philosophy",
+      "quote": {
+        "vi": "Làm đúng ngay từ đầu luôn rẻ hơn sửa sai.",
+        "en": "Doing things right from the start is always cheaper than fixing mistakes."
+      }
+    },
+    {
+      "afterKey": "philosophy",
+      "sourceKey": "referrals",
+      "quote": {
+        "vi": "Tạo giá trị thật và dài hạn với bất động sản cho thuê — thay vì chỉ đầu cơ đất.",
+        "en": "Creating real, long-term value through rental real estate — rather than land speculation."
+      }
+    }
+  ],
   "sections": [
     {
       "key": "about",

@@ -11,6 +11,30 @@
     "vi": "Biến bảo hiểm doanh nghiệp từ chi phí thành chiến lược chăm sóc con người bền vững.",
     "en": "Turning corporate insurance from a cost into a sustainable people-care strategy."
   },
+  "shortName": "Vy",
+  "stats": [
+    { "value": "350+", "label": { "vi": "Doanh nghiệp phục vụ", "en": "Businesses served" } },
+    { "value": "370.000+", "label": { "vi": "Người dùng nền tảng", "en": "Platform users" } },
+    { "value": "20+", "label": { "vi": "Công ty bảo hiểm đối tác", "en": "Partner insurers" } }
+  ],
+  "callouts": [
+    {
+      "afterKey": "about",
+      "sourceKey": "journey",
+      "quote": {
+        "vi": "Chương trình bảo hiểm phù hợp khiến nhân sự cảm thấy được doanh nghiệp thật sự quan tâm và muốn gắn bó lâu dài.",
+        "en": "The right insurance program makes employees feel genuinely cared for and more committed to their company."
+      }
+    },
+    {
+      "afterKey": "business",
+      "sourceKey": "philosophy",
+      "quote": {
+        "vi": "Đưa bảo hiểm doanh nghiệp ra khỏi góc nhìn chi phí bắt buộc để trở thành chiến lược giữ chân nhân sự.",
+        "en": "Lifting corporate insurance out of the mandatory-cost mindset into a strategy for retaining talent."
+      }
+    }
+  ],
   "sections": [
     {
       "key": "about",

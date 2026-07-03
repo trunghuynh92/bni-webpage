@@ -11,6 +11,25 @@
     "vi": "Giải pháp quảng cáo giúp thương hiệu nổi bật và kinh doanh hiệu quả hơn.",
     "en": "Advertising solutions that make brands stand out and businesses perform better."
   },
+  "shortName": "Thọ",
+  "callouts": [
+    {
+      "afterKey": "business",
+      "sourceKey": "journey",
+      "quote": {
+        "vi": "Bước ngoặt đến khi anh thay đổi tư duy từ thiết kế đẹp sang thiết kế mang lại hiệu quả kinh doanh.",
+        "en": "The turning point came when he shifted from beautiful design to design that drives business results."
+      }
+    },
+    {
+      "afterKey": "vision",
+      "sourceKey": "philosophy",
+      "quote": {
+        "vi": "Làm nghề bằng uy tín thì khách hàng sẽ là người quảng bá thương hiệu tốt nhất cho mình.",
+        "en": "Practice your craft with integrity, and your customers become your best brand ambassadors."
+      }
+    }
+  ],
   "sections": [
     {
       "key": "about",

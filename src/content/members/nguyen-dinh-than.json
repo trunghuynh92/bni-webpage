@@ -11,6 +11,30 @@
     "vi": "Hơn 23 năm kiến tạo giải pháp âm thanh – ánh sáng đẳng cấp thế giới tại Việt Nam.",
     "en": "Over 23 years crafting world-class audio and lighting solutions in Vietnam."
   },
+  "shortName": "Thân",
+  "stats": [
+    { "value": "23+", "label": { "vi": "Năm kinh nghiệm trong ngành", "en": "Years in the industry" } },
+    { "value": "35%", "label": { "vi": "Tăng trưởng năm cao nhất", "en": "Peak annual growth" } },
+    { "value": "2017", "label": { "vi": "Năm thành lập", "en": "Year founded" } }
+  ],
+  "callouts": [
+    {
+      "afterKey": "about",
+      "sourceKey": "journey",
+      "quote": {
+        "vi": "Lấy con người làm gốc, sản phẩm chỉ là sự chuyển hoá ý tưởng thành thực tế.",
+        "en": "Putting people at the core — products are simply ideas transformed into reality."
+      }
+    },
+    {
+      "afterKey": "achievements",
+      "sourceKey": "philosophy",
+      "quote": {
+        "vi": "Lấy đạo đức nghề nghiệp làm kim chỉ nam, từ chối thực hiện các giải pháp phi kỹ thuật.",
+        "en": "Professional ethics as the compass — refusing to implement technically unsound solutions."
+      }
+    }
+  ],
   "sections": [
     {
       "key": "about",

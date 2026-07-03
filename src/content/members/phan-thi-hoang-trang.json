@@ -11,6 +11,29 @@
     "vi": "Yến thật từ tâm — giữ trọn niềm tin cho sức khỏe gia đình Việt.",
     "en": "Real bird's nest, made with heart — earning trust for every family's health."
   },
+  "shortName": "Trang",
+  "stats": [
+    { "value": "100%", "label": { "vi": "Yến nguyên chất", "en": "Pure bird's nest" } },
+    { "value": "2010", "label": { "vi": "Bắt đầu hành trình với yến", "en": "Bird's nest journey began" } }
+  ],
+  "callouts": [
+    {
+      "afterKey": "business",
+      "sourceKey": "journey",
+      "quote": {
+        "vi": "Chọn làm yến thật 100% — không phải vì con đường đó dễ, mà vì nó đúng.",
+        "en": "Choosing 100% real bird's nest — not because it was easy, but because it was right."
+      }
+    },
+    {
+      "afterKey": "philosophy",
+      "sourceKey": "referrals",
+      "quote": {
+        "vi": "Chúng tôi không chọn con đường dễ nhất — chúng tôi chọn con đường đáng làm nhất.",
+        "en": "We didn't choose the easiest path — we chose the one most worth taking."
+      }
+    }
+  ],
   "sections": [
     {
       "key": "about",

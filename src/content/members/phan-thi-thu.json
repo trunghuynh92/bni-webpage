@@ -11,6 +11,22 @@
     "vi": "Chuyên gia tư vấn giải pháp kế toán thuế với 21 năm kinh nghiệm.",
     "en": "A tax accounting solutions expert with 21 years of experience."
   },
+  "shortName": "Thu",
+  "stats": [
+    { "value": "21", "label": { "vi": "Năm hoạt động", "en": "Years in operation" } },
+    { "value": "8–10", "label": { "vi": "Tỷ đồng doanh thu/năm", "en": "Billion VND annual revenue" } },
+    { "value": "20", "label": { "vi": "Nhân sự", "en": "Team members" } }
+  ],
+  "callouts": [
+    {
+      "afterKey": "business",
+      "sourceKey": "philosophy",
+      "quote": {
+        "vi": "Luôn thật tử tế và tận tâm — với khách hàng, với đội ngũ và với nghề",
+        "en": "Always be genuinely kind and dedicated — to your clients, your team, and your profession"
+      }
+    }
+  ],
   "sections": [
     {
       "key": "about",

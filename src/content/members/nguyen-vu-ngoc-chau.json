@@ -11,6 +11,15 @@
     "vi": "Chuyên gia làm đẹp công nghệ sinh học, kiến tạo hệ sinh thái cho phụ nữ Việt.",
     "en": "A biotechnology-driven beauty expert building a wellness ecosystem for Vietnamese women."
   },
+  "shortName": "Châu",
+  "stats": [
+    { "value": "15", "label": { "vi": "Năm kinh nghiệm ngành làm đẹp", "en": "Years in beauty & health" } },
+    { "value": "170.000", "label": { "vi": "Người theo dõi Elise Châu", "en": "Elise Châu followers" } }
+  ],
+  "callouts": [
+    { "afterKey": "business", "sourceKey": "philosophy",
+      "quote": { "vi": "Học tập trọn đời và phát triển bền vững.", "en": "Lifelong learning and sustainable development." } }
+  ],
   "sections": [
     {
       "key": "about",

@@ -11,6 +11,25 @@
     "vi": "Xây dựng thương hiệu cho trẻ em bằng trái tim người mẹ và tư duy hệ thống.",
     "en": "Building brands for children with a mother's heart and a systems mindset."
   },
+  "shortName": "Vi",
+  "callouts": [
+    {
+      "afterKey": "about",
+      "sourceKey": "journey",
+      "quote": {
+        "vi": "Thương hiệu bền vững không thể chỉ dựa vào cảm hứng của người sáng lập — cần hệ thống, đội ngũ và giá trị đủ rõ để nhân rộng",
+        "en": "A lasting brand cannot rely on its founder's inspiration alone — it needs systems, a team, and values clear enough to replicate"
+      }
+    },
+    {
+      "afterKey": "business",
+      "sourceKey": "philosophy",
+      "quote": {
+        "vi": "Làm dịch vụ cho trẻ em phải bắt đầu từ sự tử tế, nhưng muốn đi xa thì phải được vận hành bằng hệ thống",
+        "en": "Services for children must begin with kindness, but to go far they must run on systems"
+      }
+    }
+  ],
   "sections": [
     {
       "key": "about",

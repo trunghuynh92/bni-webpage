@@ -11,6 +11,23 @@
     "vi": "Giải pháp gạch ốp lát thực tiễn và đầy cảm hứng.",
     "en": "Tile solutions that are practical and full of inspiration."
   },
+  "shortName": "Đỉnh",
+  "stats": [
+    { "value": "3", "label": { "vi": "Showroom", "en": "Showrooms" } },
+    { "value": "2", "label": { "vi": "Kho hàng", "en": "Warehouses" } },
+    { "value": "4.000 m²", "label": { "vi": "Tổng diện tích", "en": "Total floor space" } },
+    { "value": "2012", "label": { "vi": "Năm thành lập", "en": "Founded" } }
+  ],
+  "callouts": [
+    {
+      "afterKey": "business",
+      "sourceKey": "philosophy",
+      "quote": {
+        "vi": "Con đường trung đạo: tôn trọng các quy luật tự nhiên, tôn trọng sự thật và đặt tính hiệu quả lên hàng đầu.",
+        "en": "The middle path: respecting the laws of nature, honoring truth, and putting effectiveness first."
+      }
+    }
+  ],
   "sections": [
     {
       "key": "about",

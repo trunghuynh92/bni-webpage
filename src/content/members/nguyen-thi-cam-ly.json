@@ -11,6 +11,25 @@
     "vi": "Kiến tạo làn da khỏe đẹp bằng chuyên môn, sự tận tâm và giá trị bền vững.",
     "en": "Creating healthy, beautiful skin through expertise, dedication, and lasting value."
   },
+  "shortName": "Ly",
+  "callouts": [
+    {
+      "afterKey": "business",
+      "sourceKey": "journey",
+      "quote": {
+        "vi": "Bước ngoặt lớn nhất là khi chuyển từ tư duy bán dịch vụ sang tư duy giải quyết vấn đề cho khách hàng",
+        "en": "The biggest turning point came in shifting from a selling-services mindset to a solving-customers'-problems mindset"
+      }
+    },
+    {
+      "afterKey": "journey",
+      "sourceKey": "achievements",
+      "quote": {
+        "vi": "Thành tựu lớn nhất không nằm ở doanh thu hay số lượng khách hàng, mà là những khách hàng đã lấy lại sự tự tin",
+        "en": "The greatest achievement isn't revenue or customer numbers — it's the customers who regained their confidence"
+      }
+    }
+  ],
   "sections": [
     {
       "key": "about",

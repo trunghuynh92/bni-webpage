@@ -11,6 +11,25 @@
     "vi": "Chuyên gia răng sứ và implant, kiến tạo nụ cười sang trọng mang dấu ấn riêng.",
     "en": "A porcelain crown and implant specialist crafting elegant smiles with a signature touch."
   },
+  "shortName": "Bay",
+  "callouts": [
+    {
+      "afterKey": "business",
+      "sourceKey": "philosophy",
+      "quote": {
+        "vi": "Yêu thương dành cho từng bệnh nhân, và không ngừng tiến bộ để mang lại kết quả tốt nhất.",
+        "en": "Love for every patient, and continuous progress to deliver the best possible outcomes."
+      }
+    },
+    {
+      "afterKey": "philosophy",
+      "sourceKey": "referrals",
+      "quote": {
+        "vi": "Lời giới thiệu tin cậy từ người thật, trải nghiệm thật chính là kênh kết nối giá trị nhất.",
+        "en": "Trusted referrals from real people with real experiences are the most valuable connections."
+      }
+    }
+  ],
   "sections": [
     {
       "key": "about",

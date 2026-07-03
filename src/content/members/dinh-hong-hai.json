@@ -11,6 +11,17 @@
     "vi": "Luật sư sở hữu trí tuệ — bảo vệ thương hiệu từ sớm, rẻ hơn nhiều lần tranh chấp.",
     "en": "An IP lawyer — protecting your brand early costs far less than a dispute."
   },
+  "shortName": "Hải",
+  "stats": [
+    { "value": "500+", "label": { "vi": "Khách hàng đã tư vấn", "en": "Clients advised" } },
+    { "value": "1.000+", "label": { "vi": "Vụ việc xử lý 2023–2025", "en": "Cases handled 2023–2025" } },
+    { "value": "26", "label": { "vi": "Quốc gia có văn phòng", "en": "Countries with offices" } },
+    { "value": "7+", "label": { "vi": "Năm hành nghề", "en": "Years in practice" } }
+  ],
+  "callouts": [
+    { "afterKey": "business", "sourceKey": "journey",
+      "quote": { "vi": "Chi phí tranh chấp luôn tốn kém nhiều lần so với chi phí bảo vệ quyền sở hữu trí tuệ từ sớm.", "en": "The cost of a dispute is always many times higher than the cost of protecting IP rights early." } }
+  ],
   "sections": [
     {
       "key": "about",
