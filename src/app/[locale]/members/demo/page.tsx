@@ -4,7 +4,7 @@ import { Archivo, Newsreader } from "next/font/google";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
 import { routing } from "@/i18n/routing";
-import { getMember, initials, localized, type LocalizedText } from "@/lib/members";
+import { getMember, initials, localized, memberContentLocale, type LocalizedText } from "@/lib/members";
 
 const newsreader = Newsreader({
   subsets: ["latin", "vietnamese"],
@@ -101,7 +101,8 @@ export default async function MemberProfileDemoPage({
   const member = getMember(DEMO_SLUG);
   if (!member) notFound();
 
-  const t = await getTranslations({ locale, namespace: "Members" });
+  const contentLocale = memberContentLocale(locale);
+  const t = await getTranslations({ locale: contentLocale, namespace: "Members" });
   const pick = (text: LocalizedText) => localized(text, locale);
   const phoneHref = member.phone
     ? `tel:+84${member.phone.replace(/\D/g, "").replace(/^0/, "")}`
@@ -233,7 +234,7 @@ export default async function MemberProfileDemoPage({
         {/* Body */}
         <div className="px-6 pt-[26px] pb-2 md:px-16 md:pt-16 md:pb-14">
           {sections.map((section, i) => {
-            const body = locale === "vi" ? section.vi : section.en;
+            const body = contentLocale === "vi" ? section.vi : section.en;
             const isLast = i === lastIdx;
             const pull = PULL_QUOTES[section.key];
 

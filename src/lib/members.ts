@@ -77,8 +77,16 @@ export function getMember(slug: string): Member | undefined {
   return getMembers().find((m) => m.slug === slug);
 }
 
+// TEMPORARY: English is turned off for member profile pages — all member
+// content renders in Vietnamese on both locales. To re-enable English,
+// change this to `return locale;`.
+export function memberContentLocale(locale: string): string {
+  void locale;
+  return "vi";
+}
+
 export function localized(text: LocalizedText, locale: string): string {
-  return locale === "vi" ? text.vi : text.en;
+  return memberContentLocale(locale) === "vi" ? text.vi : text.en;
 }
 
 export function initials(name: string): string {

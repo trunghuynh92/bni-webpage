@@ -2,7 +2,7 @@ import Image from "next/image";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
 import { routing } from "@/i18n/routing";
-import { getMembers, initials, localized } from "@/lib/members";
+import { getMembers, initials, localized, memberContentLocale } from "@/lib/members";
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
@@ -14,7 +14,7 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }) {
   const { locale } = await params;
-  const t = await getTranslations({ locale, namespace: "Members" });
+  const t = await getTranslations({ locale: memberContentLocale(locale), namespace: "Members" });
   return { title: `${t("title")} | BNI MASTER` };
 }
 
@@ -25,7 +25,7 @@ export default async function MembersPage({
 }) {
   const { locale } = await params;
   setRequestLocale(locale);
-  const t = await getTranslations({ locale, namespace: "Members" });
+  const t = await getTranslations({ locale: memberContentLocale(locale), namespace: "Members" });
   const members = getMembers();
 
   return (

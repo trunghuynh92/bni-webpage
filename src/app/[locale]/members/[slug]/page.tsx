@@ -3,7 +3,7 @@ import { notFound } from "next/navigation";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
 import { routing } from "@/i18n/routing";
-import { getMember, getMembers, initials, localized } from "@/lib/members";
+import { getMember, getMembers, initials, localized, memberContentLocale } from "@/lib/members";
 
 export function generateStaticParams() {
   const members = getMembers();
@@ -36,7 +36,8 @@ export default async function MemberProfilePage({
   const member = getMember(slug);
   if (!member) notFound();
 
-  const t = await getTranslations({ locale, namespace: "Members" });
+  const contentLocale = memberContentLocale(locale);
+  const t = await getTranslations({ locale: contentLocale, namespace: "Members" });
   const phoneHref = member.phone ? `tel:+84${member.phone.replace(/\D/g, "").replace(/^0/, "")}` : null;
 
   return (
@@ -143,7 +144,7 @@ export default async function MemberProfilePage({
                 </h2>
                 <div className="mt-2 h-1 w-12 rounded-full bg-gradient-to-r from-bni-red to-bni-gold" />
                 <p className="mt-4 text-bni-gray-dark leading-relaxed whitespace-pre-line">
-                  {locale === "vi" ? section.vi : section.en}
+                  {contentLocale === "vi" ? section.vi : section.en}
                 </p>
               </article>
             ))}
