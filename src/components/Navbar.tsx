@@ -6,6 +6,7 @@ import { useTranslations, useLocale } from "next-intl";
 
 export default function Navbar() {
   const [mobileOpen, setMobileOpen] = useState(false);
+  const [mobileSubOpen, setMobileSubOpen] = useState(false);
   const [dropdownOpen, setDropdownOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
   const t = useTranslations("Nav");
@@ -53,6 +54,7 @@ export default function Navbar() {
 
   useEffect(() => {
     document.body.style.overflow = mobileOpen ? "hidden" : "";
+    if (!mobileOpen) setMobileSubOpen(false);
     return () => {
       document.body.style.overflow = "";
     };
@@ -220,7 +222,8 @@ export default function Navbar() {
         <div className="absolute -top-32 -right-32 w-[400px] h-[400px] bg-bni-red/10 rounded-full blur-[120px]" />
         <div className="absolute bottom-0 left-0 w-[300px] h-[300px] bg-bni-gold/5 rounded-full blur-[100px]" />
 
-        <div className="relative flex flex-col items-center justify-center h-full gap-8 px-8">
+        <div className="relative h-full overflow-y-auto overscroll-contain flex">
+          <div className="m-auto flex flex-col items-center gap-8 px-8 pt-28 pb-24 w-full">
           {navigation.map((item, i) => (
             <div
               key={item.label}
@@ -231,26 +234,57 @@ export default function Navbar() {
               }`}
               style={{ transitionDelay: mobileOpen ? `${150 + i * 100}ms` : "0ms" }}
             >
-              <Link
-                href={item.href}
-                className="text-4xl font-black text-white hover:text-bni-red transition-colors duration-300 uppercase tracking-wider"
-                onClick={() => setMobileOpen(false)}
-              >
-                {item.label}
-              </Link>
-              {item.children && (
-                <div className="mt-4 flex flex-col gap-2">
-                  {item.children.map((child) => (
-                    <Link
-                      key={child.href}
-                      href={child.href}
-                      className="text-base text-white/40 hover:text-bni-gold transition-colors duration-200 tracking-wide"
-                      onClick={() => setMobileOpen(false)}
+              {item.children ? (
+                <>
+                  <button
+                    type="button"
+                    className="flex items-center justify-center gap-2.5 text-4xl font-black text-white hover:text-bni-red transition-colors duration-300 uppercase tracking-wider"
+                    onClick={() => setMobileSubOpen(!mobileSubOpen)}
+                    aria-expanded={mobileSubOpen}
+                  >
+                    {item.label}
+                    <svg
+                      className={`h-6 w-6 shrink-0 transition-transform duration-300 ${
+                        mobileSubOpen ? "rotate-180 text-bni-red" : "text-white/50"
+                      }`}
+                      fill="none"
+                      viewBox="0 0 24 24"
+                      stroke="currentColor"
+                      strokeWidth={3}
                     >
-                      {child.label}
-                    </Link>
-                  ))}
-                </div>
+                      <path strokeLinecap="round" strokeLinejoin="round" d="M19 9l-7 7-7-7" />
+                    </svg>
+                  </button>
+                  {mobileSubOpen && (
+                    <div className="mt-4 flex flex-col gap-2">
+                      <Link
+                        href={item.href}
+                        className="text-base font-semibold text-bni-gold hover:text-bni-gold-light transition-colors duration-200 tracking-wide"
+                        onClick={() => setMobileOpen(false)}
+                      >
+                        {item.label}
+                      </Link>
+                      {item.children.map((child) => (
+                        <Link
+                          key={child.href}
+                          href={child.href}
+                          className="text-base text-white/40 hover:text-bni-gold transition-colors duration-200 tracking-wide"
+                          onClick={() => setMobileOpen(false)}
+                        >
+                          {child.label}
+                        </Link>
+                      ))}
+                    </div>
+                  )}
+                </>
+              ) : (
+                <Link
+                  href={item.href}
+                  className="text-4xl font-black text-white hover:text-bni-red transition-colors duration-300 uppercase tracking-wider"
+                  onClick={() => setMobileOpen(false)}
+                >
+                  {item.label}
+                </Link>
               )}
             </div>
           ))}
@@ -289,7 +323,7 @@ export default function Navbar() {
 
           {/* Mobile menu footer accent */}
           <div
-            className={`absolute bottom-12 left-1/2 -translate-x-1/2 transition-all duration-700 delay-500 ${
+            className={`transition-all duration-700 delay-500 ${
               mobileOpen ? "opacity-100" : "opacity-0"
             }`}
           >
@@ -297,6 +331,7 @@ export default function Navbar() {
               <span className="text-bni-red text-sm font-black tracking-widest">BNI</span>
               <span className="text-white/30 text-sm font-bold tracking-widest">MASTER</span>
             </div>
+          </div>
           </div>
         </div>
       </div>
