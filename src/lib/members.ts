@@ -104,66 +104,14 @@ export function getMember(slug: string): Member | undefined {
   return getMembers().find((m) => m.slug === slug);
 }
 
-const SECTION_ORDER: MemberSection["key"][] = [
-  "about",
-  "business",
-  "journey",
-  "achievements",
-  "vision",
-  "philosophy",
-  "customers",
-  "referrals",
-];
-
-// Merge one sheet row over a repo member. Non-empty cells win; empty cells
-// keep the repo value, so admins only fill in what they want to change.
+// Apply one sheet row to a repo member. By design the sheet can ONLY change
+// photos (and visibility, handled by the caller) — profile text is managed in
+// the repo so the polished copy can't be accidentally edited. Photo cells:
+// non-empty Drive link wins; empty keeps the photo built into the site.
 function applyRow(base: Member | undefined, row: RemoteMemberRow): Member | null {
+  if (!base) return null; // members can't be created from the sheet
+  const m = structuredClone(base);
   const cell = (k: string) => (row[k] ?? "").trim();
-  const slug = cell("slug");
-  if (!slug) return null;
-
-  const m: Member = base
-    ? structuredClone(base)
-    : {
-        slug,
-        name: slug,
-        jobTitle: { vi: "", en: "" },
-        company: "",
-        industry: { vi: "", en: "" },
-        founded: null,
-        phone: null,
-        email: null,
-        tagline: { vi: "", en: "" },
-        sections: [],
-        images: { logo: null, profile: null, business: [] },
-      };
-
-  if (cell("name")) m.name = cell("name");
-  if (cell("company")) m.company = cell("company");
-  if (cell("founded")) m.founded = cell("founded");
-  if (cell("phone")) m.phone = cell("phone");
-  if (cell("email")) m.email = cell("email").toLowerCase();
-  if (cell("shortName")) m.shortName = cell("shortName");
-  // VI-only overrides; missing EN falls back to VI (EN display is currently off)
-  if (cell("jobTitle_vi")) m.jobTitle = { vi: cell("jobTitle_vi"), en: m.jobTitle.en || cell("jobTitle_vi") };
-  if (cell("industry_vi")) m.industry = { vi: cell("industry_vi"), en: m.industry.en || cell("industry_vi") };
-  if (cell("tagline_vi")) m.tagline = { vi: cell("tagline_vi"), en: m.tagline.en || cell("tagline_vi") };
-
-  for (const key of SECTION_ORDER) {
-    const text = cell(`${key}_vi`);
-    if (!text) continue;
-    const existing = m.sections.find((s) => s.key === key);
-    if (existing) {
-      existing.vi = text;
-    } else {
-      const section: MemberSection = { key, vi: text, en: text };
-      const idx = m.sections.findIndex(
-        (s) => SECTION_ORDER.indexOf(s.key) > SECTION_ORDER.indexOf(key)
-      );
-      if (idx === -1) m.sections.push(section);
-      else m.sections.splice(idx, 0, section);
-    }
-  }
 
   const img = (k: string, width?: number) => {
     const v = cell(k);

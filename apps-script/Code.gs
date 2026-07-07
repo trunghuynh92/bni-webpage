@@ -13,11 +13,11 @@
 
 var BOOTSTRAP_URL = "https://www.bnimaster.com/content-bootstrap.json";
 
+// Photos only by design — member profile TEXT is managed in the website
+// code, not the sheet. "name" is a read-only reference so admins know which
+// row is which member; the site ignores it.
 var MEMBER_COLUMNS = [
-  "slug", "visible", "name", "shortName", "jobTitle_vi", "company",
-  "industry_vi", "founded", "phone", "email", "tagline_vi",
-  "about_vi", "business_vi", "journey_vi", "achievements_vi",
-  "vision_vi", "philosophy_vi", "customers_vi", "referrals_vi",
+  "slug", "visible", "name",
   "profilePhoto", "logoPhoto",
   "businessPhoto1", "businessPhoto2", "businessPhoto3", "businessPhoto4"
 ];

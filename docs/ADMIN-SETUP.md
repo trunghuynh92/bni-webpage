@@ -38,8 +38,7 @@ folder, and the site updates itself within ~5 minutes.
 | Homepage background slideshow | Drive folder **BNI Website Slideshow** | Add/remove images; they rotate in filename order. Landscape ≥1920px wide looks best. Empty folder = the current dark background. |
 | Homepage numbers (50+, 1000+…) | **Stats** tab | One row per number. Add/remove rows freely. |
 | Homepage headline, subtitle, buttons | **HomeTexts** tab | Edit the `vi` column (`en` used when English is re-enabled). Empty cell = the built-in text. |
-| Member profile text | **Members** tab | One row per member. Empty cell = keep what's on the site today; filled cell wins. Set `visible` to `no` to hide a member. |
-| Member photos | **Members** tab photo columns | Paste a Google Drive share link (image must be "Anyone with the link can view"). Empty = keep the current photo. |
+| Member photos | **Members** tab photo columns | Paste a Google Drive share link (image must be "Anyone with the link can view"). Empty = keep the current photo. Set `visible` to `no` to hide a member entirely. Profile TEXT is deliberately NOT sheet-editable — it stays managed in the website code so the polished copy can't be accidentally broken. |
 | Booking requests | **Bookings** tab | New requests appear as rows, newest last, with status "Mới". An email is also sent to `notify_email` (Config tab) on every request. |
 
 ## Changing who gets booking emails
@@ -59,9 +58,7 @@ Edit the `notify_email` value in the **Config** tab. Takes effect immediately.
 - Edits appear on the site within ~5 minutes (the site caches content for 300s).
 - If the sheet or script ever breaks, the site keeps working with its built-in
   content — worst case, edits stop applying until fixed.
-- Adding a **new** member via the sheet works (new row with a new `slug`), but
-  member photos then must all be Drive links. For a fully polished new profile
-  (bilingual copy, editorial extras), it's still better to run the profile
-  generation from the intake sheet.
+- Member profile text and new members are managed in the website code, not the
+  sheet — profile text changes and new profiles go through the developer.
 - The `stats`/pull-quote extras on member profiles are not sheet-editable in
   this version; they change so rarely that they remain code-managed.
