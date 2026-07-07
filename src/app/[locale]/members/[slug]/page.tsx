@@ -2,7 +2,10 @@ import { notFound } from "next/navigation";
 import { setRequestLocale } from "next-intl/server";
 import { routing } from "@/i18n/routing";
 import MemberProfileMagazine from "@/components/MemberProfileMagazine";
-import { getMember, getMembers, localized } from "@/lib/members";
+import { getMemberLive, getMembers, localized } from "@/lib/members";
+
+// Must be a literal for Next.js static analysis (= CONTENT_REVALIDATE_SECONDS)
+export const revalidate = 300;
 
 export function generateStaticParams() {
   const members = getMembers();
@@ -17,7 +20,7 @@ export async function generateMetadata({
   params: Promise<{ locale: string; slug: string }>;
 }) {
   const { locale, slug } = await params;
-  const member = getMember(slug);
+  const member = await getMemberLive(slug);
   if (!member) return {};
   return {
     title: `${member.name} | BNI MASTER`,
@@ -32,7 +35,7 @@ export default async function MemberProfilePage({
 }) {
   const { locale, slug } = await params;
   setRequestLocale(locale);
-  const member = getMember(slug);
+  const member = await getMemberLive(slug);
   if (!member) notFound();
 
   return <MemberProfileMagazine member={member} locale={locale} />;

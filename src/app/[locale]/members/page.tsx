@@ -2,7 +2,10 @@ import Image from "next/image";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
 import { routing } from "@/i18n/routing";
-import { getMembers, initials, localized, memberContentLocale } from "@/lib/members";
+import { getMembersLive, initials, localized, memberContentLocale } from "@/lib/members";
+
+// Must be a literal for Next.js static analysis (= CONTENT_REVALIDATE_SECONDS)
+export const revalidate = 300;
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
@@ -26,7 +29,7 @@ export default async function MembersPage({
   const { locale } = await params;
   setRequestLocale(locale);
   const t = await getTranslations({ locale: memberContentLocale(locale), namespace: "Members" });
-  const members = getMembers();
+  const members = await getMembersLive();
 
   return (
     <main>

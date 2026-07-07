@@ -292,5 +292,25 @@
     "memberProfile": "Hồ Sơ Thành Viên",
     "sendEmail": "Gửi Email",
     "connectLabel": "Kết Nối"
+  },
+  "Visit": {
+    "title": "Tham Dự Buổi Họp",
+    "subtitle": "Để lại thông tin và Ban Đón Tiếp Khách sẽ liên hệ sắp xếp buổi tham dự của bạn.",
+    "fullName": "Họ và tên",
+    "fullNamePh": "Nguyễn Văn A",
+    "phone": "Điện thoại",
+    "email": "Email",
+    "company": "Công ty",
+    "companyPh": "Công ty của bạn",
+    "industry": "Ngành nghề",
+    "industryPh": "VD: Bất động sản, F&B, Luật…",
+    "note": "Lời nhắn",
+    "notePh": "Điều bạn muốn chúng tôi biết — tuần muốn tham dự, câu hỏi…",
+    "submit": "Đăng Ký Tham Dự",
+    "sending": "Đang gửi…",
+    "error": "Có lỗi xảy ra. Vui lòng thử lại hoặc liên hệ trực tiếp.",
+    "thanksTitle": "Đã nhận đăng ký!",
+    "thanksBody": "Cảm ơn bạn đã quan tâm đến BNI MASTER. Ban Đón Tiếp Khách sẽ liên hệ với bạn sớm để xác nhận chi tiết.",
+    "meetingInfo": "BNI MASTER họp hàng tuần tại TP. Hồ Chí Minh."
   }
 }

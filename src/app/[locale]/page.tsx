@@ -2,6 +2,10 @@ import { getTranslations, setRequestLocale } from "next-intl/server";
 import { routing } from "@/i18n/routing";
 import { Link } from "@/i18n/navigation";
 import Hero from "@/components/Hero";
+import { driveImageUrl, getRemoteContent } from "@/lib/content-api";
+
+// Must be a literal for Next.js static analysis (= CONTENT_REVALIDATE_SECONDS)
+export const revalidate = 300;
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
@@ -11,13 +15,30 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
   const { locale } = await params;
   setRequestLocale(locale);
   const t = await getTranslations({ locale, namespace: "HomePage" });
+  const remote = await getRemoteContent();
 
-  const stats = [
-    { value: "50+", label: t("statsActiveMembers") },
-    { value: "1000+", label: t("statsReferrals") },
-    { value: "$2M+", label: t("statsBusiness") },
-    { value: "Weekly", label: t("statsMeetings") },
-  ];
+  // Sheet-managed text overrides; empty cells fall back to built-in copy
+  const tx = (key: string, fallback: string) =>
+    remote?.texts[`${key}_${locale}`]?.trim() || fallback;
+
+  const slides = (remote?.slides ?? [])
+    .map((s) => driveImageUrl(s.id, 1920))
+    .filter((s): s is string => Boolean(s));
+
+  const stats =
+    remote && remote.stats.length > 0
+      ? remote.stats.map((s) => ({
+          value: s.value,
+          label: (locale === "vi" ? s.label_vi : s.label_en) || s.label_vi,
+        }))
+      : [
+          { value: "50+", label: t("statsActiveMembers") },
+          { value: "1000+", label: t("statsReferrals") },
+          { value: "$2M+", label: t("statsBusiness") },
+          { value: "Weekly", label: t("statsMeetings") },
+        ];
+
+  const visitHref = locale === routing.defaultLocale ? "/visit" : `/${locale}/visit`;
 
   const featureCards = [
     {
@@ -55,10 +76,11 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
     <main>
       {/* Hero */}
       <Hero
-        title={t("heroTitle")}
-        subtitle={t("heroSubtitle")}
+        title={tx("heroTitle", t("heroTitle"))}
+        subtitle={tx("heroSubtitle", t("heroSubtitle"))}
+        slides={slides}
         buttons={[
-          { label: t("joinMeeting"), href: "#", variant: "wide" },
+          { label: tx("joinMeeting", t("joinMeeting")), href: visitHref, variant: "wide" },
         ]}
       />
 
@@ -179,16 +201,16 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
         <div className="absolute left-0 top-0 w-full h-1 bg-gradient-to-r from-bni-red via-bni-gold to-bni-red" />
         <div className="relative max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-20 sm:py-24 text-center">
           <h2 className="text-3xl sm:text-4xl font-extrabold text-white mb-4 tracking-tight">
-            {t("ctaTitle")}
+            {tx("ctaTitle", t("ctaTitle"))}
           </h2>
           <p className="text-lg text-gray-300 mb-10 max-w-2xl mx-auto">
-            {t("ctaSubtitle")}
+            {tx("ctaSubtitle", t("ctaSubtitle"))}
           </p>
           <a
-            href="#"
+            href={visitHref}
             className="inline-flex items-center justify-center bg-bni-red hover:bg-bni-red-dark text-white font-bold text-lg px-12 py-4 rounded-xl transition-all duration-200 shadow-lg shadow-bni-red/25 hover:shadow-bni-red/40 hover:scale-105"
           >
-            {t("ctaButton")}
+            {tx("ctaButton", t("ctaButton"))}
           </a>
         </div>
       </section>

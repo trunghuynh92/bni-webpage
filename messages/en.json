@@ -292,5 +292,25 @@
     "memberProfile": "Member Profile",
     "sendEmail": "Send Email",
     "connectLabel": "Connect"
+  },
+  "Visit": {
+    "title": "Visit Our Meeting",
+    "subtitle": "Leave your details and our Visitor Host team will get in touch to arrange your visit.",
+    "fullName": "Full name",
+    "fullNamePh": "Nguyen Van A",
+    "phone": "Phone",
+    "email": "Email",
+    "company": "Company",
+    "companyPh": "Your company",
+    "industry": "Industry",
+    "industryPh": "e.g. Real estate, F&B, Legal…",
+    "note": "Message",
+    "notePh": "Anything we should know — preferred week, questions…",
+    "submit": "Request an Invitation",
+    "sending": "Sending…",
+    "error": "Something went wrong. Please try again or contact us directly.",
+    "thanksTitle": "Request received!",
+    "thanksBody": "Thank you for your interest in BNI MASTER. Our Visitor Host team will contact you shortly to confirm the details.",
+    "meetingInfo": "BNI MASTER meets weekly in Ho Chi Minh City."
   }
 }

@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import Image from "next/image";
 import ResourceButton from "@/components/ResourceButton";
 
 interface HeroButtonDef {
@@ -14,20 +15,36 @@ interface HeroProps {
   subtitle?: string;
   buttons?: HeroButtonDef[];
   showImage?: boolean;
+  slides?: string[];
 }
+
+const SLIDE_INTERVAL_MS = 6000;
 
 export default function Hero({
   title,
   subtitle,
   buttons = [],
   showImage = false,
+  slides = [],
 }: HeroProps) {
   const [loaded, setLoaded] = useState(false);
+  const [slide, setSlide] = useState(0);
 
   useEffect(() => {
     const timer = setTimeout(() => setLoaded(true), 100);
     return () => clearTimeout(timer);
   }, []);
+
+  useEffect(() => {
+    if (slides.length < 2) return;
+    const timer = setInterval(
+      () => setSlide((s) => (s + 1) % slides.length),
+      SLIDE_INTERVAL_MS
+    );
+    return () => clearInterval(timer);
+  }, [slides.length]);
+
+  const hasSlides = slides.length > 0;
 
   const sideButtons = buttons.filter(
     (b) => b.variant === "outlined" || !b.variant
@@ -36,8 +53,36 @@ export default function Hero({
 
   return (
     <section className="relative w-full overflow-hidden bg-bni-charcoal min-h-[60vh]">
-      {/* Layered background */}
-      <div className="absolute inset-0 bg-gradient-to-b from-bni-charcoal via-bni-dark to-bni-charcoal" />
+      {/* Background slideshow (admin-managed via Drive folder) */}
+      {hasSlides &&
+        slides.map((src, i) => (
+          <div
+            key={src}
+            className={`absolute inset-0 transition-opacity duration-[1500ms] ease-in-out ${
+              i === slide ? "opacity-100" : "opacity-0"
+            }`}
+          >
+            <Image
+              src={src}
+              alt=""
+              fill
+              priority={i === 0}
+              sizes="100vw"
+              className={`object-cover transition-transform duration-[8000ms] ease-linear ${
+                i === slide ? "scale-110" : "scale-100"
+              }`}
+            />
+          </div>
+        ))}
+
+      {/* Layered background — translucent over slides for readability */}
+      <div
+        className={`absolute inset-0 ${
+          hasSlides
+            ? "bg-gradient-to-b from-bni-charcoal/85 via-bni-charcoal/70 to-bni-charcoal/90"
+            : "bg-gradient-to-b from-bni-charcoal via-bni-dark to-bni-charcoal"
+        }`}
+      />
 
       {/* Red radial glow - top right */}
       <div className="absolute -top-40 -right-40 w-[600px] h-[600px] bg-bni-red/10 rounded-full blur-[150px]" />
