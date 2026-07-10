@@ -15,39 +15,7 @@ export interface NavItem {
 export const navigation: NavItem[] = [
   { label: "Home", href: "/" },
   { label: "Members", href: "/members" },
-  {
-    label: "Leadership Teams",
-    href: "/leadership-teams",
-    children: [
-      { label: "President", href: "/leadership-teams/president" },
-      { label: "Vice President", href: "/leadership-teams/vice-president" },
-      {
-        label: "Treasurer / Secretary",
-        href: "/leadership-teams/treasurer-secretary",
-      },
-      { label: "MC Engagement", href: "/leadership-teams/mc-engagement" },
-      { label: "Go4Green", href: "/leadership-teams/go4green" },
-      {
-        label: "MC Community Builder",
-        href: "/leadership-teams/mc-community-builder",
-      },
-      { label: "Growth & Events", href: "/leadership-teams/growth-events" },
-      {
-        label: "MC Quality Assurance",
-        href: "/leadership-teams/mc-quality-assurance",
-      },
-      { label: "MC Relations", href: "/leadership-teams/mc-relations" },
-      {
-        label: "Mentor Coordinator",
-        href: "/leadership-teams/mentor-coordinator",
-      },
-      { label: "Visitor Hosts", href: "/leadership-teams/visitor-hosts" },
-      {
-        label: "Education Coordinator",
-        href: "/leadership-teams/education-coordinator",
-      },
-    ],
-  },
+  { label: "Leadership Teams", href: "/leadership-teams" },
   { label: "Calendar & Events", href: "/calendar-events" },
 ];
 

@@ -6,8 +6,6 @@ import { useTranslations, useLocale } from "next-intl";
 
 export default function Navbar() {
   const [mobileOpen, setMobileOpen] = useState(false);
-  const [mobileSubOpen, setMobileSubOpen] = useState(false);
-  const [dropdownOpen, setDropdownOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
   const t = useTranslations("Nav");
   const locale = useLocale();
@@ -17,24 +15,7 @@ export default function Navbar() {
   const navigation = [
     { label: t("home"), href: "/" as const },
     { label: t("members"), href: "/members" as const },
-    {
-      label: t("leadershipTeams"),
-      href: "/leadership-teams" as const,
-      children: [
-        { label: t("president"), href: "/leadership-teams/president" as const },
-        { label: t("vicePresident"), href: "/leadership-teams/vice-president" as const },
-        { label: t("treasurerSecretary"), href: "/leadership-teams/treasurer-secretary" as const },
-        { label: t("mcEngagement"), href: "/leadership-teams/mc-engagement" as const },
-        { label: t("go4green"), href: "/leadership-teams/go4green" as const },
-        { label: t("mcCommunityBuilder"), href: "/leadership-teams/mc-community-builder" as const },
-        { label: t("growthEvents"), href: "/leadership-teams/growth-events" as const },
-        { label: t("mcQualityAssurance"), href: "/leadership-teams/mc-quality-assurance" as const },
-        { label: t("mcRelations"), href: "/leadership-teams/mc-relations" as const },
-        { label: t("mentorCoordinator"), href: "/leadership-teams/mentor-coordinator" as const },
-        { label: t("visitorHosts"), href: "/leadership-teams/visitor-hosts" as const },
-        { label: t("educationCoordinator"), href: "/leadership-teams/education-coordinator" as const },
-      ],
-    },
+    { label: t("leadershipTeams"), href: "/leadership-teams" as const },
     { label: t("calendarEvents"), href: "/calendar-events" as const },
   ];
 
@@ -52,7 +33,6 @@ export default function Navbar() {
 
   useEffect(() => {
     document.body.style.overflow = mobileOpen ? "hidden" : "";
-    if (!mobileOpen) setMobileSubOpen(false);
     return () => {
       document.body.style.overflow = "";
     };
@@ -82,71 +62,16 @@ export default function Navbar() {
 
             {/* Desktop navigation */}
             <div className="hidden lg:flex items-center gap-10">
-              {navigation.map((item) =>
-                item.children ? (
-                  <div
-                    key={item.label}
-                    className="relative"
-                    onMouseEnter={() => setDropdownOpen(true)}
-                    onMouseLeave={() => setDropdownOpen(false)}
-                  >
-                    <Link
-                      href={item.href}
-                      className="relative px-1 py-2 text-sm font-semibold text-white/70 hover:text-white transition-colors duration-300 group flex items-center gap-1.5 uppercase tracking-wider"
-                    >
-                      {item.label}
-                      <svg
-                        className={`h-3.5 w-3.5 transition-transform duration-300 ${
-                          dropdownOpen ? "rotate-180" : ""
-                        }`}
-                        fill="none"
-                        viewBox="0 0 24 24"
-                        stroke="currentColor"
-                        strokeWidth={2.5}
-                      >
-                        <path
-                          strokeLinecap="round"
-                          strokeLinejoin="round"
-                          d="M19 9l-7 7-7-7"
-                        />
-                      </svg>
-                      <span className="absolute bottom-0 left-0 h-[2px] w-0 bg-gradient-to-r from-bni-red to-bni-red-light transition-all duration-300 ease-out group-hover:w-full rounded-full" />
-                    </Link>
-
-                    {/* Dropdown */}
-                    <div
-                      className={`absolute left-1/2 -translate-x-1/2 top-full pt-3 transition-all duration-300 ${
-                        dropdownOpen
-                          ? "opacity-100 translate-y-0 pointer-events-auto"
-                          : "opacity-0 -translate-y-3 pointer-events-none"
-                      }`}
-                    >
-                      <div className="glass-card w-72 rounded-2xl py-2 shadow-2xl shadow-black/40 border border-white/10 overflow-hidden">
-                        <div className="h-[2px] w-full bg-gradient-to-r from-bni-red via-bni-gold to-bni-red" />
-                        {item.children.map((child) => (
-                          <Link
-                            key={child.href}
-                            href={child.href}
-                            className="group/item block px-6 py-3 text-sm text-white/60 hover:text-white hover:bg-white/5 transition-all duration-200 flex items-center gap-3"
-                          >
-                            <span className="w-1 h-1 rounded-full bg-bni-red/0 group-hover/item:bg-bni-red transition-all duration-200" />
-                            {child.label}
-                          </Link>
-                        ))}
-                      </div>
-                    </div>
-                  </div>
-                ) : (
-                  <Link
-                    key={item.label}
-                    href={item.href}
-                    className="relative px-1 py-2 text-sm font-semibold text-white/70 hover:text-white transition-colors duration-300 group uppercase tracking-wider"
-                  >
-                    {item.label}
-                    <span className="absolute bottom-0 left-0 h-[2px] w-0 bg-gradient-to-r from-bni-red to-bni-red-light transition-all duration-300 ease-out group-hover:w-full rounded-full" />
-                  </Link>
-                )
-              )}
+              {navigation.map((item) => (
+                <Link
+                  key={item.label}
+                  href={item.href}
+                  className="relative px-1 py-2 text-sm font-semibold text-white/70 hover:text-white transition-colors duration-300 group uppercase tracking-wider"
+                >
+                  {item.label}
+                  <span className="absolute bottom-0 left-0 h-[2px] w-0 bg-gradient-to-r from-bni-red to-bni-red-light transition-all duration-300 ease-out group-hover:w-full rounded-full" />
+                </Link>
+              ))}
 
               {/* Language Switcher */}
               <button
@@ -232,58 +157,13 @@ export default function Navbar() {
               }`}
               style={{ transitionDelay: mobileOpen ? `${150 + i * 100}ms` : "0ms" }}
             >
-              {item.children ? (
-                <>
-                  <button
-                    type="button"
-                    className="flex items-center justify-center gap-2.5 text-4xl font-black text-white hover:text-bni-red transition-colors duration-300 uppercase tracking-wider"
-                    onClick={() => setMobileSubOpen(!mobileSubOpen)}
-                    aria-expanded={mobileSubOpen}
-                  >
-                    {item.label}
-                    <svg
-                      className={`h-6 w-6 shrink-0 transition-transform duration-300 ${
-                        mobileSubOpen ? "rotate-180 text-bni-red" : "text-white/50"
-                      }`}
-                      fill="none"
-                      viewBox="0 0 24 24"
-                      stroke="currentColor"
-                      strokeWidth={3}
-                    >
-                      <path strokeLinecap="round" strokeLinejoin="round" d="M19 9l-7 7-7-7" />
-                    </svg>
-                  </button>
-                  {mobileSubOpen && (
-                    <div className="mt-4 flex flex-col gap-2">
-                      <Link
-                        href={item.href}
-                        className="text-base font-semibold text-bni-gold hover:text-bni-gold-light transition-colors duration-200 tracking-wide"
-                        onClick={() => setMobileOpen(false)}
-                      >
-                        {item.label}
-                      </Link>
-                      {item.children.map((child) => (
-                        <Link
-                          key={child.href}
-                          href={child.href}
-                          className="text-base text-white/40 hover:text-bni-gold transition-colors duration-200 tracking-wide"
-                          onClick={() => setMobileOpen(false)}
-                        >
-                          {child.label}
-                        </Link>
-                      ))}
-                    </div>
-                  )}
-                </>
-              ) : (
-                <Link
-                  href={item.href}
-                  className="text-4xl font-black text-white hover:text-bni-red transition-colors duration-300 uppercase tracking-wider"
-                  onClick={() => setMobileOpen(false)}
-                >
-                  {item.label}
-                </Link>
-              )}
+              <Link
+                href={item.href}
+                className="text-4xl font-black text-white hover:text-bni-red transition-colors duration-300 uppercase tracking-wider"
+                onClick={() => setMobileOpen(false)}
+              >
+                {item.label}
+              </Link>
             </div>
           ))}
 
