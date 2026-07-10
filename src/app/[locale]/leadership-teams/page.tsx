@@ -71,7 +71,11 @@ export default async function LeadershipTeamsPage({
 
             <div
               className={`mt-8 grid gap-6 lg:gap-8 ${
-                team.roles.length > 1 ? "md:grid-cols-2" : ""
+                team.roles.length === 3
+                  ? "md:grid-cols-2 lg:grid-cols-3"
+                  : team.roles.length > 1
+                    ? "md:grid-cols-2"
+                    : ""
               }`}
             >
               {team.roles.map((role) => (
