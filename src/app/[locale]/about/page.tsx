@@ -200,7 +200,7 @@ export default async function AboutPage({
               >
                 <span
                   aria-hidden
-                  className="absolute -top-7 right-0 text-8xl font-black text-bni-charcoal/[0.06] select-none leading-none"
+                  className="absolute top-4 right-0 text-8xl font-black text-bni-charcoal/[0.06] select-none leading-none"
                 >
                   {String(i + 1).padStart(2, "0")}
                 </span>
