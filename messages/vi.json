@@ -64,7 +64,9 @@
     "youtubeCta": "Đăng ký YouTube",
     "ctaTitle": "Sẵn Sàng Phát Triển Doanh Nghiệp?",
     "ctaSubtitle": "Tham gia BNI Master và mở ra thế giới cơ hội giới thiệu",
-    "ctaButton": "BẮT ĐẦU NGAY"
+    "ctaButton": "BẮT ĐẦU NGAY",
+    "featureMembersTitle": "Thành Viên Chapter",
+    "featureMembersDesc": "Gặp gỡ các chủ doanh nghiệp và lãnh đạo của chapter"
   },
   "MemberResources": {
     "heroTitle": "TÀI NGUYÊN THÀNH VIÊN",
@@ -261,7 +263,8 @@
     "copyright": "© 2026 BNI MASTER. Bảo lưu mọi quyền.",
     "facebook": "Facebook",
     "linkedin": "LinkedIn",
-    "youtube": "YouTube"
+    "youtube": "YouTube",
+    "members": "Thành Viên"
   },
   "Members": {
     "title": "Thành Viên Chapter",

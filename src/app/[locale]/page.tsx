@@ -42,10 +42,10 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
 
   const featureCards = [
     {
-      icon: "\u{1F4CB}",
-      title: t("featureMemberTitle"),
-      description: t("featureMemberDesc"),
-      href: "/member-resources" as const,
+      icon: "\u{1F465}",
+      title: t("featureMembersTitle"),
+      description: t("featureMembersDesc"),
+      href: "/members" as const,
     },
     {
       icon: "\u{1F3C6}",

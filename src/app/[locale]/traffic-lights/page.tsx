@@ -1,4 +1,5 @@
 import { getTranslations, setRequestLocale } from "next-intl/server";
+import { notFound } from "next/navigation";
 import { routing } from "@/i18n/routing";
 import Hero from "@/components/Hero";
 import ResourceButton from "@/components/ResourceButton";
@@ -9,6 +10,8 @@ export function generateStaticParams() {
 
 export default async function TrafficLightsPage({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
+  // Page hidden from the public site (2026-07-10) — remove the next line to restore.
+  notFound();
   setRequestLocale(locale);
   const t = await getTranslations({ locale, namespace: "TrafficLights" });
 

@@ -9,9 +9,8 @@ export default function Footer() {
 
   const quickLinks = [
     { label: t("home"), href: "/" as const },
-    { label: t("memberResources"), href: "/member-resources" as const },
+    { label: t("members"), href: "/members" as const },
     { label: t("leadershipTeams"), href: "/leadership-teams" as const },
-    { label: t("trafficLights"), href: "/traffic-lights" as const },
     { label: t("calendar"), href: "/calendar-events" as const },
   ];
 

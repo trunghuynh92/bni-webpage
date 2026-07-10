@@ -15,7 +15,6 @@ export interface NavItem {
 export const navigation: NavItem[] = [
   { label: "Home", href: "/" },
   { label: "Members", href: "/members" },
-  { label: "Member Resources", href: "/member-resources" },
   {
     label: "Leadership Teams",
     href: "/leadership-teams",
@@ -49,7 +48,6 @@ export const navigation: NavItem[] = [
       },
     ],
   },
-  { label: "Traffic Lights", href: "/traffic-lights" },
   { label: "Calendar & Events", href: "/calendar-events" },
 ];
 

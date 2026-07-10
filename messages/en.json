@@ -64,7 +64,9 @@
     "youtubeCta": "Subscribe on YouTube",
     "ctaTitle": "Ready to Grow Your Business?",
     "ctaSubtitle": "Join BNI Master and unlock a world of referral opportunities",
-    "ctaButton": "GET STARTED TODAY"
+    "ctaButton": "GET STARTED TODAY",
+    "featureMembersTitle": "Our Members",
+    "featureMembersDesc": "Meet the business owners and leaders of the chapter"
   },
   "MemberResources": {
     "heroTitle": "MEMBER RESOURCES",
@@ -261,7 +263,8 @@
     "copyright": "© 2026 BNI MASTER. All rights reserved.",
     "facebook": "Facebook",
     "linkedin": "LinkedIn",
-    "youtube": "YouTube"
+    "youtube": "YouTube",
+    "members": "Members"
   },
   "Members": {
     "title": "Our Members",
