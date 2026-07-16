@@ -1,0 +1,75 @@
+{
+  "slug": "vu-thu-huyen",
+  "name": "Vũ Thu Huyền",
+  "jobTitle": { "vi": "Giám đốc", "en": "Director" },
+  "company": "Công ty TNHH XNK Thương mại Hiển Vinh",
+  "industry": { "vi": "Kinh doanh rượu vang, rượu mạnh và quà tặng kèm rượu", "en": "Wine & spirits and gift solutions" },
+  "founded": "2024",
+  "phone": "0938 222 645",
+  "email": "ctytnhhxnktmhienvinh@gmail.com",
+  "tagline": {
+    "vi": "Người cung cấp giải pháp cho các món quà về rượu — đúng món quà, đúng người, đúng dịp, đúng thông điệp.",
+    "en": "The go-to for wine & spirits gift solutions — the right gift, the right person, the right occasion, the right message."
+  },
+  "shortName": "Huyền",
+  "callouts": [
+    {
+      "afterKey": "journey",
+      "sourceKey": "journey",
+      "quote": {
+        "vi": "Điều khách hàng cần không phải là giá rẻ, mà là một người tư vấn thật, chọn đúng sản phẩm để yên tâm gửi gắm niềm tin.",
+        "en": "What customers need isn't a cheaper price, but a genuine advisor who picks the right product — someone they can confidently place their trust in."
+      }
+    },
+    {
+      "afterKey": "philosophy",
+      "sourceKey": "philosophy",
+      "quote": {
+        "vi": "Lấy uy tín làm nền tảng, lấy chất lượng làm cam kết và lấy sự hài lòng của khách hàng làm giá trị lâu dài.",
+        "en": "Reputation as the foundation, quality as the commitment, and customer satisfaction as the lasting value."
+      }
+    }
+  ],
+  "sections": [
+    {
+      "key": "about",
+      "vi": "Chị Vũ Thu Huyền là Giám đốc Công ty TNHH XNK Thương mại Hiển Vinh, hoạt động trong lĩnh vực rượu và quà tặng kèm rượu. Chị mong được nhớ đến như người cung cấp giải pháp cho các món quà về rượu — người giúp khách hàng chọn đúng món quà, đúng người, đúng dịp và đúng thông điệp.",
+      "en": "Vũ Thu Huyền is the Director of Hien Vinh Import-Export Trading Co., Ltd, working in wine, spirits, and wine-based gifting. She wants to be remembered as the go-to person for wine and spirits gift solutions — someone who helps clients choose the right gift, for the right person, on the right occasion, with the right message."
+    },
+    {
+      "key": "business",
+      "vi": "Hiển Vinh chuyên kinh doanh rượu vang và rượu mạnh, với sản phẩm chính là các dòng rượu vang, rượu mạnh và quà tặng kèm rượu. Điểm khác biệt lớn nhất của Hiển Vinh so với đối thủ không nằm ở số lượng sản phẩm, mà ở khả năng tuyển chọn và tư vấn. Chị và đội ngũ giúp khách hàng chọn đúng món quà, đúng người, đúng dịp và đúng thông điệp — để mỗi món quà không chỉ có giá trị vật chất mà còn góp phần xây dựng những mối quan hệ bền vững.",
+      "en": "Hien Vinh specializes in wine and spirits, with a core range of wines, spirits, and wine-based gift sets. What sets Hien Vinh apart from competitors is not the size of its catalogue but its ability to curate and advise. Huyền and her team help clients choose the right gift, for the right person, on the right occasion, with the right message — so that every gift carries not just material value, but also helps build lasting relationships."
+    },
+    {
+      "key": "journey",
+      "vi": "Chị Huyền bắt đầu kinh doanh như bao người khác, vừa làm vừa học. Từ tìm nguồn hàng, tìm khách, giao hàng đến chăm sóc khách, hầu như việc gì chị cũng tự tay làm. Có những lúc rất áp lực vì thị trường cạnh tranh và khách hàng có quá nhiều lựa chọn — trong khi bản thân chị vốn không có kinh nghiệm về rượu và cũng không biết uống rượu. Đã có thời gian chị nghĩ phải bán rẻ hơn mới có khách. Nhưng rồi chị nhận ra điều khách hàng cần không phải là giá rẻ, mà là một người tư vấn thật, chọn đúng sản phẩm để họ yên tâm gửi gắm niềm tin.",
+      "en": "Huyền started her business the way many people do — learning on the job. From sourcing products and finding customers to delivering orders and caring for clients, she did almost everything herself. There were times of real pressure in a competitive market where customers had so many options — especially since she had no prior experience with wine and did not even drink herself. For a while she believed she had to sell cheaper to win customers. But she came to realize that what customers need isn't a lower price, but a genuine advisor who picks the right product — someone they can confidently place their trust in."
+    },
+    {
+      "key": "achievements",
+      "vi": "Sau nhiều năm làm nghề, điều chị Huyền thấy tăng trưởng nhất không phải là bán được bao nhiêu sản phẩm, mà là có được sự tin tưởng của khách hàng. Đến nay, chị đã đồng hành cùng nhiều khách hàng cá nhân, doanh nghiệp và đối tác trong các nhu cầu quà tặng, tiếp khách và sự kiện. Điều khiến chị vui nhất là phần lớn khách hàng quay lại và giới thiệu thêm bạn bè, đối tác. Với chị, đó là thành quả lớn nhất và cũng là động lực để tiếp tục phát triển.",
+      "en": "After years in the trade, what Huyền sees growing most is not how many products she sells, but the trust she earns from her customers. To date, she has worked alongside many individual clients, businesses, and partners for their gifting, client-hosting, and event needs. What brings her the most joy is that the majority of her customers return and refer their friends and partners. To her, that is the greatest achievement — and the motivation to keep growing."
+    },
+    {
+      "key": "vision",
+      "vi": "Trong 3–5 năm tới, chị Huyền mong muốn xây dựng Hiển Vinh trở thành một thương hiệu được khách hàng tin tưởng khi nghĩ đến rượu và quà tặng cao cấp. Chị không chỉ hướng đến tăng trưởng doanh số, mà còn muốn xây dựng một đội ngũ chuyên nghiệp, quy trình bài bản và một hệ thống có thể phát triển bền vững. Bên cạnh đó, chị mong tạo thêm nhiều hệ sinh thái để mang đến những sản phẩm chất lượng.",
+      "en": "Over the next three to five years, Huyền hopes to build Hien Vinh into a brand customers trust whenever they think of premium wine and gifts. Beyond growing revenue, she wants to build a professional team, well-structured processes, and a system capable of sustainable growth. She also aims to develop broader ecosystems that deliver quality products."
+    },
+    {
+      "key": "philosophy",
+      "vi": "Triết lý của chị Huyền: lấy uy tín làm nền tảng, lấy chất lượng làm cam kết và lấy sự hài lòng của khách hàng làm giá trị lâu dài.",
+      "en": "Huyền's philosophy: reputation as the foundation, quality as the commitment, and customer satisfaction as the lasting value."
+    },
+    {
+      "key": "customers",
+      "vi": "Khách hàng mục tiêu của chị Huyền là nam và nữ từ 30–55 tuổi, đặc biệt là nhóm doanh nhân, quản lý và những người có nhu cầu sử dụng rượu và quà tặng cao cấp để tiếp khách, biếu tặng. Vấn đề lớn nhất chị giải quyết cho họ là mang đến một giải pháp quà tặng trọn vẹn — chọn đúng sản phẩm cho đúng người, đúng dịp.",
+      "en": "Huyền's target customers are men and women aged 30 to 55, especially entrepreneurs, managers, and people who need premium wine and gifts for hosting clients or giving as presents. The core problem she solves for them is delivering a complete gifting solution — the right product for the right person and the right occasion."
+    },
+    {
+      "key": "referrals",
+      "vi": "Khó khăn hiện tại của chị Huyền là làm sao để nhiều khách hàng biết đến Hiển Vinh hơn và hiểu được giá trị khác biệt của mình. Chị không muốn cạnh tranh bằng giá, mà muốn xây dựng một thương hiệu được khách hàng tin tưởng và lựa chọn lâu dài, đồng thời từng bước xây dựng đội ngũ và quy trình để doanh nghiệp phát triển bền vững hơn. Điều chị cần nhất khi tham gia BNI là những mối quan hệ chất lượng và sự giới thiệu đúng khách hàng. Chị mong được kết nối với các chủ doanh nghiệp, quản lý và những đơn vị có nhu cầu quà tặng doanh nghiệp, tiếp khách hoặc biếu tặng.",
+      "en": "Huyền's current challenge is getting more customers to know Hien Vinh and to understand its distinctive value. She doesn't want to compete on price, but to build a brand that customers trust and choose for the long term, while steadily developing her team and processes for more sustainable growth. What she needs most from BNI is quality relationships and referrals to the right customers. She hopes to connect with business owners, managers, and organizations that need corporate gifts, client-hosting, or presents."
+    }
+  ]
+}

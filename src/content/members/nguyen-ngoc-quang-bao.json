@@ -1,0 +1,47 @@
+{
+  "slug": "nguyen-ngoc-quang-bao",
+  "name": "Nguyễn Ngọc Quang Bảo",
+  "jobTitle": { "vi": "Nhà sáng lập & Giám đốc chiến lược", "en": "Founder & Strategic Director" },
+  "company": "Công ty TNHH Tròn Vuông Việt Nam (NÓI Academy)",
+  "industry": { "vi": "Đào tạo Nghệ thuật NÓI và Phong cách sống", "en": "Training in the Art of Speaking & Lifestyle Skills" },
+  "founded": "2025",
+  "phone": "0789 195 199",
+  "email": "noi.edu2025@gmail.com",
+  "tagline": {
+    "vi": "Giao tiếp đúng cách để sống hạnh phúc và sung túc hơn.",
+    "en": "Communicate the right way to live a happier, more fulfilling life."
+  },
+  "shortName": "Bảo",
+  "callouts": [
+    {
+      "afterKey": "journey",
+      "sourceKey": "journey",
+      "quote": {
+        "vi": "Thông qua giao tiếp đúng cách, chúng ta sẽ có một cuộc sống hạnh phúc và sung túc hơn.",
+        "en": "Through communicating the right way, we can live a happier and more fulfilling life."
+      }
+    }
+  ],
+  "sections": [
+    {
+      "key": "about",
+      "vi": "Anh Nguyễn Ngọc Quang Bảo là Nhà sáng lập và Giám đốc chiến lược của NÓI Academy. Bên cạnh vai trò một MC, anh là chuyên gia hoạt động trong lĩnh vực đào tạo kỹ năng giao tiếp, kỹ năng thuyết trình và phong cách sống.",
+      "en": "Nguyễn Ngọc Quang Bảo is the founder and strategic director of NÓI Academy. Alongside his work as an MC, he is a specialist in training on communication skills, public-speaking skills, and lifestyle."
+    },
+    {
+      "key": "business",
+      "vi": "NÓI Academy hoạt động trong lĩnh vực đào tạo Nghệ thuật NÓI và Phong cách sống, tập trung vào kỹ năng giao tiếp và kỹ năng thuyết trình. Điểm khác biệt nằm ở chiều sâu: thay vì chỉ dừng lại ở những kỹ thuật bề nổi, đội ngũ hướng đến giá trị cốt lõi của việc giao tiếp đúng cách, để mỗi khoá học thực sự có CHẤT và mang lại thay đổi bền vững cho người học.",
+      "en": "NÓI Academy works in training on the Art of Speaking and lifestyle, focusing on communication and public-speaking skills. Its difference lies in depth: rather than stopping at surface-level techniques, the team goes after the core value of communicating the right way, so that every course has real substance and brings lasting change to learners."
+    },
+    {
+      "key": "journey",
+      "vi": "Anh Quang Bảo nhận thấy thị trường dạy kỹ năng giao tiếp, kỹ năng NÓI đang thừa LƯỢNG nhưng thiếu CHẤT — thừa những khoá dạy về bề nổi nhưng lại thiếu giá trị cốt lõi. Anh và đội ngũ thấy mình cần làm một điều gì đó để mọi người không phải mất tiền vô ích, và đã bắt đầu với một niềm tin đơn giản: thông qua giao tiếp đúng cách, chúng ta sẽ có một cuộc sống hạnh phúc và sung túc hơn.",
+      "en": "Quang Bảo saw a market for communication and speaking skills that had plenty of quantity but little substance — an abundance of courses on surface techniques, yet a shortage of core value. He and his team felt they needed to do something so that people would not waste their money, and they began with a simple belief: through communicating the right way, we can live a happier and more fulfilling life."
+    },
+    {
+      "key": "referrals",
+      "vi": "Anh Quang Bảo mong muốn được kết nối với các Chủ Doanh nghiệp, cùng các HRD, HRBP và Trưởng phòng Đào tạo — những người có thể đồng hành cùng NÓI Academy trong việc mang các chương trình đào tạo kỹ năng giao tiếp và phong cách sống đến với đội ngũ và tổ chức của mình.",
+      "en": "Quang Bảo is looking to connect with business owners, along with HRDs, HRBPs, and Learning & Development managers — people who can partner with NÓI Academy to bring its communication and lifestyle training programs to their teams and organizations."
+    }
+  ]
+}

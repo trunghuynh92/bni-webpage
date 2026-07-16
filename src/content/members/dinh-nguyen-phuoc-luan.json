@@ -1,0 +1,75 @@
+{
+  "slug": "dinh-nguyen-phuoc-luan",
+  "name": "Đinh Nguyễn Phước Luân",
+  "jobTitle": { "vi": "CEO", "en": "CEO" },
+  "company": "Công ty TNHH Luan Phuoc Media",
+  "industry": { "vi": "Nhiếp ảnh thương mại – Media", "en": "Commercial Photography – Media" },
+  "founded": "2024",
+  "phone": "0839 698 855",
+  "email": "luanphuocmedia@gmail.com",
+  "tagline": {
+    "vi": "Kể câu chuyện của bạn bằng hình ảnh giàu cảm xúc, nâng tầm bằng công nghệ AI.",
+    "en": "Telling your story through emotive imagery, elevated by AI technology."
+  },
+  "shortName": "Luân",
+  "callouts": [
+    {
+      "afterKey": "business",
+      "sourceKey": "vision",
+      "quote": {
+        "vi": "Người làm media không chỉ cầm máy bấm chụp — họ tạo ra cảm xúc và mang giá trị nghệ thuật đến với mọi người.",
+        "en": "Media professionals don't just press the shutter — they create emotion and bring artistic value to people."
+      }
+    },
+    {
+      "afterKey": "philosophy",
+      "sourceKey": "philosophy",
+      "quote": {
+        "vi": "Mỗi sản phẩm gửi đến khách hàng chính là bộ mặt của công ty, nên phải chuẩn chỉnh trong từng tấm hình và thước phim.",
+        "en": "Every product we deliver is the face of the company, so every photo and every frame must be flawless."
+      }
+    }
+  ],
+  "sections": [
+    {
+      "key": "about",
+      "vi": "Anh Đinh Nguyễn Phước Luân là người hoạt động trong lĩnh vực media. Anh mong muốn được mọi người nhớ đến mỗi khi cần ghi lại những khoảnh khắc đời thường của bản thân và gia đình, hay khi các sự kiện cần một người có tâm để tạo nên bầu không khí vui vẻ thông qua từng bức ảnh.",
+      "en": "Đinh Nguyễn Phước Luân works in the media field. He hopes to be the person people think of whenever they want to capture the everyday moments of their own lives and their families, or whenever an event needs someone dedicated who can create a joyful atmosphere through every photograph."
+    },
+    {
+      "key": "business",
+      "vi": "Công ty TNHH Luan Phuoc Media cung cấp dịch vụ chụp hình, quay phim sự kiện và sản xuất TVC doanh nghiệp. Điểm khác biệt của anh Luân là tích hợp công nghệ AI vào hình ảnh và video để mỗi thước phim, mỗi khung hình của khách hàng mang một dấu ấn riêng. Đặc biệt, công nghệ AI của công ty đạt tỷ lệ chân thật lên đến 90% so với sản phẩm quay chụp truyền thống.",
+      "en": "Luan Phuoc Media provides event photography and videography as well as corporate TVC production. What sets Luân apart is his integration of AI technology into images and video so that every frame and every clip carries a distinctive signature. Notably, the company's AI achieves up to 90% realism compared with traditional photography and filming."
+    },
+    {
+      "key": "journey",
+      "vi": "Anh Luân sinh ra và lớn lên trong một gia đình bình thường, không giàu có và cũng không có nhiều thành tựu nổi bật. Khó khăn lớn nhất trên hành trình phát triển bản thân của anh luôn là vấn đề tài chính. Bước ngoặt lớn nhất là quyết định chuyển hướng từ ngành công nghệ thông tin sang nhiếp ảnh — một lựa chọn đã định hình con đường sự nghiệp của anh hôm nay.",
+      "en": "Luân was born and raised in an ordinary family — neither wealthy nor marked by notable achievements. The greatest challenge on his path of self-development has always been finances. His biggest turning point was the decision to switch from information technology to photography — a choice that shaped the career he has today."
+    },
+    {
+      "key": "achievements",
+      "vi": "Anh Luân đã phụ trách hình ảnh cho nhiều hiệp hội doanh nghiệp lớn như Hiệp hội Doanh nghiệp TP.HCM, HUBA, HCA, WLIN, BNI và nhiều tổ chức khác, được tin tưởng đồng hành suốt nhiều năm. Riêng tại BNI, từ chỗ chỉ hỗ trợ media cho một chapter, sau sáu năm anh đã trở thành đơn vị hỗ trợ hình ảnh cho sáu chapter trong hệ thống.",
+      "en": "Luân has led image production for many major business associations, including the Ho Chi Minh City Business Association, HUBA, HCA, WLIN, BNI and others, earning their trust as a partner over many years. Within BNI in particular, he began by supporting media for a single chapter and, after six years, has become the image partner for six chapters across the network."
+    },
+    {
+      "key": "vision",
+      "vi": "Anh Luân tin rằng ngày nay ngành media không chỉ đơn thuần là những người cầm thiết bị biết bấm máy để chụp và quay, mà là những người tạo ra cảm xúc và mang giá trị nghệ thuật đến với nhiều người, nhiều lĩnh vực. Anh trăn trở khi thấy nghề media vẫn còn bị xem nhẹ, người làm media nhiều khi bị coi như một món hàng có thể trả giá thấp bất cứ lúc nào, mà quên đi giá trị thật sự họ mang lại. Vì vậy, anh mong muốn giúp mọi người hiểu và trân trọng đúng giá trị của nghề media.",
+      "en": "Luân believes that today's media field is no longer simply about people holding equipment and pressing a button to shoot — it is about people who create emotion and bring artistic value to many audiences across many fields. He is troubled that the media profession is still undervalued, with media professionals often treated as a commodity to be haggled down at any moment, overlooking the real value they deliver. He therefore hopes to help people understand and truly appreciate the worth of the media profession."
+    },
+    {
+      "key": "philosophy",
+      "vi": "Triết lý kinh doanh của anh Luân là giúp mọi người luôn cảm thấy vui vẻ và thoải mái khi sử dụng dịch vụ của công ty. Vì thế, khi xây dựng đội ngũ, anh luôn quán triệt anh em phải quan tâm đến cảm xúc của khách hàng trong suốt quá trình làm việc. Giá trị mà công ty luôn gìn giữ là: mỗi sản phẩm khi bàn giao không chỉ là trách nhiệm và nghĩa vụ với khách hàng, mà còn chính là bộ mặt của công ty. Bởi vậy, bất cứ sản phẩm nào gửi đến khách cũng phải chuẩn chỉnh trong từng tấm hình và từng thước phim.",
+      "en": "Luân's business philosophy is to make sure clients always feel happy and at ease when using the company's services. When building his team, he consistently reminds everyone to care about the client's emotions throughout the work. The value the company always upholds is this: every product delivered is not only a responsibility and an obligation to the client but also the face of the company. For that reason, everything sent to a client must be flawless in every photo and every frame."
+    },
+    {
+      "key": "customers",
+      "vi": "Khách hàng mục tiêu của anh Luân là những người lớn tuổi, không phân biệt ngành nghề hay quy mô công ty — những người tìm kiếm sự thoải mái và niềm vui khi sử dụng dịch vụ media.",
+      "en": "Luân's target customers are older clients, regardless of industry or company size — people who seek comfort and joy when using media services."
+    },
+    {
+      "key": "referrals",
+      "vi": "Khó khăn lớn nhất hiện nay của anh Luân là quy mô công ty chưa lớn và chưa kết nối được với những người có cùng quan điểm trong kinh doanh; bên cạnh đó là bài toán tài chính chưa đủ sức cạnh tranh với những công ty đã có vị thế, cùng với việc thiếu thời gian để phát triển bản thân và tìm một hướng đi kinh doanh đúng đắn. Vì vậy, điều anh cần nhất khi tham gia BNI là những người đồng hành và cùng phát triển trong nhiều lĩnh vực, đặc biệt là media và AI. Anh mong tìm được người định hướng con đường phát triển tốt hơn trong ngành media, hoặc những người bạn đồng hành ở các lĩnh vực khác — bởi thế mạnh của công ty không chỉ là media mà còn là khả năng sáng tạo nghệ thuật.",
+      "en": "Luân's biggest challenge today is that his company is still small and has yet to connect with people who share his business outlook; on top of that are financial constraints that make it hard to compete with established firms, and a lack of time to develop himself and find the right business direction. What he needs most from BNI, therefore, are companions who will grow alongside him across many fields, especially media and AI. He hopes to find someone who can help chart a better path forward in the media industry, or partners in other fields — because the company's strength lies not only in media but also in artistic creativity."
+    }
+  ]
+}

@@ -36,3 +36,7 @@ yarn-error.log*
 next-env.d.ts
 .vercel
 .env*
+
+# Local member intake working folders (raw summaries + source photos)
+BNI Member Summaries/
+member-intro-card/

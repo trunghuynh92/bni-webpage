@@ -1,0 +1,75 @@
+{
+  "slug": "le-diem-ly",
+  "name": "Lê Diễm Ly",
+  "jobTitle": { "vi": "Founder & CEO", "en": "Founder & CEO" },
+  "company": "Moon Decor",
+  "industry": { "vi": "Nội thất – Thiết kế & Thi công", "en": "Interior Design & Build" },
+  "founded": "2024",
+  "phone": "0903 855 113",
+  "email": "lediemly@gmail.com",
+  "tagline": {
+    "vi": "Đẳng cấp đến từ sự tinh tế.",
+    "en": "Class comes from refinement."
+  },
+  "shortName": "Ly",
+  "callouts": [
+    {
+      "afterKey": "business",
+      "sourceKey": "philosophy",
+      "quote": {
+        "vi": "Đẳng cấp đến từ sự tinh tế.",
+        "en": "Class comes from refinement."
+      }
+    },
+    {
+      "afterKey": "journey",
+      "sourceKey": "journey",
+      "quote": {
+        "vi": "Bước ngoặt đến khi chị chuyển tư duy từ “làm từng công trình” sang “xây dựng một hệ thống”.",
+        "en": "The turning point came when she shifted from “doing one project at a time” to “building a system.”"
+      }
+    }
+  ],
+  "sections": [
+    {
+      "key": "about",
+      "vi": "Chị Lê Diễm Ly là Founder & CEO của Moon Decor, thương hiệu thiết kế và thi công nội thất nhà ở cao cấp — căn hộ, nhà phố, biệt thự và không gian nghỉ dưỡng. Với gần 15 năm đồng hành cùng khách hàng, chị tin rằng một ngôi nhà đẹp không chỉ để ngắm mà phải phục vụ tốt cho cuộc sống của gia chủ trong nhiều năm. Chị đại diện cho một cách làm nội thất nơi sự sang trọng đến từ thiết kế, vật liệu và trải nghiệm sống chứ không phải sự phô trương, và mong được nhớ đến như một người đồng hành đáng tin cậy trong hành trình kiến tạo tổ ấm.",
+      "en": "Lê Diễm Ly is the Founder & CEO of Moon Decor, a brand specializing in the design and construction of high-end residential interiors — apartments, townhouses, villas, and resort spaces. With nearly 15 years alongside her clients, she believes a beautiful home is not just for admiring but must serve the owner's life well for many years. She stands for an approach to interiors where luxury comes from design, materials, and lived experience rather than ostentation, and she hopes to be remembered as a trusted companion on the journey of creating a home."
+    },
+    {
+      "key": "business",
+      "vi": "Moon Decor cung cấp dịch vụ thiết kế và thi công nội thất trọn gói cho căn hộ, nhà phố, biệt thự và nhà nghỉ dưỡng, cùng tư vấn tối ưu công năng, ngân sách và giá trị đầu tư. Điểm khác biệt lớn nhất là Moon Decor không chỉ bán dịch vụ thiết kế và thi công, mà xây dựng “ngôn ngữ thiết kế” riêng cho từng nhóm khách hàng, giúp ngôi nhà có giá trị thẩm mỹ bền vững và không lỗi thời theo xu hướng. Công ty cam kết thiết kế có thể thi công thực tế, kiểm soát ngân sách ngay từ đầu, bàn giao đúng tiến độ và đúng như bản thiết kế đã thống nhất.",
+      "en": "Moon Decor provides turnkey interior design and construction for apartments, townhouses, villas, and resort homes, along with consulting to optimize function, budget, and investment value. Its biggest differentiator is that Moon Decor does not simply sell design and construction services — it builds a distinct “design language” for each customer group, giving each home lasting aesthetic value that never falls out of fashion. The company commits to designs that can truly be built, budgets controlled from the outset, and handovers that are on schedule and faithful to the agreed design."
+    },
+    {
+      "key": "journey",
+      "vi": "Chị Ly bắt đầu Moon Decor gần 15 năm trước với mong muốn tạo ra những không gian sống đẹp và chỉn chu cho khách hàng. Những ngày đầu, công ty rất nhỏ, chị vừa tìm khách hàng, vừa bán hàng, vừa quản lý công trình và tự giải quyết mọi vấn đề phát sinh. Thách thức lớn nhất không phải là làm thiết kế, mà là xây dựng được một đội ngũ và quy trình để mỗi công trình đều đạt chất lượng ổn định, bởi nội thất là ngành có rất nhiều biến số: vật liệu, nhân sự, tiến độ và kỳ vọng của khách hàng. Bước ngoặt đến khi chị thay đổi tư duy từ “làm từng công trình” sang “xây dựng một hệ thống” — chuẩn hóa quy trình thiết kế, thi công và kiểm soát chất lượng, đồng thời phát triển các ngôn ngữ thiết kế riêng như Moon Urban, Moon Luxe và Moon Heritage để mỗi khách hàng đều tìm được phong cách phù hợp với lối sống của mình. Sau gần 15 năm, điều chị tự hào nhất không phải là số lượng công trình, mà là sự tin tưởng của khách hàng và rất nhiều dự án mới đến từ những lời giới thiệu.",
+      "en": "Ly started Moon Decor nearly 15 years ago with a desire to create beautiful, meticulously crafted living spaces for her clients. In the early days the company was very small, and she found clients, made sales, managed projects, and solved every problem herself. The greatest challenge was not the design work but building a team and a process so that every project reached consistent quality — interiors being a field full of variables: materials, people, timelines, and client expectations. The turning point came when she shifted her thinking from “doing one project at a time” to “building a system” — standardizing the design, construction, and quality-control processes, and developing signature design languages such as Moon Urban, Moon Luxe, and Moon Heritage so every client could find a style that suited their way of life. After nearly 15 years, what she is proudest of is not the number of projects but the trust of her clients and the many new projects that come from referrals."
+    },
+    {
+      "key": "achievements",
+      "vi": "Sau gần 15 năm hoạt động, Moon Decor đã hoàn thành hàng trăm công trình nội thất căn hộ, nhà phố, biệt thự và nhà nghỉ dưỡng tại TP.HCM, Đồng Nai, Bình Thuận… Công ty xây dựng được quy trình thiết kế – thi công đồng bộ, giúp khách hàng kiểm soát ngân sách, hạn chế phát sinh và đảm bảo chất lượng bàn giao. Thành tựu lớn nhất không chỉ là số lượng công trình mà là tỷ lệ khách hàng quay lại và khách hàng được giới thiệu từ người quen luôn chiếm tỷ trọng cao — nguồn khách hàng bền vững của công ty. Trong cộng đồng BNI, chị Ly cũng nhiều lần được ghi nhận là thành viên có giá trị Referral nổi bật và luôn xem việc tạo giá trị cho đối tác là ưu tiên hàng đầu.",
+      "en": "After nearly 15 years, Moon Decor has completed hundreds of interior projects — apartments, townhouses, villas, and resort homes — across Ho Chi Minh City, Dong Nai, Binh Thuan, and beyond. The company has built a synchronized design-and-construction process that helps clients control their budgets, limit overruns, and ensure handover quality. Its greatest achievement is not merely the number of projects but the consistently high share of returning clients and word-of-mouth referrals — a sustainable source of business. Within the BNI community, Ly has repeatedly been recognized as a member with outstanding referral value, always placing the creation of value for her partners first."
+    },
+    {
+      "key": "vision",
+      "vi": "Trong 3–5 năm tới, chị Ly mong muốn Moon Decor trở thành thương hiệu thiết kế nội thất được khách hàng nhớ đến không chỉ vì công trình đẹp mà còn vì có ngôn ngữ thiết kế riêng và trải nghiệm dịch vụ chuyên nghiệp. Công ty sẽ phát triển mạnh các dòng thiết kế đặc trưng như Moon Urban, Moon Heritage và Moon Luxe, giúp khách hàng dễ dàng lựa chọn không gian phù hợp với phong cách sống của mình. Xa hơn, chị muốn Moon không chỉ là một công ty thiết kế nội thất mà trở thành một hệ sinh thái về phong cách sống, nơi khách hàng có thể tìm thấy giải pháp hoàn chỉnh cho ngôi nhà — từ thiết kế, thi công đến những sản phẩm và dịch vụ nâng tầm trải nghiệm sống.",
+      "en": "Over the next three to five years, Ly wants Moon Decor to become an interior design brand that clients remember not only for beautiful projects but for its distinctive design language and professional service experience. The company will grow its signature lines — Moon Urban, Moon Heritage, and Moon Luxe — so clients can easily choose a space that fits their lifestyle. Looking further ahead, she wants Moon to be more than an interior design firm: a lifestyle ecosystem where clients can find a complete solution for their home — from design and construction to the products and services that elevate the experience of living."
+    },
+    {
+      "key": "philosophy",
+      "vi": "Chị Ly luôn ra quyết định dựa trên ba giá trị cốt lõi: Uy tín – Chất lượng – Giá trị lâu dài. Một công trình đẹp phải thi công được, đúng ngân sách, đúng tiến độ và mang lại trải nghiệm sống tốt cho khách hàng. Chị xây dựng đội ngũ bằng sự tử tế, tính kỷ luật và tinh thần học hỏi, để mỗi thành viên không chỉ tạo ra một công trình đẹp mà còn tạo được sự an tâm và niềm tin cho khách hàng. Điều chị luôn giữ vững là triết lý “Đẳng cấp đến từ sự tinh tế” — Moon Decor không chạy theo xu hướng, mà theo đuổi những giá trị thiết kế bền vững theo thời gian.",
+      "en": "Ly makes every decision based on three core values: reputation, quality, and lasting value. A beautiful project must be buildable, on budget, on schedule, and must give the client a genuinely good living experience. She builds her team with kindness, discipline, and a spirit of learning, so that each member creates not only a beautiful project but also peace of mind and trust for the client. What she holds firmly to is her philosophy — “Class comes from refinement” — Moon Decor does not chase trends but pursues design values that endure over time."
+    },
+    {
+      "key": "customers",
+      "vi": "Khách hàng của Moon Decor là các gia đình và nhà đầu tư sở hữu căn hộ, nhà phố, biệt thự hoặc nhà nghỉ dưỡng, có nhu cầu thiết kế và thi công nội thất trọn gói với ngân sách từ 1 tỷ đồng trở lên. Họ chủ yếu ở độ tuổi 30–55, là doanh nhân, chủ doanh nghiệp, quản lý cấp cao hoặc những người đề cao chất lượng sống. Điều Moon Decor giúp khách hàng giải quyết là biến một căn nhà thành không gian sống phù hợp với phong cách và nhu cầu của gia chủ, đồng thời kiểm soát tốt chi phí, tiến độ và chất lượng thi công. Khách hàng lý tưởng để giới thiệu cho chị là những người vừa nhận bàn giao căn hộ, xây nhà mới, cải tạo biệt thự hoặc đang tìm một đơn vị có thể đồng hành từ ý tưởng đến hoàn thiện nội thất.",
+      "en": "Moon Decor's clients are families and investors who own apartments, townhouses, villas, or resort homes and need turnkey interior design and construction with budgets of one billion VND and up. They are typically 30 to 55 years old — entrepreneurs, business owners, senior managers, or people who value quality of life. What Moon Decor solves for them is turning a house into a living space suited to the owner's style and needs, while keeping cost, schedule, and construction quality firmly under control. The ideal referral is someone who has just received an apartment handover, is building a new home, is renovating a villa, or is looking for a partner to accompany them from concept to finished interior."
+    },
+    {
+      "key": "referrals",
+      "vi": "Thách thức lớn nhất của Moon Decor hiện nay không phải là năng lực thiết kế hay thi công, mà là mở rộng tệp khách hàng chất lượng và xây dựng hệ thống đối tác giới thiệu bền vững. Điều chị Ly mong muốn nhất khi tham gia BNI là những mối quan hệ chất lượng và sự giới thiệu đúng người, đúng nhu cầu. Chị rất mong được kết nối với các thành viên có khách hàng đang xây nhà, vừa nhận bàn giao căn hộ, sở hữu biệt thự hoặc có nhu cầu đầu tư nhà nghỉ dưỡng cần thiết kế và thi công nội thất trọn gói; cũng như với các chủ đầu tư, doanh nhân và đối tác trong lĩnh vực bất động sản, kiến trúc, xây dựng, tài chính, ngân hàng, luật sư, bảo hiểm và môi giới phục vụ cùng tệp khách hàng cao cấp — để cùng nhau tạo thêm giá trị cho khách hàng theo tinh thần Givers Gain®. Song song đó, chị cũng đang tiếp tục chuẩn hóa đội ngũ và quy trình để Moon Decor có thể phát triển quy mô nhưng vẫn giữ được chất lượng dịch vụ và sự chỉn chu trong từng công trình.",
+      "en": "Moon Decor's biggest challenge today is not design or construction capability but expanding its base of quality clients and building a sustainable network of referral partners. What Ly wants most from BNI is quality relationships and referrals to the right people with the right needs. She is eager to connect with members whose clients are building a home, have just received an apartment handover, own a villa, or want to invest in a resort home requiring turnkey interior design and construction; as well as with developers, entrepreneurs, and partners in real estate, architecture, construction, finance, banking, law, insurance, and brokerage who serve the same high-end clientele — to create more value for clients together in the spirit of Givers Gain®. In parallel, she continues to standardize her team and processes so that Moon Decor can grow in scale while preserving its service quality and the care put into every single project."
+    }
+  ]
+}

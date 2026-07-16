@@ -1,0 +1,75 @@
+{
+  "slug": "nguyen-thi-anh-hong",
+  "name": "Nguyễn Thị Ánh Hồng",
+  "jobTitle": { "vi": "CEO", "en": "CEO" },
+  "company": "Công ty Cổ phần Thang máy và Cơ khí Bách Khoa",
+  "industry": { "vi": "Sản xuất thang máy", "en": "Elevator Manufacturing" },
+  "founded": "2009",
+  "phone": "0909 551 715",
+  "email": "hong@bachkhoaelevator.com",
+  "tagline": {
+    "vi": "Người dẫn đầu đổi mới trong ngành thang máy — mang đến sự an toàn và an tâm cho mỗi công trình.",
+    "en": "Leading change in the elevator industry — delivering safety and peace of mind in every project."
+  },
+  "shortName": "Hồng",
+  "callouts": [
+    {
+      "afterKey": "about",
+      "sourceKey": "vision",
+      "quote": {
+        "vi": "Chúng tôi muốn là người dẫn đầu thay đổi trong ngành.",
+        "en": "We want to be the ones leading change in this industry."
+      }
+    },
+    {
+      "afterKey": "philosophy",
+      "sourceKey": "philosophy",
+      "quote": {
+        "vi": "Tất cả hành vi, văn hóa chúng tôi phát triển đều dựa trên chữ TÂM.",
+        "en": "Every behavior and every part of our culture is built on the principle of Tâm — integrity of heart."
+      }
+    }
+  ],
+  "sections": [
+    {
+      "key": "about",
+      "vi": "Chị Nguyễn Thị Ánh Hồng là CEO của Công ty Cổ phần Thang máy và Cơ khí Bách Khoa, một doanh nghiệp sản xuất thang máy Việt Nam. Chị mong muốn được mọi người biết đến như một người đổi mới — người dẫn đầu sự thay đổi trong ngành, luôn đặt sự an toàn và an tâm của khách hàng lên hàng đầu.",
+      "en": "Nguyễn Thị Ánh Hồng is the CEO of Bách Khoa Elevator and Mechanical Engineering Joint Stock Company, a Vietnamese elevator manufacturer. She wants to be known as an innovator — someone who leads change in the industry, always putting the safety and peace of mind of customers first."
+    },
+    {
+      "key": "business",
+      "vi": "Thành lập năm 2009, Bách Khoa chuyên tư vấn, cung cấp giải pháp, sản xuất, lắp đặt và bảo trì thang máy — từ thang tải hàng công nghiệp lớn đến thang máy dân dụng. Điểm khác biệt của công ty nằm ở khả năng đáp ứng những yêu cầu kỹ thuật đặc biệt, tốc độ sản xuất nhanh và dịch vụ hậu mãi tận tâm dành cho khách hàng.",
+      "en": "Founded in 2009, Bách Khoa specializes in consulting, solution design, manufacturing, installation, and maintenance of elevators — from large industrial freight elevators to residential lifts. What sets the company apart is its ability to meet demanding technical requirements, its fast production speed, and its dedicated after-sales service."
+    },
+    {
+      "key": "journey",
+      "vi": "Công ty khởi đầu gần như từ hai bàn tay trắng, do một kỹ sư cơ khí — chồng chị, cũng là Tổng Giám đốc công ty — gây dựng cùng chị. Những năm đầu lập nghiệp là giai đoạn khó khăn nhất: không vốn, không mối quan hệ. Khi vượt qua cột mốc năm năm, thử thách lớn tiếp theo lại đến từ chính năng lực quản trị của người đứng đầu. Xuất thân từ kỹ thuật, tư duy quản trị ban đầu còn nhiều hạn chế, nên ban lãnh đạo đã chủ động bước ra ngoài để học hỏi — từ các lớp đào tạo bài bản đến kinh nghiệm của bạn bè, đồng nghiệp — nhằm đưa công ty phát triển bền vững.",
+      "en": "The company began almost from nothing, built by a mechanical engineer — her husband, who serves as General Director — together with her. The earliest years were the hardest: no capital and no connections. After passing the five-year milestone, the next major challenge came from the leadership's own management capacity. With a technical background, their management thinking was initially limited, so the leadership deliberately stepped out to learn — from formal training courses to the experience of friends and peers — in order to grow the company sustainably."
+    },
+    {
+      "key": "achievements",
+      "vi": "Doanh thu của Bách Khoa đã tăng trưởng gấp đôi trong những năm gần đây. Công ty phục vụ nhiều khách hàng lớn trong nước như British, Coca-Cola, Ford; hợp tác với các tổng thầu An Tâm, CBC, Antaco, AZB; và làm việc với các chủ đầu tư đến từ Nhật Bản, Đức, Hàn Quốc, Ý. Bách Khoa đã được ghi nhận với nhiều giải thưởng uy tín: Thương hiệu mạnh ASEAN 2020, Thương hiệu Sao Vàng, cùng các chứng nhận hợp chuẩn hợp quy. Trong số các dự án nổi bật có tòa nhà 42 tầng Mỹ Đình Pearl tại Hà Nội và White Palace Phạm Văn Đồng tại TP. Hồ Chí Minh.",
+      "en": "Bách Khoa's revenue has doubled in recent years. The company serves major domestic clients such as British (British American Tobacco), Coca-Cola, and Ford; partners with general contractors including An Tâm, CBC, Antaco, and AZB; and works with investors from Japan, Germany, Korea, and Italy. Bách Khoa has earned a series of prestigious accolades: the Strong ASEAN Brand award (2020), the Gold Star Brand, and standards conformity certifications. Among its landmark projects are the 42-floor Mỹ Đình Pearl tower in Hanoi and White Palace on Phạm Văn Đồng in Ho Chi Minh City."
+    },
+    {
+      "key": "vision",
+      "vi": "Chị Hồng và đội ngũ đặt mục tiêu đưa Bách Khoa trở thành thương hiệu thang máy Việt Nam vươn ra thế giới, xuất khẩu sản phẩm ra thị trường quốc tế. Xa hơn, chị mong muốn công ty giữ vai trò người dẫn đầu sự đổi mới và thay đổi trong ngành thang máy.",
+      "en": "Hồng and her team aim to make Bách Khoa a Vietnamese elevator brand that reaches the world, exporting to international markets. Beyond that, she wants the company to be a leader of innovation and change within the elevator industry."
+    },
+    {
+      "key": "philosophy",
+      "vi": "Triết lý kinh doanh của chị Hồng gói gọn trong một chữ: TÂM. Mọi hành vi, mọi giá trị văn hóa mà công ty xây dựng đều bắt nguồn từ cái tâm với khách hàng và với nghề.",
+      "en": "Hồng's business philosophy is captured in a single word: Tâm — integrity of heart. Every behavior and every cultural value the company builds stems from a genuine sense of care toward customers and the craft."
+    },
+    {
+      "key": "customers",
+      "vi": "Khách hàng chính của Bách Khoa gồm: các chủ đầu tư trong và ngoài nước xây dựng nhà máy sản xuất, các tổng thầu xây dựng, và các chủ nhà xây mới hoặc cải tạo nhà để lắp đặt thang máy. Vấn đề công ty giải quyết cho khách hàng chính là sự an toàn và an tâm trong suốt quá trình sử dụng: sản phẩm được thiết kế đảm bảo an toàn đúng chuẩn Châu Âu, cùng đội ngũ bảo trì luôn túc trực hỗ trợ.",
+      "en": "Bách Khoa's core customers include domestic and international investors building manufacturing plants, construction general contractors, and homeowners building new homes or renovating to install an elevator. The problem the company solves for clients is safety and peace of mind throughout the product's lifetime: its elevators are designed to European safety standards, backed by a maintenance team always on standby to support customers."
+    },
+    {
+      "key": "referrals",
+      "vi": "Chị Hồng tìm kiếm những kết nối giúp công ty tiếp cận nguồn vốn hỗ trợ của nhà nước dành cho các doanh nghiệp sản xuất đổi mới sáng tạo, cũng như những đối tác cùng chia sẻ tầm nhìn cạnh tranh bằng thực lực và chất lượng thay vì chỉ bằng giá. Referral lý tưởng là các chủ đầu tư, tổng thầu xây dựng, hay chủ nhà đang chuẩn bị lắp đặt thang máy cho công trình mới hoặc cải tạo.",
+      "en": "Hồng is looking for connections that can help the company access state-supported funding for innovative manufacturing enterprises, as well as partners who share her belief in competing through genuine capability and quality rather than price alone. Her ideal referrals are investors, construction general contractors, or homeowners preparing to install elevators in new or renovated buildings."
+    }
+  ]
+}

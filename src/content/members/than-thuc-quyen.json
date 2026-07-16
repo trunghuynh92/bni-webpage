@@ -1,0 +1,75 @@
+{
+  "slug": "than-thuc-quyen",
+  "name": "Thân Thục Quyên",
+  "jobTitle": { "vi": "CEO", "en": "CEO" },
+  "company": "Sanouva Hotel",
+  "industry": { "vi": "Khách sạn – Lưu trú", "en": "Hospitality – Hotels" },
+  "founded": "2009",
+  "phone": "0945 508 888",
+  "email": "qthan@sanouvahotel.com",
+  "tagline": {
+    "vi": "Dịch vụ 4 sao được cá nhân hóa trong một khách sạn boutique ngay trung tâm thành phố — để bạn thấy ấm áp như đang ở nhà giữa một thành phố xa lạ.",
+    "en": "Personalized four-star service in a boutique hotel right in the city centre — so you feel at home even in an unfamiliar city."
+  },
+  "shortName": "Quyên",
+  "callouts": [
+    {
+      "afterKey": "philosophy",
+      "sourceKey": "philosophy",
+      "quote": {
+        "vi": "Xây dựng hệ thống để con người tỏa sáng, và phát triển con người để hệ thống ngày càng tốt hơn.",
+        "en": "Build systems so people can shine, and develop people so the system keeps getting better."
+      }
+    },
+    {
+      "afterKey": "journey",
+      "sourceKey": "journey",
+      "quote": {
+        "vi": "Mình sẽ xây một resort mà ai cũng phải muốn đến, để họ biết Đà Nẵng của tôi đẹp đến nhường nào.",
+        "en": "I want to build a resort everyone longs to visit, so they can see just how beautiful my Đà Nẵng is."
+      }
+    }
+  ],
+  "sections": [
+    {
+      "key": "about",
+      "vi": "Chị Thân Thục Quyên là CEO của Sanouva Hotel, một khách sạn boutique giữa trung tâm thành phố mang đến trải nghiệm dịch vụ chuẩn 4 sao. Lớn lên trong một gia đình kinh doanh lưu trú, Chị theo đuổi triết lý làm dịch vụ được cá nhân hóa cho từng khách hàng, biến mỗi kỳ lưu trú thành cảm giác ấm áp như đang ở nhà. Từ Sanouva tại TP.HCM đến các dự án nghỉ dưỡng tại Đà Nẵng, Chị Quyên là một nữ doanh nhân gắn liền tên tuổi với những mô hình lưu trú tinh tế, chuyên nghiệp và giàu bản sắc.",
+      "en": "Thân Thục Quyên is the CEO of Sanouva Hotel, a boutique hotel in the heart of the city that delivers a genuine four-star service experience. Raised in a family hospitality business, she is devoted to a philosophy of personalized service for every guest, turning each stay into a feeling of being at home. From Sanouva in Ho Chi Minh City to resort projects in Đà Nẵng, Quyên is a businesswoman whose name is tied to refined, professional, and character-rich accommodation models."
+    },
+    {
+      "key": "business",
+      "vi": "Sanouva Hotel mang đến trải nghiệm dịch vụ chuẩn 4 sao trong một khách sạn boutique ngay trung tâm thành phố. Điểm khác biệt lớn nhất nằm ở dịch vụ được cá nhân hóa cho từng khách hàng: thay vì một trải nghiệm khách sạn tiêu chuẩn và đại trà, mỗi khách được chăm sóc theo nhu cầu riêng, để cảm thấy tự tin và thoải mái ngay cả khi ở một thành phố xa lạ.",
+      "en": "Sanouva Hotel offers a four-star service experience within a boutique hotel right in the city centre. Its greatest differentiator is service personalized to each guest: rather than a standard, one-size-fits-all hotel stay, every guest is cared for according to their own needs, so they feel confident and at ease even in an unfamiliar city."
+    },
+    {
+      "key": "journey",
+      "vi": "Hành trình của Chị Quyên bắt nguồn từ chính doanh nghiệp gia đình. Khi còn nhỏ, mỗi mùa hè, mẹ thường đưa cả đại gia đình vào Sài Gòn và chọn những khách sạn 3 sao gần chợ Bến Thành để tiện đi lại. Những khách sạn trên đường Lý Tự Trọng hay Thủ Khoa Huân khi ấy chỉ có phòng ngủ với giường và bàn ghế ở mức cơ bản, khiến Chị nảy ra một câu hỏi: tại sao không xây những khách sạn chất lượng 4-5 sao nhưng ở quy mô nhỏ hơn? Ý tưởng về mô hình boutique ra đời từ đó. Thời gian đầu tiếp quản không hề dễ dàng: sau khi hai đời quản lý (GM) không mang lại kết quả, Chị vấp phải sự hoài nghi từ cả gia đình lẫn đội ngũ khi muốn nâng giá phòng và thay đổi chiến lược kinh doanh — bởi ai cũng cho rằng khách sạn 3 sao thì chỉ bán được đến vậy. Chỉ sau 6 tháng, Chị đã chứng minh điều ngược lại bằng một kế hoạch kinh doanh hiệu quả. Sanouva cũng là một trong những khách sạn 3 sao đầu tiên ký hợp đồng với Agoda, ngay cả khi Agoda mới chỉ có một nhân viên đại diện và chưa có văn phòng tại Việt Nam. Thành công và những đánh giá tích cực từ khách hàng sau đó đã trở thành hình mẫu để nhiều khách sạn khác học theo mô hình kinh doanh trực tuyến. Không dừng lại ở đó, hơn một năm sau thành công của Sanouva, Chị bắt đầu kiến tạo khu nghỉ dưỡng Fusion Maia tại Đà Nẵng — sau này đổi tên thành TIA Wellness Resort — với một khát vọng giản dị mà mãnh liệt: xây một nơi khiến ai cũng muốn đến để thấy Đà Nẵng, quê hương của Chị, đẹp đến nhường nào. Fusion Maia từng là điểm đến của rất nhiều người nổi tiếng và cả những nguyên thủ quốc gia.",
+      "en": "Quyên's journey began within her own family business. As a child, every summer her mother would take the whole extended family to Saigon and, to keep things convenient, choose three-star hotels near Bến Thành market. The hotels along Lý Tự Trọng and Thủ Khoa Huân streets back then offered little more than a bed and basic furniture, which sparked a question in her mind: why not build hotels with four- or five-star quality, but at a smaller scale? That was the seed of the boutique concept. Taking over the business was far from easy: after two successive general managers had failed to deliver results, she met skepticism from both her family and her team when she proposed raising room rates and changing the business strategy — everyone assumed a three-star hotel could only sell for so much. In just six months, she proved them wrong with an effective new business plan. Sanouva was also among the first three-star hotels to sign with Agoda, back when Agoda had only a single representative and no office in Vietnam. Its success and glowing guest reviews soon became a model that other hotels followed into online distribution. She did not stop there: just over a year after Sanouva's success, she set out to create the Fusion Maia resort in Đà Nẵng — later renamed TIA Wellness Resort — driven by one simple yet fierce ambition: to build a place everyone would want to visit, so they could see how beautiful her hometown of Đà Nẵng truly is. Fusion Maia went on to host countless celebrities and even heads of state."
+    },
+    {
+      "key": "achievements",
+      "vi": "Dưới sự dẫn dắt của Chị Quyên, Sanouva ghi nhận sự tăng trưởng doanh thu vững chắc và nâng cao rõ rệt mức độ nhận diện thương hiệu, đồng thời mở rộng chi nhánh ra Đà Nẵng. Chị được đào tạo tại Đại học Oxford và mang về cho khách sạn nhiều giải thưởng uy tín, trong đó có The Guide Award cùng các giải thưởng thuộc hệ thống Agoda Circle Award.",
+      "en": "Under Quyên's leadership, Sanouva has achieved solid revenue growth and a marked rise in brand recognition, while also expanding to Đà Nẵng. Educated at the University of Oxford, she has brought the hotel a number of prestigious honors, including The Guide Award and awards within the Agoda Circle Award program."
+    },
+    {
+      "key": "vision",
+      "vi": "Chị Quyên mong muốn tiếp tục mở rộng mô hình tại TP.HCM và phát triển thêm chi nhánh mới, đưa Sanouva trở thành một trong những khách sạn boutique có vibe riêng, chuyên nghiệp mà ai cũng muốn trải nghiệm ít nhất một lần. Xa hơn, Chị khát khao biến khách sạn thành nơi đào tạo đội ngũ nhân sự đáng tự hào của ngành — không chỉ giỏi chuyên môn và giàu kinh nghiệm, mà còn trưởng thành về tam quan: nhân sinh quan, thế giới quan và vũ trụ quan. Chị muốn xây dựng một môi trường nơi những người trẻ học được nhiều nhất và luôn tự hào khi nhắc đến.",
+      "en": "Quyên hopes to keep expanding her model in Ho Chi Minh City and open new branches, growing Sanouva into a boutique hotel with a distinctive vibe and professionalism that everyone wants to experience at least once. Looking further ahead, she aspires to make the hotel a training ground for talent the industry can be proud of — not only skilled and experienced, but also mature in outlook on life, on the world, and on the wider universe. She wants to build an environment where young people learn the most and always speak of it with pride."
+    },
+    {
+      "key": "philosophy",
+      "vi": "Triết lý của Chị Quyên là xây dựng hệ thống để con người tỏa sáng, và phát triển con người để hệ thống ngày càng tốt hơn. Mọi quyết định đều dựa trên con số, báo cáo và thực tế; nhưng khi liên quan đến con người, Chị luôn thấu hiểu cảm xúc và hoàn cảnh trước khi đưa ra kết luận hài hòa giữa các yếu tố khách quan và chủ quan — chứ không chỉ đúng cho riêng công ty hay riêng mình. Chị xây dựng hệ thống để người bình thường cũng có thể tạo ra kết quả xuất sắc, và tạo môi trường để người xuất sắc phát triển thành nhà lãnh đạo. Với Chị, sự bền vững không đến từ những thành công ngắn hạn, mà được vun đắp bằng chính trực trong từng quyết định, sự tận tâm trong từng trải nghiệm khách hàng, tinh thần học hỏi không ngừng và một đội ngũ cùng phát triển mỗi ngày.",
+      "en": "Quyên's philosophy is to build systems so people can shine, and to develop people so the system keeps getting better. Every decision rests on numbers, reports, and facts; but where people are involved, she first seeks to understand their emotions and circumstances before reaching a conclusion that balances the objective and the subjective — never one that is right only for the company or only for herself. She builds systems that let ordinary people produce outstanding results, and creates an environment where outstanding people grow into leaders. For her, sustainability does not come from short-term wins, but is built through integrity in every decision, dedication in every guest experience, a relentless spirit of learning, and a team that grows together every day."
+    },
+    {
+      "key": "customers",
+      "vi": "Khách hàng của Sanouva là du khách du lịch và công tác trên toàn thế giới, trong độ tuổi từ 16 đến 50. Sanouva không chỉ mang đến một nơi để lưu trú, mà còn mang đến cảm giác tự tin và thoải mái khi ở một thành phố xa lạ nhưng vẫn ấm áp như đang ở nhà. Nhóm khách hàng lý tưởng còn bao gồm các công ty có đối tác, khách hàng đến công tác tại TP.HCM và Đà Nẵng.",
+      "en": "Sanouva's guests are travelers on both leisure and business trips from all over the world, aged 16 to 50. Sanouva offers not just a place to stay, but a sense of confidence and comfort in an unfamiliar city that still feels as warm as home. Its ideal customers also include companies whose partners and clients travel to Ho Chi Minh City and Đà Nẵng for work."
+    },
+    {
+      "key": "referrals",
+      "vi": "Từ BNI, Chị Quyên mong muốn phát triển một đội ngũ chuyên nghiệp và duy trì chất lượng đó mỗi ngày, đồng thời tìm kiếm cơ hội mở rộng địa điểm tại TP.HCM — trong đó có những căn nhà liền kề mà chủ nhà chưa chịu bán. Chị trân trọng những kết nối giá trị: các đối tác và nhà cung cấp trong ngành, những người thầy và cố vấn để cùng học hỏi, cùng những cơ hội hợp tác mới để tiếp tục phát triển.",
+      "en": "From BNI, Quyên hopes to build a professional team and sustain that quality every day, while also seeking opportunities to expand her locations in Ho Chi Minh City — including neighboring properties whose owners have yet to agree to sell. She values meaningful connections: industry partners and suppliers, mentors to keep learning from, and new opportunities to collaborate and grow."
+    }
+  ]
+}

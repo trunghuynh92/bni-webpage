@@ -1,0 +1,75 @@
+{
+  "slug": "nguyen-thi-hong-tiem",
+  "name": "Nguyễn Thị Hồng Tiếm",
+  "jobTitle": { "vi": "CEO", "en": "CEO" },
+  "company": "Công ty TNHH Techhomes Việt Nam",
+  "industry": { "vi": "Phân phối thiết bị bếp gia đình nhập khẩu Châu Âu", "en": "Distribution of imported European kitchen appliances" },
+  "founded": "2018",
+  "phone": "0936 766 769",
+  "email": "tiemhcm2702@gmail.com",
+  "tagline": {
+    "vi": "Giải pháp thiết bị bếp Châu Âu cao cấp, chìa khoá trao tay.",
+    "en": "Turnkey premium European kitchen solutions."
+  },
+  "shortName": "Tiếm",
+  "callouts": [
+    {
+      "afterKey": "business",
+      "sourceKey": "customers",
+      "quote": {
+        "vi": "Khách hàng chỉ cần đưa ra nhu cầu và ngân sách — Techhomes lo trọn phần còn lại, chìa khoá trao tay.",
+        "en": "Clients simply share their needs and budget — Techhomes handles the rest, turnkey."
+      }
+    },
+    {
+      "afterKey": "philosophy",
+      "sourceKey": "philosophy",
+      "quote": {
+        "vi": "Chính trực và tận tâm là điều Techhomes luôn theo đuổi.",
+        "en": "Integrity and dedication are what Techhomes always pursues."
+      }
+    }
+  ],
+  "sections": [
+    {
+      "key": "about",
+      "vi": "Chị Nguyễn Thị Hồng Tiếm là CEO của Techhomes Việt Nam, đơn vị cung cấp thiết bị nhà bếp nhập khẩu Châu Âu từ trung đến cao cấp với các thương hiệu Bosch, Hafele, Teka, Malloca, Smeg và Elica. Chị luôn mong muốn mỗi khách hàng, đối tác khi cần thiết bị bếp trung – cao cấp sẽ nhớ ngay đến Techhomes và Nguyễn Thị Hồng Tiếm.",
+      "en": "Nguyễn Thị Hồng Tiếm is the CEO of Techhomes Việt Nam, a distributor of mid-to-high-end imported European kitchen appliances carrying brands such as Bosch, Hafele, Teka, Malloca, Smeg, and Elica. She wants to be the name every customer and partner remembers first whenever they need mid-to-high-end kitchen appliances — Techhomes and Nguyễn Thị Hồng Tiếm."
+    },
+    {
+      "key": "business",
+      "vi": "Thành lập năm 2018, Techhomes Việt Nam hoạt động trong lĩnh vực cung cấp, lắp đặt và tư vấn giải pháp thiết bị nhà bếp. Điểm khác biệt của Techhomes là giải pháp trọn vẹn: khách hàng chỉ cần đưa ra nhu cầu và ngân sách cho gói thiết bị, Techhomes sẽ tư vấn, cung cấp và lắp đặt theo hình thức chìa khoá trao tay.",
+      "en": "Founded in 2018, Techhomes Việt Nam supplies, installs, and advises on complete kitchen appliance solutions. Its differentiator is a turnkey approach: clients simply state their needs and budget for an appliance package, and Techhomes advises, supplies, and installs it end to end."
+    },
+    {
+      "key": "journey",
+      "vi": "Năm 2010, chị Tiếm từng đi du học Mỹ và nhận thấy tiêu chuẩn nhà bếp ở Mỹ cũng như các nước phương Tây đều có đầy đủ bếp, hút mùi, lò nướng, lò vi sóng, máy rửa chén, máy lọc nước, chậu và vòi. Trong khi đó ở Việt Nam, hầu hết chỉ một vài thành phố lớn như TP Hồ Chí Minh và Hà Nội mới có. Từ đó chị ấp ủ mong muốn giúp người Việt nâng cấp gian bếp của mình, và khi trở về nước, chị từng bước hiện thực hoá ước mơ đó qua Techhomes.",
+      "en": "In 2010, Chị Tiếm studied abroad in the United States, where she saw that kitchens in America and across the West came fully equipped — cooktop, range hood, oven, microwave, dishwasher, water filter, sink, and faucet. In Vietnam, by contrast, such kitchens were found mostly in a few big cities like Ho Chi Minh City and Hanoi. That contrast planted a lasting wish to help Vietnamese families upgrade their kitchens, and after returning home she began realizing that dream, step by step, through Techhomes."
+    },
+    {
+      "key": "achievements",
+      "vi": "Techhomes khởi đầu từ một cửa hàng nhỏ ở quận Phú Nhuận, TP Hồ Chí Minh với hình thức bán hàng online, doanh thu năm 2018 vỏn vẹn 5 tỷ đồng. Đến năm 2025, công ty đã phát triển thành 3 chi nhánh, một kho hàng và hệ thống phân phối online toàn quốc, đạt doanh thu khoảng 80 tỷ đồng mỗi năm. Khách hàng của Techhomes gồm các công ty nội thất, chủ đầu tư và đại lý như Nội Thất Len Decor, hệ thống Highlands Coffee, Acecook, NutiFood. Techhomes hiện là một trong top 5 nhà phân phối thiết bị nhà bếp của các hãng Châu Âu như Bosch, Hafele, Teka, Malloca, Smeg.",
+      "en": "Techhomes began as a small online-selling shop in Phú Nhuận District, Ho Chi Minh City, with revenue of just 5 billion VND in 2018. By 2025, it had grown to 3 branches, a warehouse, and a nationwide online distribution system, reaching around 80 billion VND in annual revenue. Its clients include interior design firms, developers, and dealers such as Len Decor, the Highlands Coffee chain, Acecook, and NutiFood. Techhomes is now one of the top 5 distributors of European kitchen appliance brands including Bosch, Hafele, Teka, Malloca, and Smeg."
+    },
+    {
+      "key": "vision",
+      "vi": "Tầm nhìn 3–5 năm của chị Tiếm là đưa Techhomes vào top 3 nhà phân phối thiết bị nhà bếp được khách hàng Việt Nam biết đến. Chị luôn mong muốn góp phần nâng cao nhận thức của người Việt về tiêu chuẩn cơ bản của một gian bếp, đồng thời hỗ trợ khách hàng có được gian bếp đầy đủ công năng với mức giá hợp lý.",
+      "en": "Over the next 3 to 5 years, Chị Tiếm aims to place Techhomes among the top 3 kitchen appliance distributors known to Vietnamese customers. She wants to help raise awareness of what a well-equipped kitchen should be, while enabling clients to own a fully functional kitchen at a reasonable price."
+    },
+    {
+      "key": "philosophy",
+      "vi": "Chị Tiếm luôn ra quyết định theo hướng giải quyết vấn đề và đảm bảo lợi ích cân bằng cho khách hàng, đối tác và nhân viên. Trong xây dựng đội ngũ, chị chú trọng đào tạo nhân viên bài bản, tạo cơ hội thăng tiến và phát huy năng lực của mỗi người. Với chị, chính trực và tận tâm là những giá trị mà Techhomes luôn theo đuổi.",
+      "en": "Chị Tiếm makes decisions that solve problems while keeping the interests of customers, partners, and employees in balance. In building her team, she emphasizes thorough training, clear paths for advancement, and room for each person to grow. For her, integrity and dedication are the values Techhomes always pursues."
+    },
+    {
+      "key": "customers",
+      "vi": "Khách hàng của Techhomes gồm khách lẻ là chủ nhà phân khúc trung – cao cấp, các công ty nội thất, công ty xây dựng, chủ đầu tư và nhà xưởng. Techhomes cung cấp trọn gói giải pháp thiết bị nhà bếp — từ tư vấn, cung cấp, lắp đặt đến bảo hành. Khách hàng lý tưởng là các công ty, chủ đầu tư và khách lẻ cần thiết bị nhà bếp từ trung đến cao cấp.",
+      "en": "Techhomes serves individual buyers — mid-to-high-end homeowners — as well as interior design firms, construction companies, developers, and industrial facilities. It delivers complete kitchen appliance solutions, from consulting and supply to installation and warranty. The ideal referral is a company, developer, or individual buyer in need of mid-to-high-end kitchen appliances."
+    },
+    {
+      "key": "referrals",
+      "vi": "Tham gia BNI, chị Tiếm mong tìm được đối tác, khách hàng tiềm năng cùng cơ hội học hỏi để mở rộng và phát triển công ty vững mạnh. Hai bài toán lớn nhất hiện nay là phát triển và giữ chân đội ngũ nhân sự có năng lực, và huy động nguồn vốn đối ứng lớn để mở rộng hệ thống phân phối — vì vậy chị cũng đang tìm kiếm những nhà đầu tư tiềm năng đồng hành cùng Techhomes.",
+      "en": "Through BNI, Chị Tiếm hopes to find partners and potential customers, along with opportunities to learn and expand the company on a solid footing. Her two biggest challenges today are developing and retaining capable talent, and raising the significant matching capital needed to grow the distribution network — so she is also looking for potential investors to partner with Techhomes."
+    }
+  ]
+}

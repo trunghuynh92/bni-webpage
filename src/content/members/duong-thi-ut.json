@@ -1,0 +1,75 @@
+{
+  "slug": "duong-thi-ut",
+  "name": "Dương Thị Út",
+  "jobTitle": { "vi": "Giám Đốc", "en": "Director" },
+  "company": "Công ty TNHH TK - TM C.A.D",
+  "industry": { "vi": "Thiết kế – In ấn", "en": "Design & Printing" },
+  "founded": "1996",
+  "phone": "0902 884 435",
+  "email": "thanhhuong.duong09@gmail.com",
+  "tagline": {
+    "vi": "30 năm thiết kế và in ấn — trọn vẹn Uy tín, Chất lượng và Tận tâm.",
+    "en": "30 years of design and printing — built on reputation, quality, and dedication."
+  },
+  "shortName": "Út",
+  "callouts": [
+    {
+      "afterKey": "business",
+      "sourceKey": "philosophy",
+      "quote": {
+        "vi": "Chất lượng – Đúng hẹn – Uy tín: ba giá trị làm nền tảng cho một thương hiệu bền vững.",
+        "en": "Quality, on-time delivery, and reputation: the three values that anchor a lasting brand."
+      }
+    },
+    {
+      "afterKey": "philosophy",
+      "sourceKey": "referrals",
+      "quote": {
+        "vi": "Mỗi sản phẩm in không chỉ là một ấn phẩm, mà là hình ảnh và giá trị thương hiệu của khách hàng.",
+        "en": "Every printed piece is more than a product — it carries the image and value of the client's brand."
+      }
+    }
+  ],
+  "sections": [
+    {
+      "key": "about",
+      "vi": "Chị Dương Thị Út là Giám đốc Công ty TNHH TK - TM C.A.D, một doanh nghiệp với hơn 30 năm hoạt động trong lĩnh vực thiết kế và in ấn. Suốt hơn ba thập kỷ, chị luôn kiên định với những giá trị cốt lõi: Uy tín – Chất lượng – Tận tâm – Đổi mới. Chị tin rằng mỗi sản phẩm in không chỉ là một ấn phẩm hoàn thiện, mà còn đại diện cho hình ảnh, giá trị và thương hiệu của khách hàng. Vì vậy, chị luôn đặt sự chỉn chu trong từng chi tiết, đảm bảo mỗi sản phẩm khi đến tay khách hàng đều đạt chất lượng tốt nhất.",
+      "en": "Dương Thị Út is the Director of C.A.D Design & Trading Co., Ltd., a company with more than 30 years in the design and printing industry. Across more than three decades, she has stayed true to her core values: reputation, quality, dedication, and innovation. She believes that every printed piece is not merely a finished product but a representation of the client's image, value, and brand. That is why she gives careful attention to every detail, ensuring that each product reaches the client at the highest quality."
+    },
+    {
+      "key": "business",
+      "vi": "Thành lập từ năm 1996, công ty của chị Út chuyên cung cấp các giải pháp thiết kế, in ấn và gia công thành phẩm, POSM cùng nhận diện thương hiệu cho doanh nghiệp và cá nhân. Sản phẩm rất đa dạng: bao bì, nhãn mác, catalogue, brochure, tờ rơi, lịch, sổ tay, danh thiếp và các ấn phẩm quảng bá thương hiệu. Điểm khác biệt của chị không chỉ nằm ở 30 năm kinh nghiệm, mà còn ở tư duy đồng hành cùng khách hàng: không chỉ nhận in theo yêu cầu, chị còn tư vấn giải pháp phù hợp về thiết kế, chất liệu, công nghệ và chi phí để mang lại hiệu quả cao nhất. Chị luôn cam kết chất lượng ổn định, giao hàng đúng hẹn, tư vấn tận tâm và giữ chữ tín trong mọi sản phẩm.",
+      "en": "Founded in 1996, Út's company specializes in design, printing, finishing, POSM, and brand identity solutions for businesses and individuals. Its range is broad: packaging, labels, catalogues, brochures, flyers, calendars, notebooks, business cards, and brand promotion materials. What sets her apart is not only 30 years of experience but a mindset of walking alongside her clients — she doesn't simply print to order, she advises on the right solutions for design, materials, technology, and cost to deliver the greatest impact. She consistently commits to stable quality, on-time delivery, dedicated consulting, and keeping her word in every product."
+    },
+    {
+      "key": "journey",
+      "vi": "Từ những ngày đầu với quy mô nhỏ, chị Út luôn kiên trì theo đuổi chất lượng, giữ chữ tín trong từng đơn hàng và xem sự hài lòng của khách hàng là mục tiêu cao nhất. Từng bước một, bằng sự tận tâm, tinh thần học hỏi và không ngừng đổi mới, doanh nghiệp đã phát triển vững vàng, vượt qua nhiều giai đoạn biến động của thị trường. Đến hôm nay, sau hơn ba thập kỷ, điều khiến chị tự hào không chỉ là sự phát triển của công ty mà còn là niềm tin mà khách hàng và đối tác đã dành cho mình. Đó cũng là động lực để chị tiếp tục đổi mới, nâng cao chất lượng và đồng hành cùng khách hàng trên hành trình xây dựng và phát triển thương hiệu.",
+      "en": "From its early days at a small scale, Út has persistently pursued quality, kept her word on every order, and treated customer satisfaction as her highest goal. Step by step, through dedication, a spirit of learning, and constant innovation, the business grew steadily and weathered many turbulent phases of the market. Today, after more than three decades, what makes her proud is not only the company's growth but the trust that clients and partners have placed in her. That trust is the driving force for her to keep innovating, raising quality, and accompanying clients on the journey of building and growing their brands."
+    },
+    {
+      "key": "achievements",
+      "vi": "Thành tựu lớn nhất của chị Út là duy trì và phát triển doanh nghiệp bền vững suốt hơn 30 năm trong ngành thiết kế và in ấn — một lĩnh vực cạnh tranh và thay đổi không ngừng. Trong hơn ba thập kỷ hoạt động, chị đã xây dựng được uy tín với nhiều khách hàng và đối tác, trở thành đơn vị được tin tưởng nhờ chất lượng sản phẩm, tiến độ giao hàng và tinh thần trách nhiệm. Nhiều khách hàng đã đồng hành cùng chị trong nhiều năm, xem chị là đối tác lâu dài trong các giải pháp thiết kế và in ấn.",
+      "en": "Út's greatest achievement is sustaining and growing her business for more than 30 years in the design and printing industry — a field that is fiercely competitive and constantly changing. Over three decades, she has earned a strong reputation with many clients and partners, becoming a trusted provider thanks to product quality, delivery reliability, and a sense of responsibility. Many clients have stayed with her for years, regarding her as a long-term partner for their design and printing needs."
+    },
+    {
+      "key": "vision",
+      "vi": "Với nền tảng hơn 30 năm kinh nghiệm, chị Út đặt mục tiêu xây dựng một thương hiệu phát triển bền vững — lấy uy tín làm nền tảng, chất lượng làm cam kết, đổi mới làm động lực và khách hàng làm trung tâm. Chị mong muốn trở thành đối tác lâu dài của doanh nghiệp, góp phần nâng cao giá trị thương hiệu thông qua những sản phẩm in chất lượng cao và các giải pháp truyền thông trực quan hiệu quả.",
+      "en": "On a foundation of more than 30 years of experience, Út aims to build a sustainably growing brand — with reputation as its footing, quality as its promise, innovation as its driving force, and the customer at its center. She wants to be a long-term partner to businesses, helping elevate their brand value through high-quality printed products and effective visual communication solutions."
+    },
+    {
+      "key": "philosophy",
+      "vi": "Với chị Út, triết lý kinh doanh trong ngành in không chỉ là \"in đẹp, in nhanh, chất lượng\", mà là tạo ra giá trị và sự tin cậy cho khách hàng. Một triết lý rõ ràng sẽ giúp doanh nghiệp định hướng cách phục vụ và phát triển. Trong ngành in, ba giá trị cốt lõi được khách hàng đánh giá cao nhất là: Chất lượng – Đúng hẹn – Uy tín. Giữ vững ba yếu tố này chính là nền tảng để phát triển bền vững và xây dựng thương hiệu lâu dài.",
+      "en": "For Út, a business philosophy in the printing industry is not just \"print beautifully, print fast, print well\" — it is about creating value and trust for the client. A clear philosophy guides how a business serves and grows. In printing, the three core values clients prize most are quality, on-time delivery, and reputation. Holding firm to these three is the foundation for sustainable growth and building a lasting brand."
+    },
+    {
+      "key": "customers",
+      "vi": "Khách hàng lý tưởng của chị Út là các doanh nghiệp vừa và nhỏ; các công ty sản xuất, thương mại và dịch vụ; các đơn vị tổ chức sự kiện; cùng resort, trường học và những tổ chức có nhu cầu in ấn thường xuyên.",
+      "en": "Út's ideal clients are small and medium-sized enterprises; manufacturing, trading, and service companies; event organizers; as well as resorts, schools, and organizations with regular printing needs."
+    },
+    {
+      "key": "referrals",
+      "vi": "Sau hơn 30 năm hoạt động, thách thức lớn nhất của chị Út không còn là năng lực sản xuất mà là thích ứng với sự thay đổi nhanh của thị trường. Nhu cầu của khách hàng ngày càng đa dạng, đòi hỏi giao hàng nhanh hơn, chất lượng cao hơn và giá thành cạnh tranh hơn; sự phát triển của công nghệ số cùng cạnh tranh về giá buộc doanh nghiệp ngành in phải liên tục đổi mới để tạo ra giá trị khác biệt. Điều chị mong muốn nhất khi tham gia BNI là xây dựng những mối quan hệ kinh doanh bền vững dựa trên sự tin tưởng và cùng nhau tạo ra giá trị. Chị kỳ vọng được kết nối với các doanh nghiệp có cùng tinh thần hợp tác, mở rộng mạng lưới đối tác và nhận được những lời giới thiệu chất lượng để phát triển khách hàng mới.",
+      "en": "After more than 30 years, Út's greatest challenge is no longer production capacity but adapting to the rapid pace of market change. Customer needs grow ever more varied, demanding faster delivery, higher quality, and more competitive pricing; the rise of digital technology and price competition push printing businesses to keep innovating in order to create distinctive value. What she wants most from joining BNI is to build lasting business relationships grounded in trust and shared value creation. She hopes to connect with businesses that share a spirit of collaboration, expand her partner network, and receive quality referrals to grow her customer base."
+    }
+  ]
+}
