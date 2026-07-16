@@ -20,6 +20,14 @@
         "vi": "Thông qua giao tiếp đúng cách, chúng ta sẽ có một cuộc sống hạnh phúc và sung túc hơn.",
         "en": "Through communicating the right way, we can live a happier and more fulfilling life."
       }
+    },
+    {
+      "afterKey": "philosophy",
+      "sourceKey": "philosophy",
+      "quote": {
+        "vi": "Trồng người là một hành trình cần có thời gian và sự kiên nhẫn — không đánh đổi chất lượng lấy những giá trị ngắn hạn.",
+        "en": "Nurturing people is a journey that takes time and patience — we never trade quality for short-term gains."
+      }
     }
   ],
   "sections": [
@@ -30,8 +38,8 @@
     },
     {
       "key": "business",
-      "vi": "NÓI Academy hoạt động trong lĩnh vực đào tạo Nghệ thuật NÓI và Phong cách sống, tập trung vào kỹ năng giao tiếp và kỹ năng thuyết trình. Điểm khác biệt nằm ở chiều sâu: thay vì chỉ dừng lại ở những kỹ thuật bề nổi, đội ngũ hướng đến giá trị cốt lõi của việc giao tiếp đúng cách, để mỗi khoá học thực sự có CHẤT và mang lại thay đổi bền vững cho người học.",
-      "en": "NÓI Academy works in training on the Art of Speaking and lifestyle, focusing on communication and public-speaking skills. Its difference lies in depth: rather than stopping at surface-level techniques, the team goes after the core value of communicating the right way, so that every course has real substance and brings lasting change to learners."
+      "vi": "Công ty TNHH Tròn Vuông Việt Nam (NÓI Academy) được thành lập vào tháng 4 năm 2025, hoạt động trong lĩnh vực đào tạo Nghệ thuật NÓI và Phong cách sống. Sản phẩm đặc biệt nhất là khoá Phong Cách Doanh Nhân — giúp chủ doanh nghiệp không chỉ có phong thái giao tiếp tự tin hơn mà còn xây dựng được một thương hiệu cá nhân vững chắc. NÓI Academy sở hữu phương pháp C.O.R.E độc quyền, giúp học viên hiểu rõ công thức giao tiếp với người đối diện. Với anh Quang Bảo, giao tiếp không chỉ là một kỹ năng mà là một năng lực hoàn toàn có thể xây dựng được nếu hiểu rõ các phương pháp cốt lõi. Điểm khác biệt lớn nhất: NÓI Academy là đơn vị duy nhất có đội ngũ giảng viên trải qua khoá huấn luyện phương pháp sư phạm trước khi đứng lớp, đảm bảo tính đồng bộ về chất lượng cho giáo trình và giáo án.",
+      "en": "Tròn Vuông Việt Nam Co., Ltd (NÓI Academy) was founded in April 2025 and works in training on the Art of Speaking and lifestyle. Its flagship offering is the Entrepreneur's Presence course — helping business owners not only communicate with greater confidence but also build a solid personal brand. NÓI Academy has developed its proprietary C.O.R.E method, which helps learners understand the formula for communicating with the person in front of them. For Quang Bảo, communication is not merely a skill but a capability anyone can build, provided they understand its core methods. The biggest difference: NÓI Academy is the only provider whose instructors complete pedagogical training before ever teaching a class, ensuring consistent quality across every curriculum and lesson plan."
     },
     {
       "key": "journey",
@@ -39,9 +47,29 @@
       "en": "Quang Bảo saw a market for communication and speaking skills that had plenty of quantity but little substance — an abundance of courses on surface techniques, yet a shortage of core value. He and his team felt they needed to do something so that people would not waste their money, and they began with a simple belief: through communicating the right way, we can live a happier and more fulfilling life."
     },
     {
+      "key": "achievements",
+      "vi": "Chỉ sau hơn một năm, NÓI Academy đã đào tạo cho hơn 150 chủ doanh nghiệp và gần 2.000 học viên ở mọi độ tuổi. Học viện cũng đồng hành cùng nhiều doanh nghiệp lớn trong việc đào tạo giao tiếp cho các quản lý cấp cao, trong đó có VinFast, Manulife, Generali, Sacombank Jewelry và Oriflame.",
+      "en": "In just over a year, NÓI Academy has trained more than 150 business owners and nearly 2,000 learners of all ages. The academy has also partnered with major enterprises to train senior managers in communication, including VinFast, Manulife, Generali, Sacombank Jewelry, and Oriflame."
+    },
+    {
+      "key": "vision",
+      "vi": "Anh Quang Bảo dự định mở thêm chi nhánh tại TP. Hồ Chí Minh và Hà Nội, đưa NÓI Academy đến gần hơn với học viên trên cả nước. Xa hơn, anh theo đuổi một mục tiêu lớn: góp phần xây dựng một thế giới hạnh phúc hơn, với niềm tin xuyên suốt rằng thông qua giao tiếp đúng cách, mỗi người sẽ có một cuộc sống hạnh phúc và sung túc hơn.",
+      "en": "Quang Bảo plans to open additional branches in Ho Chi Minh City and Hanoi, bringing NÓI Academy closer to learners across the country. Looking further ahead, he pursues a larger goal: to help build a happier world, guided throughout by the belief that through communicating the right way, everyone can live a happier and more fulfilling life."
+    },
+    {
+      "key": "philosophy",
+      "vi": "Ở mọi vị trí, mọi quyết định của anh Quang Bảo đều hướng đến một điều: giúp học viên giao tiếp tốt hơn để có một cuộc sống hạnh phúc hơn. Đội ngũ giảng viên của NÓI Academy được xây dựng quanh ba giá trị — Tự Tin, Quyến Rũ và Khiêm Nhường. Ban lãnh đạo thì luôn kiên định với một nguyên tắc: trồng người là một hành trình cần có thời gian và sự kiên nhẫn, không đánh đổi chất lượng lấy những giá trị ngắn hạn.",
+      "en": "In every role and every decision, Quang Bảo aims at one thing: helping learners communicate better so they can live happier lives. NÓI Academy's faculty is built around three values — Confidence, Charisma, and Humility. Its leadership holds firmly to one principle: nurturing people is a journey that takes time and patience, and quality is never traded for short-term gains."
+    },
+    {
+      "key": "customers",
+      "vi": "Tại BNI, anh Quang Bảo hướng đến khách hàng là các chủ doanh nghiệp và tổ chức. NÓI Academy không chỉ giúp học viên tự tin để NÓI tốt hơn, mà còn giúp họ xây dựng một thương hiệu cá nhân đúng và vững chắc hơn. Khách hàng lý tưởng là các chủ doanh nghiệp SME, cùng các HRD, HRBP và Trưởng phòng Đào tạo của những tập đoàn, tổ chức lớn.",
+      "en": "At BNI, Quang Bảo focuses on business owners and organizations as his customers. NÓI Academy helps learners not only speak with confidence but also build a genuine, solid personal brand. His ideal customers are SME business owners, along with HRDs, HRBPs, and Learning & Development managers at large corporations and organizations."
+    },
+    {
       "key": "referrals",
-      "vi": "Anh Quang Bảo mong muốn được kết nối với các Chủ Doanh nghiệp, cùng các HRD, HRBP và Trưởng phòng Đào tạo — những người có thể đồng hành cùng NÓI Academy trong việc mang các chương trình đào tạo kỹ năng giao tiếp và phong cách sống đến với đội ngũ và tổ chức của mình.",
-      "en": "Quang Bảo is looking to connect with business owners, along with HRDs, HRBPs, and Learning & Development managers — people who can partner with NÓI Academy to bring its communication and lifestyle training programs to their teams and organizations."
+      "vi": "Thương hiệu NÓI Academy mới hơn một năm tuổi nên chưa có độ phủ rộng, và việc triển khai đồng loạt nhiều sản phẩm cho nhiều nhóm đối tượng — từ khách hàng doanh nghiệp, người đi làm văn phòng, đến các sản phẩm giao tiếp dành cho Kids và Teen — cũng là một thách thức lớn. Vì vậy, anh Quang Bảo mong muốn được kết nối với các chủ doanh nghiệp cùng các HRD, HRBP và Trưởng phòng Đào tạo — những người có thể đồng hành cùng NÓI Academy trong việc mang các chương trình đào tạo kỹ năng giao tiếp và phong cách sống đến với đội ngũ và tổ chức của mình.",
+      "en": "The NÓI Academy brand is just over a year old and does not yet have wide reach, and rolling out many products for many audiences at once — enterprise clients, office professionals, and communication programs for kids and teens — is a significant challenge. Quang Bảo is therefore looking to connect with business owners along with HRDs, HRBPs, and Learning & Development managers — people who can partner with NÓI Academy to bring its communication and lifestyle training programs to their teams and organizations."
     }
   ]
 }
