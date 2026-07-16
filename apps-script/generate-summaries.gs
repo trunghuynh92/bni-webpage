@@ -19,7 +19,15 @@
  *      - Set SPREADSHEET_ID to your sheet's ID (from its URL)
  *   Then set OUTPUT_FOLDER_ID (optional) and run generateMemberSummaries().
  *   Authorize when prompted. Check the output folder in Drive.
+ *
+ * COEXISTS WITH OTHER FILES: every .gs file in an Apps Script project shares
+ * one global scope, so everything below is wrapped in a namespace
+ * (MemberSummaryTool). Only that name plus the runnable entry point
+ * generateMemberSummaries() (at the very bottom) leak to global scope — so
+ * nothing here collides with questionnaire.gs, card-generator.gs, etc.
  */
+
+var MemberSummaryTool = (function () {
 
 // ============ CONFIG ============
 var SPREADSHEET_ID   = '';               // '' = use the active/bound spreadsheet
@@ -54,9 +62,9 @@ var QUESTION_SECTIONS = [
 ];
 
 /**
- * MAIN — run this.
+ * MAIN
  */
-function generateMemberSummaries() {
+function run() {
   var ss = SPREADSHEET_ID ? SpreadsheetApp.openById(SPREADSHEET_ID)
                           : SpreadsheetApp.getActiveSpreadsheet();
   var sheet = ss.getSheetByName(SHEET_NAME) || ss.getSheets()[0];
@@ -278,4 +286,15 @@ function toSlug(str) {
   s = s.replace(/[^\u0000-\u007f]/g, function (c) { return map[c] || ''; });
   s = s.replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
   return s || 'member';
+}
+
+// Public surface — only this leaks to the shared global scope.
+return { run: run };
+})();
+
+/**
+ * Runnable entry point — pick this in the Apps Script "Run" menu.
+ */
+function generateMemberSummaries() {
+  MemberSummaryTool.run();
 }
